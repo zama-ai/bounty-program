@@ -71,7 +71,7 @@ We review all submissions at the end of the quarter to decide who gets the bount
 You can either write us at: bounty@zama.ai or ping us on the dedicated discord channel [here](https://discord.fhe.org).
 
 ### Terms and Conditions
-Terms and conditions for [individuals](https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f) and for [companies](https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f).
+You can find the full terms and conditions for [individuals](https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f) and for [companies](https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f).
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
@@ -87,4 +87,4 @@ Our bounty committee is responsible for everything from accepting your initial b
 - Email: bounty@zama.ai
 - Official discord channel for live discussion: [discord.fhe.org](https://discord.fhe.org).
 - Community forum: [community.zama.ai/bounty-program](https://community.zama.ai).
-- Read [Zama's Bounty Program announcement blog post](https://zama.ai/blog).
+- Read [Zama's Bounty Program announcement blog post]([https://zama.ai/blog/](https://www.zama.ai/post/launching-the-zama-bounty-program)).
