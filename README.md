@@ -64,9 +64,6 @@ Do you want to contribute with something that is not part of an existing bounty?
 ### How often new bounties are added to the list?
 The list of bounties is updated every quarter. Season 0 was launched during Q4-2022.
 
-### What if my submission includes code that is patented?
-We usually encourage to submit code that is not patented. That said, we understand the difficulty of evaluating if a piece of code includes patents or not. We invite you to read our terms and conditions and to contact us if anything is unclear or if you have any more questions at: bounty@zama.ai.
-
 ### How long will it take to get my submission reviewed?
 We review all submissions at the end of the quarter to decide who gets the bounties.
 
