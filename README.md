@@ -70,8 +70,8 @@ We review all submissions at the end of the quarter to decide who gets the bount
 ### I have more questions, where can I contact the Zama team?
 You can either write us at: bounty@zama.ai or ping us on the dedicated discord channel [here](https://discord.fhe.org).
 
-### About our Terms and Conditions
-While we encourage anyone to contribute to our bounty program, terms and conditions are different for [individuals](https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f) and [companies](https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f).
+### Terms and Conditions
+Terms and conditions for [individuals](https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f) and for [companies](https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f).
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
