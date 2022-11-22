@@ -21,9 +21,9 @@
 </p>
 
 # Overview
-Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start <b>this experimental</b> program to encourage anyone from the community to help us move the space forward.
+Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
-We currently have bounties for:
+We currently have bounties in:
 - [Cryptography](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Cryptography)
 - [Engineering](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Engineering)
 - [FPGA](https://github.com/zama-ai/bounty-program/tree/main/Bounties/FPGA)
@@ -33,22 +33,22 @@ We currently have bounties for:
 
 # Bounty types
 ## Easy Bounties
-Bounties of €500-€5,000 are available to support contributors who are willing to help us improve our documentations, resources and libraries in order to better the Zama developer experience. These easy bounties are mostly for students, independant developers or researchers and can take the form of (but not only):
-- The creation of a tutorial or an application with one of our library
+Bounties of €500-€5,000 are available to contributors who are willing to help us improve our documentation, resources, and libraries in order to better the Zama developer experience. These easy bounties are mostly aimed at students, independent developers, or researchers and can take the form of (but not exclusively):
+- The creation of a tutorial or an application with one of our libraries
 - The identification of a minor issue
 - A contribution to our documentation
 
 ## Expert Bounties
-Bounties of €5,000-€50,000 are available to support contributors who identify and resolve major issues or for any significant contribution that will help us move the FHE space forward. These hard bounties are mostly for experienced researchers, and can take the form of (but not only):
-- A timing attack on our cryptographic library
+Bounties of €5,000-€50,000 are available to contributors who identify and resolve major issues, or for any significant contribution that will help us move the FHE space forward. These harder bounties are aimed at experienced researchers and developers and can take the form of (but not exclusively):
+- A timing attack on one of our cryptographic libraries
 - The identification of a major issue or vulnerability
-- A significant contribution to one of our library
+- A significant contribution to one of our libraries
 
 ## Moonshot Bounties
-Bounties of €50,000+ are available to support contributors who will submit major breakthrough.
+Bounties of €50,000+ are available to contributors who submit a major breakthrough.
 
 ## Open Bounties
-Do you want to contribute with something that is not part of an existing bounty? We are always open to suggestions, contact us at: bounty@zama.ai
+Do you want to contribute something that is not part of an existing bounty? We are always open to suggestions, so contact us at: bounty@zama.ai
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
@@ -56,12 +56,12 @@ Do you want to contribute with something that is not part of an existing bounty?
 - 1️⃣ Start by reading our full list of bounties available [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties).
 - 2️⃣ Found a bounty that you'd like to work on? Apply directly [here](https://zama.ai/bounty-program-application).
 - 3️⃣ Join the discussion on our dedicated discord channel [here](https://discord.fhe.org).
-- 4️⃣ Our team will carefully review your applications and get back to you.
+- 4️⃣ Our team will carefully review your application and get back to you.
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
 # FAQ
-### How often new bounties are added to the list?
+### How often are new bounties added to the list?
 The list of bounties is updated every quarter. Season 0 was launched during Q4-2022.
 
 ### How long will it take to get my submission reviewed?
@@ -76,7 +76,7 @@ You can find the full terms and conditions for [individuals](https://powerforms.
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
 # Bounty program committee
-Our bounty committee is responsible for everything from accepting your initial bounty application, review your code, merge your final PR and get your your well deserved reward. We selected a broad range of Zama team members and external reviewers to ensure that the process is as fair, fast and smooth as possible.
+Our bounty committee is responsible for everything from accepting your initial bounty application to reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members and external reviewers to ensure that the process is as fair, fast, and smooth as possible.
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
