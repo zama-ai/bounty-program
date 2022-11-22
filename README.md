@@ -87,4 +87,4 @@ Our bounty committee is responsible for everything from accepting your initial b
 - Email: bounty@zama.ai
 - Official discord channel for live discussion: [discord.fhe.org](https://discord.fhe.org).
 - Community forum: [community.zama.ai/bounty-program](https://community.zama.ai).
-- Read [Zama's Bounty Program announcement blog post]([https://zama.ai/blog/](https://www.zama.ai/post/launching-the-zama-bounty-program)).
+- Read [Zama's Bounty Program announcement blog post]([https://zama.ai/blog/](https://www.zama.ai/post/launching-the-zama-bounty-program).
