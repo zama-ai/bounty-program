@@ -53,7 +53,7 @@ Do you want to contribute with something that is not part of an existing bounty?
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
 # How to participate?
-- 1️⃣ Start by reading our full list of bounties available [here](https://github.com/zama-ai/bounty-program/tree/main/bounties).
+- 1️⃣ Start by reading our full list of bounties available [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties).
 - 2️⃣ Found a bounty that you'd like to work on? Apply directly [here](https://zama.ai/bounty-program-application).
 - 3️⃣ Join the discussion on our dedicated discord channel [here](https://discord.fhe.org).
 - 4️⃣ Our team will carefully review your applications and get back to you.
