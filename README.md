@@ -23,15 +23,16 @@
 # Overview
 Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
+![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
+
+# Bounty types
+
 We currently have bounties in:
 - [Cryptography](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Cryptography)
 - [Engineering](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Engineering)
 - [FPGA](https://github.com/zama-ai/bounty-program/tree/main/Bounties/FPGA)
 - [Machine Learning](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Machine%20Learning)
 
-![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
-
-# Bounty types
 ## Easy Bounties
 Bounties of €500-€5,000 are available to contributors who are willing to help us improve our documentation, resources, and libraries in order to better the Zama developer experience. These easy bounties are mostly aimed at students, independent developers, or researchers and can take the form of (but not exclusively):
 - The creation of a tutorial or an application with one of our libraries
