@@ -53,6 +53,23 @@ Time per PBS single-thread (avx512): 18.396 ms
 ```
 You should compare timings by multiplying the above by the number of messages you can bootstrap at the same time.
 
+#### Potential Approaches
+
+Initial directions could include:
+
+
+1. Looking at the steps of the trivial solution (listed above) and attempting to improve their performance individually. For example, improving the re-packing technique.
+2. Following the approach of B/FV and BGV to perform bootstrapping [1,2]. Their approach is to move the coefficients into the slots of the ciphertext to be able to perform the modular reduction or digit extraction (as would be the case for TFHE) procedure needed when performing decryption homomorphically. With the parameters used in TFHE there are no slots. However, this problem could be overcome by bootstrapping slightly more data than the plaintext bits by simply considering the ciphertext to have an artificial plaintext modulus that is larger and of an appropriate form at the loss of some space for the noise growth.
+    
+    A further problem is that the process of performing modular reduction or digit extraction on the slots requires evaluating relatively large degree polynomials. For B/FV and BGV in which the parameters are very large this is feasible. However, for TFHE we typically have much smaller parameters meaning that switching to use much larger parameters (for the outer ciphertexts) to perform the homomorphic decryption would presumably incur a noticeable slow down relative to the amount of data being bootstrapped.
+    
+3. The techniques of [3] should be applicable to TFHE, but it is unclear if they give any practical improvement. The main challenge seems to be to find a way to replace the internal product used in FHEW [4] with the external product used in TFHE. An orthogonal route to improving the practical performance of [3] could be to find multiplication algorithms for polynomials better suited for evaluation using homomorphic accumulators. 
+
+[1] https://eprint.iacr.org/2014/873</br>
+[2] https://eprint.iacr.org/2018/067</br>
+[3] https://eprint.iacr.org/2018/532</br>
+[4] https://eprint.iacr.org/2014/816</br>
+
 #### Validity of the solutions proposed 
 A valid submission contains the following:
  * A PDF format (using LaTeX) document, describing in detail the solution proposed;
