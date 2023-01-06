@@ -23,6 +23,14 @@
 # Overview
 Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
+<!-- Dates -->
+### Important dates
+- <b>Session 1</b>: November 22nd, 2022 -> January 6th, 2023
+- <b>Submission deadline</b>: January 6th, 2023 at midnight.
+- <b>Session 2</b>: starts on Thursday 12th, 2023 -> April 7th, 2023.
+- <b>Submission deadline</b>: April 7th, 2023 at midnight.
+- <b>Session 3</b>: to be announced.
+
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
 # Bounty types
