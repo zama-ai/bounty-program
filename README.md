@@ -27,7 +27,7 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 ### Important dates
 - <b>Session 1</b>: November 22nd, 2022 -> January 6th, 2023
 - <b>Submission deadline</b>: January 6th, 2023 at midnight.
-- <b>Session 2</b>: starts on Thursday 12th, 2023 -> April 7th, 2023.
+- <b>Session 2</b>: starts on Wednesday 18th, 2023 -> April 7th, 2023.
 - <b>Submission deadline</b>: April 7th, 2023 at midnight.
 - <b>Session 3</b>: to be announced.
 
