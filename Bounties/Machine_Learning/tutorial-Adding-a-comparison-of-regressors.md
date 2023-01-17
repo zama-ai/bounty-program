@@ -18,7 +18,7 @@ We expect from you:
 [Easy bounty](https://github.com/zama-ai/bounty-program#easy-bounties)
 
 ## Reward
-€500
+Up to €500
 
 ## Related links and references
 - [Equivalent task for classifiers](https://github.com/zama-ai/concrete-ml/tree/release/0.5.x/docs/advanced_examples/ClassifierComparison.ipynb)
