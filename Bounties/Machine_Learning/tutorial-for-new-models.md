@@ -27,7 +27,7 @@ If one needs to modify the library to have the tutorial, it is ok, but then, rul
 [Easy bounty](https://github.com/zama-ai/zama-bounty-program#easy-bounties)
 
 ## Reward
-€500 per tutorial
+Up to €500 per tutorial
 
 ## Related links and references
 - [Concrete-ML Linear Regression tutorial](https://github.com/zama-ai/concrete-ml/blob/release/0.5.x/docs/advanced_examples/LinearRegression.ipynb)
