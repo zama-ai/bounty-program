@@ -32,7 +32,7 @@ We expect your PR to comply with the following:
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
 
 ## Reward
-€10,000
+Up to €10,000
 
 ## Related links and references
 - [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
