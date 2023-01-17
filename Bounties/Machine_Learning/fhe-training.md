@@ -33,8 +33,8 @@ In term of deliverables, we expect:
 [Moonshot bounty](https://github.com/zama-ai/zama-bounty-program#moonshot-bounties)
 
 ## Reward
-- €50,000 for a CIFAR10 classifier
-- €100,000 for an Imagenet classifier
+- Up to €50,000 for a CIFAR10 classifier
+- Up to €100,000 for an Imagenet classifier
 
 ## Related links and references
 - [About ImageNet](https://www.image-net.org/index.php)
