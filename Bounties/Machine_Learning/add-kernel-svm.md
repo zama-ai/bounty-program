@@ -29,7 +29,7 @@ You can also change / add things in Concrete-Numpy, as soon as tests are not bro
 [Expert bounty](https://github.com/zama-ai/zama-bounty-program#expert-bounties)
 
 ## Reward
-€5,000
+Up to €5,000
 
 ## Related links and references
 - [Scikit-Learn SVM SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
