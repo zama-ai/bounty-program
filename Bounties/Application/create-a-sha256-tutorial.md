@@ -1,7 +1,5 @@
 # Create a SHA256 tutorial for Concrete Numpy
-
-## Category
-`Software`
+`Application`
 
 ## Overview
 Create a tutorial demonstrating how to develop a SHA256 in concrete Numpy
