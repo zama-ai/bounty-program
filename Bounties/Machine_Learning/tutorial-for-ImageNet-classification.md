@@ -1,5 +1,5 @@
 # Run inference in FHE for ImageNet
-`Tutorial` `Software` `Concrete-ML`
+`Machine Learning`
 
 ## Overview
 Running inference in FHE for an ImageNet classifier
