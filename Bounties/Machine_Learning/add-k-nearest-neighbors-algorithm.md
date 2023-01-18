@@ -1,5 +1,5 @@
 # Add k-nearest neighbors algorithm in Concrete-ML
-`Software` `Concrete-ML` 
+`Machine Learning` 
 
 ## Overview
 Add k-nearest neighbors algorithm in Concrete-ML
