@@ -1,5 +1,5 @@
 # Compare regressors with Concrete-ML
-`Tutorial` `Concrete-ML`
+`Machine Learning`
 
 ## Overview
 Comparison of regressors available in Concrete-ML
