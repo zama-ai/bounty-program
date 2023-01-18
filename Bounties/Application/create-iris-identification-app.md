@@ -1,7 +1,5 @@
 # Develop an HE-based iris identification example with Concrete Numpy
-
-## Category
-`Software`
+`Application`
 
 ## Overview
 Design an iris recognition biometric template protection schemes based on Homomorphic Encryption
