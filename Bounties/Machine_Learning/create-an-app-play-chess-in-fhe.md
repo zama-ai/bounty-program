@@ -1,5 +1,5 @@
 # Create an application "Play Chess" in FHE with Concrete-ML
-`Production` `Concrete-ML`
+`Machine Learning`
 
 ## Overview
 Create an application that plays Chess against an AI oponent. Your moves should be encrypted with FHE so that the AI doesn't see them but can still run its algorithm on them.
