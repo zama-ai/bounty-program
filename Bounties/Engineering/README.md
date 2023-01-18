@@ -7,4 +7,3 @@
 - [Add bitwise operation in Concrete Numpy](../Solved/add-bitwise-operations.md)
 - [Add bitwise shift operation in Concrete Numpy](../Solved/add-bitwise-shift-operations.md)
 - [Add comparison operation in Concrete Numpy](../Solved/add-comparison-operations.md)
-- [Create a Key value database example in Concrete Numpy](../Solved/create-key-value-database-app.md)
