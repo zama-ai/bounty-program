@@ -1,7 +1,7 @@
 # Add comparison operations in Concrete Numpy
 
 ## Category
-`Software`
+`Engineering`
 
 ## Overview
 
