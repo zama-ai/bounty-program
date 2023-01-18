@@ -8,7 +8,7 @@
     </a>
   <!-- Discord server badge using shields.io -->
   <a href="https://discord.fhe.org">
-   <img src="https://img.shields.io/discord/901152454077452399?color=blueviolet&style=flat-square&label=Discord&logo=discord&logoColor=white">
+   <img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white">
   </a>
   <!-- Community forum badge using shields.io -->
   <a href="https://community.zama.ai">
@@ -16,7 +16,7 @@
   </a>
   <!-- Follow on twitter badge using shields.io -->
   <a href="https://twitter.com/zama_fhe">
-    <img src="https://img.shields.io/twitter/follow/zama_fhe?color=blue&style=flat-square">
+    <img src="https://img.shields.io/twitter/follow/zama_fhe?color=1DA1F2&style=flat-square">
   </a>
 </p>
 
@@ -91,7 +91,7 @@ Our bounty committee is responsible for everything from accepting your initial b
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
 # Zama bounty program process summarized
-<img src="https://user-images.githubusercontent.com/5758427/200830399-dec1745d-65f4-4061-8f5d-1aff52dc7e01.png">
+![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/213168034-78f33254-8a9c-40af-9455-d297e8ce3464.png)
 
 ## Additional information
 - Email: bounty@zama.ai
