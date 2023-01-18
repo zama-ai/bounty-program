@@ -1,5 +1,5 @@
 # Create a tutorial for new models with Concrete-ML
-`Tutorial` `Concrete-ML`
+`Machine Learning`
 
 ## Overview
 Create tutorials for various models available in Concrete-ML
