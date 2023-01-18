@@ -1,5 +1,5 @@
 # Create a new hugging face space using Concrete-ML for facial recognition
-`Hugging Face` `Concrete-ML`
+`Machine Learning`
 
 ## Overview
 Create a new Hugging Face Space demonstrating how to do facial recognition in FHE, using Concrete-ML.
