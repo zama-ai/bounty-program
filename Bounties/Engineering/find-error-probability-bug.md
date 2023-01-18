@@ -1,7 +1,5 @@
 # Find an error probability bug in Concrete Numpy
-
-## Category
-`Bug hunting` `Cryptography`
+`Engineering`
 
 ## Overview
 Find an Error probability bug in Concrete Numpy.
