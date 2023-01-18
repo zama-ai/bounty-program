@@ -36,7 +36,7 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 # Bounty types
 
 We currently have bounties in:
-- [Cryptography](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Cryptography)
+- [Research](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Research)
 - [Engineering](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Engineering)
 - [FPGA](https://github.com/zama-ai/bounty-program/tree/main/Bounties/FPGA)
 - [Machine Learning](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Machine_Learning)
