@@ -1,5 +1,5 @@
 # Add KernelSVM algorithm in Concrete-ML.
-`Software` `Concrete-ML` 
+`Machine Learning`
 
 ## Overview
 Add KernelSVM algorithm in Concrete-ML.
