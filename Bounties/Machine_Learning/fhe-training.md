@@ -1,5 +1,5 @@
 # Train a deep neural network in FHE that can classify CIFAR10 or ImageNet
-`Software` `Concrete-ML`
+`Machine Learning`
 
 ## Overview
 Classification of ImageNet in FHE
