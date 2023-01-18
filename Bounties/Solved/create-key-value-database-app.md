@@ -1,7 +1,7 @@
 # Create a FHE encrypted key-value database example with Concrete Numpy
 
 ## Category
-`Software`
+`Engineering`
 
 ## Overview
 Create a FHE key-value database with Concrete-Numpy
