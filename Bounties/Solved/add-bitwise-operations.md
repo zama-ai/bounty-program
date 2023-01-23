@@ -1,6 +1,10 @@
 # Add bitwise operations in Concrete Numpy
 `Engineering`
 
+## Solution
+
+> **Note** - Solution to this bounty will be added here once the PR is merged. 
+
 ## Overview
 
 Support bitwise operations between encrypted integers in Concrete Numpy.
