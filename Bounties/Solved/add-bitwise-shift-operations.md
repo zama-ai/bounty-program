@@ -1,6 +1,10 @@
 # Add bitwise shift operations in Concrete Numpy
 `Engineering`
 
+## Solution
+
+> **Note** - Solution to this bounty will be added here once the PR is merged. 
+
 ## Overview
 
 Support bitwise shift operations between encrypted integers in Concrete Numpy.
