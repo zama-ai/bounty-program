@@ -3,6 +3,10 @@
 ## Category
 `Engineering`
 
+## Solution
+
+> **Note** - Solution to this bounty will be added here once the PR is merged. 
+
 ## Overview
 
 Support comparison operations between encrypted integers (1-16 bits) in Concrete Numpy.
