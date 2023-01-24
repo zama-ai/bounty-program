@@ -67,7 +67,7 @@ Do you want to contribute something that is not part of an existing bounty? We a
 - 1️⃣ Start by reading our full list of bounties available [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties).
 - 2️⃣ Found a bounty that you'd like to work on? Apply directly [here](https://zama.ai/bounty-program-application).
 - 3️⃣ Join the discussion on our dedicated discord channel [here](https://discord.fhe.org), or contact us privately with any question: bounty@zama.ai.
-- 3️⃣ Once you're ready to submit, head over our submission page [here](https://zama.ai/bounty-program-submission).
+- 4️⃣ Once you're ready to submit, head over our submission page [here](https://zama.ai/bounty-program-submission).
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
@@ -76,7 +76,7 @@ Do you want to contribute something that is not part of an existing bounty? We a
 The list of bounties is updated every quarter. Season 1 was launched during Q4-2022.
 
 ### How long will it take to get my submission reviewed?
-We review all submissions at the end of the quarter to decide who gets the bounties.
+Most of the submissions will be reviewed at the end of the quarter to decide who gets the bounties. Some exceptions might occur for stellar submissions sent early on a quarter.
 
 ### I have more questions, where can I contact the Zama team?
 You can either write us at: bounty@zama.ai or ping us on the dedicated discord channel [here](https://discord.fhe.org).
@@ -95,7 +95,8 @@ Our bounty committee is responsible for everything from accepting your initial b
 ![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/213168034-78f33254-8a9c-40af-9455-d297e8ce3464.png)
 
 ## Additional information
-- Email: bounty@zama.ai
+- Email for private questions: bounty@zama.ai
 - Official discord channel for live discussion: [discord.fhe.org](https://discord.fhe.org).
-- Zama community forum: [community.zama.ai/bounty-program](https://community.zama.ai).
+- Zama community forum for technical questions: [community.zama.ai/bounty-program](https://community.zama.ai).
 - Read [Zama's Bounty Program announcement blog post](https://www.zama.ai/post/launching-the-zama-bounty-program).
+- View [the official leaderboard](https://www.zama.ai/bounty-program#leaderboard).
