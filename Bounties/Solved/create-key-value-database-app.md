@@ -5,7 +5,7 @@
 
 ## Solution
 
-> **Note** - Solution to this bounty will be added here once the PR is merged. 
+> **Note** - Solution to this bounty will be added here once the PR is merged.
 
 ## Overview
 Create a FHE key-value database with Concrete-Numpy

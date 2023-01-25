@@ -1,4 +1,4 @@
-## Solved Bounties 
+## Solved Bounties
 
 ## Easy Bounties
 - [Add bitwise operations in Concrete Numpy](add-bitwise-operations.md) `Engineering`
