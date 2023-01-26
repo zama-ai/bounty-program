@@ -33,7 +33,7 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
-# Bounty types
+# Categories
 
 We currently have bounties in:
 - [Research](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Research)
@@ -86,15 +86,19 @@ You can find the full terms and conditions for [individuals](https://powerforms.
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
-# Bounty program committee
+# Committee
 Our bounty committee is responsible for everything from accepting your initial bounty application to reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members and external reviewers to ensure that the process is as fair, fast, and smooth as possible.
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
-# Zama bounty program process summarized
+# Summary
 ![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/213168034-78f33254-8a9c-40af-9455-d297e8ce3464.png)
 
-## Additional information
+# Leaderboard
+- test
+- test
+
+# Additional information
 - Email for private questions: bounty@zama.ai
 - Official discord channel for live discussion: [discord.fhe.org](https://discord.fhe.org).
 - Zama community forum for technical questions: [community.zama.ai/bounty-program](https://community.zama.ai).
