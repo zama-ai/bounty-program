@@ -30,6 +30,8 @@
 - [Summary](#Summary)
 - [Additional information](#Additional-information)
 
+![separator_2](https://user-images.githubusercontent.com/5758427/214842363-57c68cf8-b3e9-41cd-97ee-00c90b199463.png)
+
 # Overview
 Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
@@ -69,7 +71,7 @@ Bounties of €50,000+ are available to contributors who submit a major breakthr
 ## Open Bounties
 Do you want to contribute something that is not part of an existing bounty? We are always open to suggestions, so contact us at: bounty@zama.ai
 
-![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
+![separator_2](https://user-images.githubusercontent.com/5758427/214842363-57c68cf8-b3e9-41cd-97ee-00c90b199463.png)
 
 # How to participate?
 - 1️⃣ Start by reading our full list of bounties available [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties).
@@ -92,16 +94,19 @@ You can either write us at: bounty@zama.ai or ping us on the dedicated discord c
 ### Terms and Conditions
 You can find the full terms and conditions for [individuals](https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f) and for [companies](https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f).
 
-![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
+![separator_2](https://user-images.githubusercontent.com/5758427/214842363-57c68cf8-b3e9-41cd-97ee-00c90b199463.png)
 
 # Committee
 Our bounty committee is responsible for everything from accepting your initial bounty application to reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members and external reviewers to ensure that the process is as fair, fast, and smooth as possible.
 
-![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
+![separator_3](https://user-images.githubusercontent.com/5758427/214842885-9efa0542-9542-4408-a836-b56e35bae6b0.png)
 
 # Leaderboard
-- test
-- test
+| Rank  | User | Collected |
+| ------------- | ------------- | ------------- |
+| 1 | <a href="https://github.com/alpaylan"><img src="https://avatars.githubusercontent.com/u/19610315?v=4" width="20px"> Alpaylan</a> | 10,000€
+| 2 | <a href="https://github.com/bounty-program"><img src="https://lh4.googleusercontent.com/-uQzATsY1KCJXPMntUEdMXfRkqvBy949jorwjnmAxBtgs1cMoYrrSuDZCCLNcsy4g7A=w2400" width="20px"> Anonymous</a> | 8,500€
+| 3 | <a href="https://github.com/bounty-program"><img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You</a> | Join program
 
 # Summary
 ![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/213168034-78f33254-8a9c-40af-9455-d297e8ce3464.png)
