@@ -22,11 +22,11 @@
 
 # Table of content
 - [Overview](#Overview)
-- [Important dates](#Important-dates)
 - [Categories](#Categories)
 - [How to participate](#How-to-participate)
 - [FAQ](#FAQ)
 - [Committee](#Committee)
+- [Leaderboard](#leaderboard)
 - [Summary](#Summary)
 - [Additional information](#Additional-information)
 
