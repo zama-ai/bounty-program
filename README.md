@@ -26,9 +26,9 @@
 - [How to participate](#How-to-participate)
 - [FAQ](#FAQ)
 - [Committee](#Committee)
-- [Leaderboard](#leaderboard)
+- [Leaderboard](#Leaderboard)
 - [Summary](#Summary)
-- [Support](#Additional-information)
+- [Support](#Support)
 
 ![separator_2](https://user-images.githubusercontent.com/5758427/214842363-57c68cf8-b3e9-41cd-97ee-00c90b199463.png)
 
@@ -51,6 +51,7 @@ We currently have bounties in:
 - [FPGA](https://github.com/zama-ai/bounty-program/tree/main/Bounties/FPGA)
 - [Machine Learning](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Machine_Learning)
 - [Application](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Application)
+- [Solved 💸](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Solved)
 
 
 ## Easy Bounties
