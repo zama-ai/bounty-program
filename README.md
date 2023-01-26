@@ -20,10 +20,19 @@
   </a>
 </p>
 
+# Table of content
+- [Overview](#Overview)
+- [Important dates](#Important-dates)
+- [Categories](#Categories)
+- [How to participate](#How-to-participate)
+- [FAQ](#FAQ)
+- [Committee](#Committee)
+- [Summary](#Summary)
+- [Additional information](#Additional-information)
+
 # Overview
 Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
-<!-- Dates -->
 ### Important dates
 - <b>Session 1</b>: November 22nd, 2022 -> January 6th, 2023
 - <b>Submission deadline</b>: January 6th, 2023 at midnight.
@@ -34,7 +43,6 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
 # Categories
-
 We currently have bounties in:
 - [Research](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Research)
 - [Engineering](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Engineering)
@@ -91,12 +99,13 @@ Our bounty committee is responsible for everything from accepting your initial b
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
-# Summary
-![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/213168034-78f33254-8a9c-40af-9455-d297e8ce3464.png)
-
 # Leaderboard
 - test
 - test
+
+# Summary
+![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/213168034-78f33254-8a9c-40af-9455-d297e8ce3464.png)
+
 
 # Additional information
 - Email for private questions: bounty@zama.ai
