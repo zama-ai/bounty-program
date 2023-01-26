@@ -28,7 +28,7 @@
 - [Committee](#Committee)
 - [Leaderboard](#leaderboard)
 - [Summary](#Summary)
-- [Additional information](#Additional-information)
+- [Support](#Additional-information)
 
 ![separator_2](https://user-images.githubusercontent.com/5758427/214842363-57c68cf8-b3e9-41cd-97ee-00c90b199463.png)
 
@@ -112,9 +112,8 @@ Our bounty committee is responsible for everything from accepting your initial b
 ![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/213168034-78f33254-8a9c-40af-9455-d297e8ce3464.png)
 
 
-# Additional information
+# Support
 - Email for private questions: bounty@zama.ai
-- Official discord channel for live discussion: [discord.fhe.org](https://discord.fhe.org).
+- Official discord channel for live discussions: [discord.fhe.org](https://discord.fhe.org).
 - Zama community forum for technical questions: [community.zama.ai/bounty-program](https://community.zama.ai).
 - Read [Zama's Bounty Program announcement blog post](https://www.zama.ai/post/launching-the-zama-bounty-program).
-- View [the official leaderboard](https://www.zama.ai/bounty-program#leaderboard).
