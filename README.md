@@ -105,8 +105,8 @@ Our bounty committee is responsible for everything from accepting your initial b
 # Leaderboard
 | Rank  | User | Collected |
 | ------------- | ------------- | ------------- |
-| 1 | <a href="https://github.com/alpaylan"><img src="https://avatars.githubusercontent.com/u/19610315?v=4" width="20px"> Alpaylan</a> | 10,000€
-| 2 | <img src="https://lh4.googleusercontent.com/-uQzATsY1KCJXPMntUEdMXfRkqvBy949jorwjnmAxBtgs1cMoYrrSuDZCCLNcsy4g7A=w2400" width="20px"> Anonymous | 8,500€
+| 1 | <a href="https://github.com/alpaylan"><img src="https://avatars.githubusercontent.com/u/19610315?v=4" width="20px"> Alpaylan</a> | 8,500€
+| 2 | <img src="https://lh4.googleusercontent.com/-uQzATsY1KCJXPMntUEdMXfRkqvBy949jorwjnmAxBtgs1cMoYrrSuDZCCLNcsy4g7A=w2400" width="20px"> Anonymous | 8,000€
 | 3 | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://zama.ai/bounty-program-application)
 
 # Summary
