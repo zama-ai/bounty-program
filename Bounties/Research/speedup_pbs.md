@@ -2,7 +2,7 @@
 `Cryptography` `TFHE`
 
 ## Overview
-Improve the efficiency of programmable bootstrapping in TFHE, for LWE inputs encrypting 4-bit integers, at least of a 10x factor, on a given machine. 
+Improve the efficiency of programmable bootstrapping in TFHE, for LWE inputs encrypting 4-bit integers, at least of a 10x factor, on a given machine.
 
 ## Description
 Implement a new variant of programmable bootstrapping of TFHE in Concrete, that achieves at least a 10x factor improvement.
@@ -23,7 +23,7 @@ Your solution should compare to the following implementation from [TFHE-rs](http
 AWS m6i.metal (Intel(R) Xeon(R) Platinum 8375C CPU @ 2.90GHz)
 OS: Ubuntu 22.04
 ```
-The parameters for a single bootstrapping on this architechture are:
+The parameters for a single bootstrapping on this architecture are:
 ```
 lwe_dimension: LweDimension(742),
 glwe_dimension: GlweDimension(1),
@@ -49,16 +49,16 @@ Time per PBS single-thread (avx512): 18.396 ms
 
 Your timings should be for a single pbs on a single thread, non-amortized.
 
-#### Validity of the solutions proposed 
+#### Validity of the solutions proposed
 A valid submission contains the following:
  * A PDF format (using LaTeX) document, describing in detail the solution proposed;
- * An implementation using TFHE-rs, and instructions to run it; 
+ * An implementation using TFHE-rs, and instructions to run it;
  * A set of tests aiming to prove the claim on efficiency and instructions to run them.
 
 ## Library targeted
 [TFHE-rs](https://github.com/zama-ai/tfhe-rs)
 
-## Bounty type 
+## Bounty type
 Expert
 
 ## Reward
