@@ -1,12 +1,15 @@
-# Improve the programmable bootstrapping in TFHE
-`Cryptography` `TFHE`
+# Improve multithreaded  TFHE Programmable Bootstrapping latency
+`Cryptography` `TFHE` `Research`
 
 ## Overview
-Improve the efficiency of programmable bootstrapping in TFHE, for LWE inputs encrypting 4-bit integers, at least of a 10x factor, on a given machine.
+Reduce the latency of a single Programmable bootstrapping for a LWE ciphertext in TFHE.
 
 ## Description
-Implement a new variant of programmable bootstrapping of TFHE in Concrete, that achieves at least a 10x factor improvement.
+Propose a new technique to reduce the latency of a single programmable bootstrapping on a LWE ciphertext,
+encrypting a message with 4-bits, in TFHE.
 Programmable bootstrapping is an operation that is able to reduce the noise inside a ciphertext and, at the same time, to evaluate a look-up table on the encrypted message.
+
+The solution has to be at least 10x faster than the existing solution in TFHE-rs.
 
 #### Security and noise
  * The security level of the solution has to be at least 128 bits, strictly under the GLWE problem;
@@ -14,9 +17,10 @@ Programmable bootstrapping is an operation that is able to reduce the noise insi
  * The noise of the output ciphertext has to be such that at least 3 bits between the message and the noise are empty.
 
 #### Performances and comparison with the state of the art
- * The new programmable bootstrapping must be able to bootstrap correctly a polynomial message with 4-bit coefficients, encrypted as one GLWE ciphertext, and provide in output a GLWE ciphertext encrypted under the same secret key;
+ * The new programmable bootstrapping must be able to bootstrap correctly a 4-bit message,
+ encrypted as one LWE ciphertext, and provide in output a LWE ciphertext encrypted under the same secret key;
  * The public key material (bootstrapping keys, key switching keys, ...) has to remain below 1GB in total;
- * The speed up must be proven by experimental results on the same architecture, **single-threaded**.
+ * The speed up must be proven by experimental results on the same architecture (**multi-threading** is allowed).
 
 Your solution should compare to the following implementation from [TFHE-rs](https://github.com/zama-ai/tfhe-rs):
 ```
@@ -47,7 +51,8 @@ Time per PBS single-thread (no avx512): 21.419 ms
 Time per PBS single-thread (avx512): 18.396 ms
 ```
 
-Your timings should be for a single pbs on a single thread, non-amortized.
+Your timings should be for a single pbs, non-amortized.
+
 
 #### Validity of the solutions proposed
 A valid submission contains the following:
@@ -56,17 +61,13 @@ A valid submission contains the following:
  * A set of tests aiming to prove the claim on efficiency and instructions to run them.
 
 ## Library targeted
-[TFHE-rs](https://github.com/zama-ai/tfhe-rs)
+* [TFHE-rs](https://github.com/zama-ai/tfhe-rs)
 
 ## Bounty type
 Expert
 
 ## Reward
-Rewards depends on the speedup achieved:
-- 10-20x: €10,000
-- 21-50x: €50,000
-- 51-99x: €100,000
-- 100x+:  €200,000
+€10,000 for 10x speedup to €50,000 depending on performance achieved.
 
 ## Related links and references
 The sources we provide are just indicative (not necessarily the most up to date results and not an exhaustive list of sources):
