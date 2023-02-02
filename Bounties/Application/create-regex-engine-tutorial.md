@@ -1,8 +1,7 @@
-# Create a homomorphic regex engine tutorial with Concrete Numpy or TFHE-rs
-`Application`
+# Create a homomorphic regex engine and write a tutorial about it
 
 ## Overview
-In this bounty, you're expected to create a homomorphic regular expression engine that operate on encrypted bytes of an ASCII string and write a tutorial for it, either with Concrete Numpy or TFHE-rs.
+Create a homomorphic regular expression engine that operate on encrypted bytes of an ASCII string and write a tutorial about it.
 
 ## Description
 
@@ -79,7 +78,7 @@ Your PR should comply with the following:
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
 
 ## Reward
-Up to €10,000
+Up to €10,000 depending on performance
 
 ## Related links and references
 - [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
