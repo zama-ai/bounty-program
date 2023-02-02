@@ -1,6 +1,4 @@
 # Create a homomorphic regex engine tutorial with Concrete Numpy or TFHE-rs
-
-## Category
 `Application`
 
 ## Overview
