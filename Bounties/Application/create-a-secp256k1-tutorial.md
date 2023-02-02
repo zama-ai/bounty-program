@@ -1,4 +1,4 @@
-# Create a ECDSA signature example
+# Implement ECDSA signature in FHE
 `Application`
 
 ## Overview
@@ -6,7 +6,7 @@ Create a tutorial demonstrating how to generate a ECDSA signature on clear data 
 
 ## Description
 
-The goal of this bounty is to implement the ECDSA signature algorithm, used on Ethereum blockchain, in FHE.
+The goal of this bounty is to implement the ECDSA signature algorithm, used on the Ethereum blockchain, in FHE.
 It uses the curve `secp256k1`. From an FHE encrypted private key and a clear message, the provided algorithm should
 be able to returns an FHE encrypted signature, that once decrypted by the FHE private key is able to be verified
 in clear with the EC public Key.
