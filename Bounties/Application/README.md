@@ -6,7 +6,7 @@ None at this time.
 - [Create an HE-based Iris identification example in Concrete Numpy](create-iris-identification-app.md)
 - [Create a Dark Market example with Concrete Numpy or TFHE-rs](create-a-dark-market-app.md)
 - [Create a ECDSA/secp256k1 signature example with Concrete Numpy or TFHE-rs](create-a-secp256k1-tutorial.md)
-- [Create a homomorphic regex engine tutorial with Concrete Numpy or TFHE-rs](regex-engine.md)
+- [Create a homomorphic regex engine tutorial with Concrete Numpy or TFHE-rs](create-regex-engine.md)
 
 ## Moonshot Bounties
 None at this time.
