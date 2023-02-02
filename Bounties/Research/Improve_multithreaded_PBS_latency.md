@@ -1,15 +1,11 @@
-# Improve multithreaded  TFHE Programmable Bootstrapping latency
+# Implement a multithreaded programmable bootstrap in TFHE
 `Cryptography`
 
 ## Overview
-Reduce the latency of a single Programmable bootstrapping for a LWE ciphertext in TFHE.
+Accelerate the TFHE programmable bootstrap by executing it multithreaded.
 
 ## Description
-Propose a new technique to reduce the latency of a single programmable bootstrapping on a LWE ciphertext,
-encrypting a message with 4-bits, in TFHE.
-Programmable bootstrapping is an operation that is able to reduce the noise inside a ciphertext and, at the same time, to evaluate a look-up table on the encrypted message.
-
-The solution has to be at least 10x faster than the existing solution in TFHE-rs.
+Find and implement a technique to evaluate a single 4-bit TFHE programmable bootstrap using mutliple threads. The solution has to be at least 10x faster than the existing bootstrap in TFHE-rs.
 
 #### Security and noise
  * The security level of the solution has to be at least 128 bits, strictly under the GLWE problem;
@@ -67,7 +63,7 @@ A valid submission contains the following:
 Expert
 
 ## Reward
-€10,000 for 10x speedup to €50,000 depending on performance achieved.
+Up to €50,000 depending on performance.
 
 ## Related links and references
 The sources we provide are just indicative (not necessarily the most up to date results and not an exhaustive list of sources):
