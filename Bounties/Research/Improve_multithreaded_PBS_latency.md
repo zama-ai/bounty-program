@@ -1,5 +1,5 @@
 # Improve multithreaded  TFHE Programmable Bootstrapping latency
-`Cryptography` `TFHE` `Research`
+`Cryptography`
 
 ## Overview
 Reduce the latency of a single Programmable bootstrapping for a LWE ciphertext in TFHE.
