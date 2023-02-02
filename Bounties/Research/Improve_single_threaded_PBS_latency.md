@@ -1,5 +1,5 @@
 # Improve single-threaded TFHE Programmable Bootstrapping latency
-`Cryptography` `TFHE`
+`Cryptography`
 
 ## Overview
 Improve the efficiency of programmable bootstrapping in TFHE, for LWE inputs encrypting 4-bit integers, at least of a 10x factor, on a given machine.
