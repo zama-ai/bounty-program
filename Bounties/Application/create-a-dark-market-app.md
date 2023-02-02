@@ -1,5 +1,4 @@
-
-## Category
+# Create a dark market app
 `Application`
 
 ## Overview
