@@ -1,4 +1,4 @@
-# Implement ECDSA signature in FHE
+# Create a FHE ECDSA signature tutorial with Concrete Numpy or TFHE-rs
 `Application`
 
 ## Overview
@@ -26,8 +26,8 @@ Your PR should comply with the following:
   * Create the tutorial `tfhe/docs/tutorial/secp256k1-signature.md`
 
 ## Library targeted
-[TFHE-rs](https://github.com/zama-ai/tfhe-rs)
-[Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
+* [TFHE-rs](https://github.com/zama-ai/tfhe-rs)
+* [Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
 
 TFHE-rs implementation is preferred but Concrete-Numpy implementations are also accepted.
 

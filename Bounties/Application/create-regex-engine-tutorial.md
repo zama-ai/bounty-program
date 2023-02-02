@@ -59,7 +59,7 @@ Your implementation should support following regular expression features:
 
 Your implementation should comply with the following:
 * You are only expected to write boolean `match` logic, no need to determine match location or matched substring
-* You can use external dependencies from PyPI
+* You can use external dependencies
 * You should detect non ASCII bytes and raise/return appropriate error
 
 Your PR should comply with the following:
@@ -81,10 +81,10 @@ Your PR should comply with the following:
 Up to €10,000 depending on performance
 
 ## Related links and references
-- [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
-- [Concrete-Numpy contribution guide](https://docs.zama.ai/concrete-numpy/developer/contributing)
-- [TFHE-rs documentation](https://docs.zama.ai/tfhe-rs)
-- [TFHE-rs contribution guide](https://docs.zama.ai/tfhe-rs/developers/contributing)
+* [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
+* [Concrete-Numpy contribution guide](https://docs.zama.ai/concrete-numpy/developer/contributing)
+* [TFHE-rs documentation](https://docs.zama.ai/tfhe-rs)
+* [TFHE-rs contribution guide](https://docs.zama.ai/tfhe-rs/developers/contributing)
 
 ## Submission
 Apply directly to this bounty by sending an application [here](https://zama.ai/bounty-program-application).

@@ -1,4 +1,4 @@
-# Develop an HE-based iris identification example with Concrete Numpy
+# Develop an HE-based iris identification application tutorial with Concrete Numpy or TFHE-rs
 `Application`
 
 ## Overview
@@ -12,7 +12,7 @@ In its paper "Hybrid biometric template protection: Resolving the agony of choic
 
 The bounty objective is to:
 
-* use Concrete-Numpy to implement a single key TFHE-based BTP for an access control system
+* use Concrete-Numpy or TFHE-rs to implement a single key TFHE-based BTP for an access control system
 * all reference templates are stored encrypted in a database on the server
 
 The client:
@@ -29,16 +29,17 @@ Then the server:
 * the system will need to have an Equal Error Rate (EER) of 0.1%
 * the UBIRIS.V2 database will be used to compute the error rates
 
-We expect your PR to comply with the following:
-
-* Changes required in Concrete Numpy code
-* Create tests with 100% coverage (hint: make pytest runs without errors)
-* Make sure pcc checks are passing (hint: make pcc runs without errors)
-* Create the example app under `examples/iris-identification/{client,server}.py`
-* Create the tutorial under `docs/tutorial/iris-identification.md`
+Your PR should comply with the following:
+* For Concrete Numpy:
+  * Create the app `examples/iris-identification/{client,server}.py`
+  * Create the tutorial `docs/tutorial/iris-identification.{md,ipynb}`
+* For TFHE-rs:
+  * Create the app `tfhe/examples/iris-identification/{client,server}.rs`
+  * Create the tutorial `tfhe/docs/tutorial/iris-identification.md`
 
 ## Library targeted
-[Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
+* [Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
+* [TFHE-rs](https://github.com/zama-ai/tfhe-rs)
 
 ## Bounty type
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
@@ -47,11 +48,12 @@ We expect your PR to comply with the following:
 Up to €5,000
 
 ## Related links and references
-- [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
-- [Developer guide documentation](https://docs.zama.ai/concrete-numpy/developer/)
-- [Contributing documentation](https://docs.zama.ai/concrete-numpy/developer/contributing)
-- [Resolving the agony of choice between bloom filters and homomorphic encryption](https://doi.org/10.1049/bme2.12075)
-- [UBIRIS.v2](http://iris.di.ubi.pt/ubiris2.html)
+* [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
+* [Concrete-Numpy contribution guide](https://docs.zama.ai/concrete-numpy/developer/contributing)
+* [TFHE-rs documentation](https://docs.zama.ai/tfhe-rs)
+* [TFHE-rs contribution guide](https://docs.zama.ai/tfhe-rs/developers/contributing)
+* [Resolving the agony of choice between bloom filters and homomorphic encryption](https://doi.org/10.1049/bme2.12075)
+* [UBIRIS.v2](http://iris.di.ubi.pt/ubiris2.html)
 
 ## Submission
 Apply directly to this bounty by sending an application [here](https://zama.ai/bounty-program-application).

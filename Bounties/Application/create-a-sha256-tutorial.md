@@ -1,16 +1,17 @@
-# Create a SHA256 tutorial for Concrete Numpy
+# Create a SHA256 tutorial for Concrete Numpy or TFHE-rs
 `Application`
 
 ## Overview
-Create a tutorial demonstrating how to develop a SHA256 in concrete Numpy
+Create a tutorial demonstrating how to develop a homomorphic SHA256 function
 
 ## Description
 
-Create an FHE program that computes the SHA-256 value over a fixed-length encrypted input.
+Create an FHE program that computes the SHA-256 value over an encrypted input.
 Turn it into a tutorial for the documentation, highlighting the process of turning a regular
-program into its FHE equivalent.
+program into its FHE equivalent. Input text could be fixed-length for Concrete Numpy solution,
+while it should be any length for TFHE-rs solution.
 
-Here is an example of code you could start from:
+Here is a python example of code you could start from:
 
 ```python
 import hashlib
@@ -51,12 +52,18 @@ circuit = compiler.compile(
 
 We expect your PR to comply with the following:
 
-* Input size is fixed to 150 bytes
-* Create the example app under `examples/sha256.py`
-* Create the tutorial under `docs/tutorial/sha256.md`
+* For Concrete Numpy:
+  * Input size is fixed to 150 bytes
+  * Create the app `examples/sha256.py`
+  * Create the tutorial `docs/tutorial/sha256.{md,ipynb}`
+* For TFHE-rs:
+  * Input size is not fixed
+  * Create the app `tfhe/examples/sha256.rs`
+  * Create the tutorial `tfhe/docs/tutorial/sha256.md`
 
 ## Library targeted
-[Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
+* [Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
+* [TFHE-rs](https://github.com/zama-ai/tfhe-rs)
 
 ## Bounty type
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
@@ -65,9 +72,10 @@ We expect your PR to comply with the following:
 Up to €7,500
 
 ## Related links and references
-- [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
-- [Developer guide documentation](https://docs.zama.ai/concrete-numpy/developer/)
-- [Contributing documentation](https://docs.zama.ai/concrete-numpy/developer/contributing)
+* [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
+* [Concrete-Numpy contribution guide](https://docs.zama.ai/concrete-numpy/developer/contributing)
+* [TFHE-rs documentation](https://docs.zama.ai/tfhe-rs)
+* [TFHE-rs contribution guide](https://docs.zama.ai/tfhe-rs/developers/contributing)
 
 ## Submission
 Apply directly to this bounty by sending an application [here](https://zama.ai/bounty-program-application).

@@ -2,10 +2,10 @@
 None at this time.
 
 ## Expert Bounties
-- [Create a SHA256 tutorial example in Concrete Numpy](create-a-sha256-tutorial.md)
-- [Create an HE-based Iris identification example in Concrete Numpy](create-iris-identification-app-tutorial.md)
-- [Create a Dark Market example with Concrete Numpy or TFHE-rs](create-a-dark-market-app-tutorial.md)
-- [Create a ECDSA/secp256k1 signature example with Concrete Numpy or TFHE-rs](create-a-secp256k1-tutorial.md)
+- [Create a SHA256 tutorial in Concrete Numpy or TFHE-rs](create-a-sha256-tutorial.md)
+- [Create an HE-based Iris identification application tutorial in Concrete Numpy or TFHE-rs](create-iris-identification-app-tutorial.md)
+- [Create a Dark Market application tutorial with Concrete Numpy or TFHE-rs](create-a-dark-market-app-tutorial.md)
+- [Create a ECDSA/secp256k1 signature tutorial with Concrete Numpy or TFHE-rs](create-a-secp256k1-tutorial.md)
 - [Create a homomorphic regex engine tutorial with Concrete Numpy or TFHE-rs](create-regex-engine-tutorial.md)
 
 ## Moonshot Bounties

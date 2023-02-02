@@ -1,4 +1,4 @@
-# Create a dark market app
+# Create a dark market application tutorial with Concrete Numpy or TFHE-rs
 `Application`
 
 ## Overview
@@ -36,14 +36,16 @@ We expect your PR to comply with the following:
   * Create the script `examples/dark-market.py`
   * Create the tutorial `docs/tutorial/dark-market.{md,ipynb}`
 * For TFHE-rs:
-  * Create the script `tfhe/examples/dark-market.rs`
+  * Create the app `tfhe/examples/dark-market.rs`
   * Create the tutorial `tfhe/docs/tutorial/dark-market.md`
 
 There is no need for the code to verify that the encrypted values are in range, one can assume the encryptors are honest.
 
 ## Library targeted
-* [Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
-* [TFHE-rs](https://github.com/zama-ai/tfhe-rs)
+* [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
+* [Concrete-Numpy contribution guide](https://docs.zama.ai/concrete-numpy/developer/contributing)
+* [TFHE-rs documentation](https://docs.zama.ai/tfhe-rs)
+* [TFHE-rs contribution guide](https://docs.zama.ai/tfhe-rs/developers/contributing)
 
 ## Bounty type
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
