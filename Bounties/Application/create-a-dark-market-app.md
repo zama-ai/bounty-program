@@ -49,8 +49,8 @@ There is no need for the code to verify that the encrypted values are in range, 
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
 
 ## Reward
-Up to €5,000  [Simple Challenge]
-Up to €15,000  [Complex Challenge]
+- Up to €5,000  [Simple Challenge]
+- Up to €15,000  [Complex Challenge]
 
 ## Related links and references
 - [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
