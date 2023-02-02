@@ -1,23 +1,12 @@
 <p align="center">
 <!-- bounty program logo -->
-  <img width=800 src="https://user-images.githubusercontent.com/86411313/203371144-1c9ab5eb-556d-499c-bd2a-0188e997486e.png">
+  <img width=100% src="https://user-images.githubusercontent.com/5758427/216351080-fd311f08-d15f-4535-98e5-1fcbae7da387.png">
+    <br/><br/>
+  <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-2-%23FFCB00?style=flat-square"></a>
+  <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
+  <a href="https://community.zama.ai"><img src="https://img.shields.io/badge/Zama%20community%20forum-online-brightgreen?style=flat-square"></a>
   <br/><br/>
-  <!-- Bounty Program badge using shields.io -->
-    <a href="https://zama.ai/bounty-program">
-      <img src="https://img.shields.io/badge/Zama-Bounty%20Program-yellow?style=flat-square">
-    </a>
-  <!-- Discord server badge using shields.io -->
-  <a href="https://discord.fhe.org">
-   <img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white">
-  </a>
-  <!-- Community forum badge using shields.io -->
-  <a href="https://community.zama.ai">
-    <img src="https://img.shields.io/badge/Zama%20community%20forum-online-brightgreen?style=flat-square">
-  </a>
-  <!-- Follow on twitter badge using shields.io -->
-  <a href="https://twitter.com/zama_fhe">
-    <img src="https://img.shields.io/twitter/follow/zama_fhe?color=1DA1F2&style=flat-square">
-  </a>
+  <br />
 </p>
 
 # Table of content
@@ -36,11 +25,11 @@
 Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
 ### Important dates
-- ~~<b>Session 1</b>: November 22nd, 2022 -> January 6th, 2023.~~
+- ~~<b>Season 1</b>: November 22nd, 2022 -> January 6th, 2023.~~
 - ~~<b>Submission deadline</b>: January 6th, 2023 at midnight.~~
-- <b>Session 2</b>: January 25th, 2023 -> April 7th, 2023.
+- <b>Season 2</b>: January 25th, 2023 -> April 7th, 2023.
 - <b>Submission deadline</b>: April 7th, 2023 at midnight.
-- <b>Session 3</b>: to be announced.
+- <b>Season 3</b>: to be announced.
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
