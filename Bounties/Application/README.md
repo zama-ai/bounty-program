@@ -4,7 +4,7 @@ None at this time.
 ## Expert Bounties
 - [Create a SHA256 tutorial example in Concrete Numpy](create-a-sha256-tutorial.md)
 - [Create an HE-based Iris identification example in Concrete Numpy](create-iris-identification-app.md)
-- [Create a Dark Market example](create-a-dark-market-app.md)
+- [Create a Dark Market example with Concrete Numpy or TFHE-rs](create-a-dark-market-app.md)
 - [Create a ECDSA/secp256k1 signature example with Concrete Numpy or TFHE-rs](create-a-secp256k1-tutorial.md)
 - [Create a homomorphic regex engine tutorial with Concrete Numpy or TFHE-rs](regex-engine.md)
 
