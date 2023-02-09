@@ -1,5 +1,5 @@
 # Implement programmable bootstrapping for 4-bit encrypted integers on FPGA
-`FPGA` 
+`FPGA`
 
 ## Overview
 Implement a low-Latency, high-throughput Programmable Bootstrapping for LWE inputs encrypting 4-bit integers on FPGA.
