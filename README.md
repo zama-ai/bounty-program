@@ -41,7 +41,7 @@ We currently have bounties in:
 - [Machine Learning](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Machine_Learning)
 - [Application](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Application)
 - [Solved 💸](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Solved)
-
+- [Or View all Bounties 👀](https://github.com/zama-ai/bounty-program/tree/main/Bounties)
 
 ## Easy Bounties
 Bounties of €500-€5,000 are available to contributors who are willing to help us improve our documentation, resources, and libraries in order to better the Zama developer experience. These easy bounties are mostly aimed at students, independent developers, or researchers and can take the form of (but not exclusively):
