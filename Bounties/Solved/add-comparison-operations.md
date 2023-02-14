@@ -2,7 +2,7 @@
 `Engineering`
 
 ## Solution
-This bounty has been solved, see the entire solution [here](https://github.com/zama-ai/concrete-numpy/commit/e126a11fcbc3fe19be947a2f6f92f90e280072c8).
+✅ This bounty has been solved, see the entire solution [here](https://github.com/zama-ai/concrete-numpy/commit/e126a11fcbc3fe19be947a2f6f92f90e280072c8).
 
 
 ## Overview
