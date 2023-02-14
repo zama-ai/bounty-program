@@ -3,8 +3,7 @@
 `Engineering`
 
 ## Solution
-> **Warning**.
-> This bounty has been solved, see the entire solution [here](https://github.com/zama-ai/concrete-numpy/commit/2b897fb4c4662a7df133955619efcd71fd6f13f6) with an interactive demo [here](https://github.com/zama-ai/concrete-numpy/blob/main/docs/tutorial/key_value_database.ipynb).
+This bounty has been solved, see the entire solution [here](https://github.com/zama-ai/concrete-numpy/commit/2b897fb4c4662a7df133955619efcd71fd6f13f6) with an interactive demo [here](https://github.com/zama-ai/concrete-numpy/blob/main/docs/tutorial/key_value_database.ipynb).
 
 ## Overview
 Create a FHE key-value database with Concrete-Numpy.
