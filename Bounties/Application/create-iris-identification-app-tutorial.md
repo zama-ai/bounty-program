@@ -53,7 +53,7 @@ Up to €5,000
 * [TFHE-rs documentation](https://docs.zama.ai/tfhe-rs)
 * [TFHE-rs contribution guide](https://docs.zama.ai/tfhe-rs/developers/contributing)
 * [Resolving the agony of choice between bloom filters and homomorphic encryption](https://doi.org/10.1049/bme2.12075)
-* [UBIRIS.v2](http://iris.di.ubi.pt/ubiris2.html)
+* [UBIRIS.v2](http://iris.di.ubi.pt/ubiris2.html) Use password: UBIRIS2_IEEETPAMI_101109_200966
 
 ## Submission
 Apply directly to this bounty by sending an application [here](https://zama.ai/bounty-program-application).
