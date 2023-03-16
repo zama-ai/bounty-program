@@ -61,6 +61,7 @@ Your implementation should comply with the following:
 * You are only expected to write boolean `match` logic, no need to determine match location or matched substring
 * You can use external dependencies
 * You should detect non ASCII bytes and raise/return appropriate error
+* Text must be encrypted but the regular expression could be clear
 
 Your PR should comply with the following:
 * For Concrete Numpy:
