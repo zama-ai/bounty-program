@@ -7,5 +7,5 @@ None at this time.
 ## Moonshot Bounties
 None at this time.
 
-## Solve Bounties
+## Solved Bounties
 None at this time.
