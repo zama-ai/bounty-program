@@ -11,5 +11,5 @@ None at this time.
 ## Moonshot Bounties
 None at this time.
 
-## Solved
+## Solved Bounties
 - [Create a Key value database example in Concrete Numpy](../Solved/create-key-value-database-app.md)
