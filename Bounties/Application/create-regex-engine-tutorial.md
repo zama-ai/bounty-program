@@ -61,7 +61,7 @@ Your implementation should comply with the following:
 * You are only expected to write boolean `match` logic, no need to determine match location or matched substring
 * You can use external dependencies
 * You should detect non ASCII bytes and raise/return appropriate error
-* Text must be encrypted but the regular expression could be clear
+* Text must be encrypted but the regular expression could be clear or encrypted (see Reward)
 
 Your PR should comply with the following:
 * For Concrete Numpy:
@@ -79,7 +79,8 @@ Your PR should comply with the following:
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
 
 ## Reward
-Up to €10,000 depending on performance
+- up to €10,000 for encrypted input and plaintext regex (depending on performance)
+- an additional €5,000 for both encrypted input and encrypted regex (depending on performance)
 
 ## Related links and references
 * [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
