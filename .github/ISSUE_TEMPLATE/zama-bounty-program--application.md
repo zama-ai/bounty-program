@@ -1,9 +1,9 @@
 ---
-name: Bounty Program Application
+name: 'Zama Bounty Program: Application'
 about: Join the Zama Bounty Program
 title: Zama Bounty Program Application
-labels: Application, Proposition
-assignees: zaccherinij, aquint-zama
+labels: Application
+assignees: aquint-zama, zaccherinij
 
 ---
 
