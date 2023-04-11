@@ -1,6 +1,6 @@
 <p align="center">
 <!-- bounty program logo -->
-  <img width=100% src="https://user-images.githubusercontent.com/5758427/216351080-fd311f08-d15f-4535-98e5-1fcbae7da387.png">
+  <img width=100% src="https://user-images.githubusercontent.com/5758427/231112542-20d954a2-a794-41ba-afd8-9bf0d6b8b6ff.png">
     <br/><br/>
   <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-2-%23FFCB00?style=flat-square"></a>
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
@@ -27,8 +27,8 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 ### Important dates
 - ~~<b>Season 1</b>: November 22nd, 2022 -> January 6th, 2023.~~
 - ~~<b>Submission deadline</b>: January 6th, 2023 at midnight.~~
-- <b>Season 2</b>: January 25th, 2023 -> April 7th, 2023.
-- <b>Submission deadline</b>: April 7th, 2023 at midnight.
+- ~~<b>Season 2</b>: January 25th, 2023 -> April 7th, 2023.~~
+- ~~<b>Submission deadline</b>: April 7th, 2023 at midnight.~~
 - <b>Season 3</b>: to be announced.
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
