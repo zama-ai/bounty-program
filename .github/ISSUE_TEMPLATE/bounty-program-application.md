@@ -3,7 +3,7 @@ name: Bounty Program Application
 about: Join the Zama Bounty Program
 title: Zama Bounty Program Application
 labels: Application
-assignees: zaccherinij, aquint-zama
+assignees: aquint-zama, zaccherinij
 
 ---
 
@@ -11,7 +11,7 @@ assignees: zaccherinij, aquint-zama
 
 - Bounty Github Link (See the full list of bounties [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties): `Bounty_link`
 
-- Your name or username: `username
+- Your name or username: `username`
 
 - Link to your Github account: `github.com/<username>`
 
