@@ -1,23 +1,22 @@
 ---
-name: 'Zama Bounty Program: Application'
-about: Join the Zama Bounty Program
-title: Zama Bounty Program Application
-labels: Application, Proposition
+name: 'Zama Bounty Program: Submission'
+about: Submit Your Work For Review
+title: 'Zama Bounty Program: Submission'
+labels: Submission
 assignees: zaccherinij, aquint-zama
 
 ---
 
-# **Zama Bounty Program Application**
+# **Zama Bounty Program Submission**
 
 - Bounty Github Link (See the full list of bounties [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties): `Bounty_link`
 
-- Your name or username: `username`
+- Link to a Github Repo with your code: `github.com/<user_name>/<project_name>`
+If your repo contains sensitive information and needs to be shared privately, write us at: hello@zama.ai
 
-- Link to your Github account: `github.com/<username>`
+- If your submission is rewarded, how would you like to appear on the leaderboard: `Github_username`, `As_an_anonymous_contributor`
 
-- Tell us more about yourself (and/or your team): `Lorem ipsum dolor sit amet`
-
-- Please provide as much relevant information as possible: How did you learn about the Zama Bounty Program? Is it your first contribution to a Bounty Program? Or any other relevant information: `Lorem ipsum dolor sit amet`
+- Any other relevant information to share? (optionnal): `Lorem ipsum dolor sit amet`
 
 # **Terms and conditions**
 
