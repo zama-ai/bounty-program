@@ -1,10 +1,10 @@
 <p align="center">
 <!-- bounty program logo -->
-  <img width=100% src="https://user-images.githubusercontent.com/5758427/231113089-7515176d-10c4-4488-b594-dd166f8f1b50.png">
+  <img width=100% src="https://user-images.githubusercontent.com/5758427/231228314-85ba6a92-f25d-47c7-abe1-c4c8da09ea45.png">
     <br/><br/>
-  <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-2-%23FFCB00?style=flat-square"></a>
+  <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-2-%3498db?style=flat-square"></a>
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
-  <a href="https://community.zama.ai"><img src="https://img.shields.io/badge/Zama%20community%20forum-online-brightgreen?style=flat-square"></a>
+  <a href="https://zama.ai/.zama.ai"><img src="https://img.shields.io/badge/Community-support-yellow?style=flat-square"></a>
   <br/><br/>
   <br />
 </p>
