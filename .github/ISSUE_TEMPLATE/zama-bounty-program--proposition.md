@@ -1,9 +1,9 @@
 ---
 name: 'Zama Bounty Program: Proposition'
-about: Propose a bounty
+about: Propose a Bounty to the Zama Bounty Program
 title: 'Zama Bounty Program: Bounty Proposition'
 labels: Proposition
-assignees: zaccherinij, aquint-zama
+assignees: aquint-zama, zaccherinij
 
 ---
 

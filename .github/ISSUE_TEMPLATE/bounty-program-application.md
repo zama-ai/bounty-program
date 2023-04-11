@@ -2,8 +2,8 @@
 name: Bounty Program Application
 about: Join the Zama Bounty Program
 title: Zama Bounty Program Application
-labels: Application
-assignees: aquint-zama, zaccherinij
+labels: Application, Proposition
+assignees: zaccherinij, aquint-zama
 
 ---
 
