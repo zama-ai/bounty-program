@@ -1,6 +1,6 @@
 <p align="center">
 <!-- bounty program logo -->
-  <img width=100% src="https://user-images.githubusercontent.com/5758427/231112542-20d954a2-a794-41ba-afd8-9bf0d6b8b6ff.png">
+  <img width=100% src="https://user-images.githubusercontent.com/5758427/231113089-7515176d-10c4-4488-b594-dd166f8f1b50.png">
     <br/><br/>
   <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-2-%23FFCB00?style=flat-square"></a>
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
