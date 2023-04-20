@@ -9,7 +9,8 @@ assignees: zaccherinij, aquint-zama
 
 # Zama Bounty Program Application
 
-- Bounty Github Link (See the full list of bounties [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties)): `Bounty_link`
+<!-- See the full list of bounties https://github.com/zama-ai/bounty-program/tree/main/Bounties  -->
+- Bounty Github Link:
 
 <!-- Fill with your username github.com/<username> -->
 - Github username: 
