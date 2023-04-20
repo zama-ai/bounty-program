@@ -1,7 +1,7 @@
 ---
-name: '<Bounty name>'
+name: 'Zama Bounty Program: Bounty Proposition'
 about: Propose a Bounty to the Zama Bounty Program
-title: 'Zama Bounty Program: Bounty Proposition'
+title: <enter Bounty name>
 labels: Proposition
 assignees: aquint-zama, zaccherinij
 ---
