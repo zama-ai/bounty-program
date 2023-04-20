@@ -11,18 +11,26 @@ assignees: aquint-zama, zaccherinij
 
 Please give us as much information as possible on the bounty you would like to submit. You can find inspiration from our existing list of bounties [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties).
 
-- Propose a bounty name: `bounty_name`
+<!-- Propose a bounty name -->
+- Bounty name:
 
-- Propose a bounty type: `easy_bounty`, `major_bounty`, `moonshot_bounty`
+<!-- Propose a bounty type: `easy_bounty`, `major_bounty`, `moonshot_bounty` -->
+- Bounty type:
 
-- Propose a category: `Application`, `Engineering`, `FPGA`,  `Machine_learning`, `Research`
+<!-- Propose a Category: `Application`, `Engineering`, `FPGA`,  `Machine_learning`, `Research` -->
+- Category:
 
-- Overview: `Short_description_of_your_proposition`
+<!-- Propose an overview: Short description of your proposition -->
+- Overview:
 
-- Description: `Complete_and_detailed_description_of_your_proposition`
+<!-- Propose a Description: Complete and detailed description of your proposition -->
+- Description:
 
-- Library targeted: `TFHE-rs`, `Concrete`, `Concrete-ML`
+<!-- Library targeted (multiple choices possible) `TFHE-rs`, `Concrete`, `Concrete-ML` -->
+- Library targeted:
 
-- Reward: `Amount_in_euros`
+<!-- Give an estimate of the reward value of your bounty (will be later validated by Zama) -->
+- Reward:
 
-- Related links and reference:`any_relevant_link`
+<!-- Give any links that could help solve your bounty (papers, articles, existing implementation…) -->
+- Related links and reference:
