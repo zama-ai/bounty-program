@@ -73,10 +73,10 @@ Do you want to contribute something that is not part of an existing bounty? We a
 
 # FAQ
 ### How often are new bounties added to the list?
-The list of bounties is updated every quarter. Season 1 was launched during Q4-2022.
+The list of bounties is updated after every season. Season 1 was launched during Q4-2022.
 
 ### How long will it take to get my submission reviewed?
-Most of the submissions will be reviewed at the end of the quarter to decide who gets the bounties. Some exceptions might occur for stellar submissions sent early on a quarter.
+Most of the submissions will be reviewed at the end of the season to decide who gets the bounties. Some exceptions might occur for stellar submissions sent early during a season.
 
 ### I have more questions, where can I contact the Zama team?
 You can either write us at: bounty@zama.ai or ping us on the dedicated discord channel [here](https://discord.fhe.org).
