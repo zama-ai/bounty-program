@@ -6,7 +6,7 @@ labels: Proposition
 assignees: aquint-zama, zaccherinij
 ---
 
-# **Zama Bounty Program: Proposition**
+# Zama Bounty Program: Proposition
 
 Please give us as much information as possible on the bounty you would like to submit. You can find inspiration from our existing list of bounties [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties).
 

@@ -7,19 +7,17 @@ assignees: zaccherinij, aquint-zama
 
 ---
 
-# **Zama Bounty Program Application**
+# Zama Bounty Program Application
 
 - Bounty Github Link (See the full list of bounties [here](https://github.com/zama-ai/bounty-program/tree/main/Bounties)): `Bounty_link`
 
-- Your name or username: `username`
+<!-- Fill with your username github.com/<username> -->
+- Github username: 
 
-- Link to your Github account: `github.com/<username>`
+<!-- What's your background? How did you learn about the Zama Bounty Program? Is it your first contribution to a Bounty Program? Or any other relevant information -->
+- About you:
 
-- Tell us more about yourself (and/or your team): `Lorem ipsum dolor sit amet`
-
-- Please provide as much relevant information as possible: How did you learn about the Zama Bounty Program? Is it your first contribution to a Bounty Program? Or any other relevant information: `Lorem ipsum dolor sit amet`
-
-# **Terms and conditions**
+# Terms and conditions
 
 If your contribution is accepted, we need you to read and sign our Terms and Conditions below to get rewarded:
 
