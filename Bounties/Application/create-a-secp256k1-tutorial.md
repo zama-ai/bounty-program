@@ -17,6 +17,7 @@ We expect your PR to comply with the following:
 
 * Input size is fixed to 32 bytes
 * Private Key size is fixed to 32 bytes
+
 Your PR should comply with the following:
 * For Concrete Numpy:
   * Create the script `examples/secp256k1-signature.py`
