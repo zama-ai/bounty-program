@@ -99,7 +99,7 @@ Our bounty committee is responsible for everything from accepting your initial b
 | 3 | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://zama.ai/bounty-program-application)
 
 # Summary
-![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/213168034-78f33254-8a9c-40af-9455-d297e8ce3464.png)
+![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/234625279-536d4207-4d2f-4929-b1e2-932c1dbd70c8.png)
 
 
 # Support
