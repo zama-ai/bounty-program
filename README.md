@@ -35,11 +35,11 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 
 # Categories
 We currently have bounties in:
-- [Research](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Research)
+- [Application](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Application)
 - [Engineering](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Engineering)
 - [FPGA](https://github.com/zama-ai/bounty-program/tree/main/Bounties/FPGA)
 - [Machine Learning](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Machine_Learning)
-- [Application](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Application)
+- [Research](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Research)
 - [💸 Already solved](https://github.com/zama-ai/bounty-program/tree/main/Bounties/Solved)
 - [👀 View all bounties](https://github.com/zama-ai/bounty-program/tree/main/Bounties)
 
