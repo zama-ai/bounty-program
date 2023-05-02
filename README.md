@@ -58,8 +58,9 @@ Bounties of €5,000-€50,000 are available to contributors who identify and re
 ## Moonshot Bounties
 Bounties of €50,000+ are available to contributors who submit a major breakthrough.
 
-## Open Bounties
-Do you want to contribute something that is not part of an existing bounty? We are always open to suggestions, so contact us at: bounty@zama.ai
+## Bounty Proposition
+Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions, [create an issue](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=Proposition&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E) with your bounty proposition and our team will come back to you to approve, reject or ask update to your proposition.
+
 
 ![separator_2](https://user-images.githubusercontent.com/5758427/214842363-57c68cf8-b3e9-41cd-97ee-00c90b199463.png)
 
