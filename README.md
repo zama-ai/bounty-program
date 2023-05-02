@@ -29,8 +29,8 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 - ~~<b>Submission deadline</b>: January 6th, 2023 at midnight.~~
 - ~~<b>Season 2</b>: January 25th, 2023 -> April 7th, 2023.~~
 - ~~<b>Submission deadline</b>: April 7th, 2023 at midnight.~~
-- <b>Season 3</b>: May 4th, 2023 -> July 30, 2023
-- <b>Submissoin deadline:</b> July 30, 2023 at midnight
+- <b>Season 3</b>: May 4th, 2023 -> July 30th, 2023
+- <b>Submissoin deadline:</b> July 30th, 2023 at midnight
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
