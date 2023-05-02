@@ -1,6 +1,4 @@
 ## Easy Bounties
-- [Create a tutorial for new models.](tutorial-for-new-models.md)
-- [Create a tutorial comparing regressors](tutorial-Adding-a-comparison-of-regressors.md)
 - [Create a client/server application to play Chess in FHE](create-an-app-play-chess-in-fhe.md)
 
 ## Expert Bounties
@@ -13,4 +11,5 @@
 - [Train a large network in FHE](fhe-training.md)
 
 ## Solved Bounties
-None at this time.
+- [Create a tutorial for new models.](../Solved/tutorial-for-new-models.md)
+- [Create a tutorial comparing regressors](../Solved/tutorial-Adding-a-comparison-of-regressors.md)
