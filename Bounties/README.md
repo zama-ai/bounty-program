@@ -34,8 +34,8 @@
 * [Add bitwise operations in Concrete Numpy](Solved/add-bitwise-operations.md) `€2,500 awarded`
 * [Add bitwise shift operations in Concrete Numpy](Solved/add-bitwise-shift-operations.md) `€1,800 awarded`
 * [Create a FHE encrypted key-value database example with Concrete Numpy](Solved/create-key-value-database-app.md) `€8,500 awarded`
-* [Create a SHA256 tutorial for Concrete Numpy or TFHE-rs](Solved/Application/create-a-sha256-tutorial.md)
-* [Create a dark market application tutorial with Concrete Numpy or TFHE-rs](Solved/Application/create-a-dark-market-app-tutorial.md)
-* [Create a homomorphic regex engine and write a tutorial with Concrete Numpy or TFHE-rs](Solved/Application/create-regex-engine-tutorial.md)
-* [Create a tutorial for new models with Concrete-ML](Solved/Machine_Learning/tutorial-for-new-models.md)
-* [Compare regressors with Concrete-ML](Solved/Machine_Learning/tutorial-Adding-a-comparison-of-regressors.md)
+* [Create a SHA256 tutorial for Concrete Numpy or TFHE-rs](Solved/create-a-sha256-tutorial.md)
+* [Create a dark market application tutorial with Concrete Numpy or TFHE-rs](Solved/create-a-dark-market-app-tutorial.md)
+* [Create a homomorphic regex engine and write a tutorial with Concrete Numpy or TFHE-rs](Solved/create-regex-engine-tutorial.md)
+* [Create a tutorial for new models with Concrete-ML](Solved/tutorial-for-new-models.md)
+* [Compare regressors with Concrete-ML](Solved/tutorial-Adding-a-comparison-of-regressors.md)
