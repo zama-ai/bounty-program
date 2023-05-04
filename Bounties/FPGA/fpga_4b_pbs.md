@@ -58,7 +58,7 @@ A valid submission contains the following:
  - access to the working accelerator with code and instructions to launch the performance benchmarking.
 
 ## Bounty type
-[Expert bounty](https://github.com/zama-ai/zama-bounty-program#expert-bounties)
+[Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
 
 ## Reward
 The overall reward is scaled linearly based on throughput as follows:

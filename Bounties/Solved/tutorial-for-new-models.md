@@ -24,7 +24,7 @@ If one needs to modify the library to have the tutorial, it is ok, but then, rul
 [Concrete-ML](https://github.com/zama-ai/concrete-ml)
 
 ## Bounty type
-[Easy bounty](https://github.com/zama-ai/zama-bounty-program#easy-bounties)
+[Easy bounty](https://github.com/zama-ai/bounty-program#easy-bounties)
 
 ## Reward
 Up to €500 per tutorial

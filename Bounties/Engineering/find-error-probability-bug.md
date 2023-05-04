@@ -52,7 +52,7 @@ for example, if you have 2 tlus back to back, error probablility increases to al
 [Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
 
 ## Bounty type
-[Easy bounty](https://github.com/zama-ai/zama-bounty-program#easy-bounties)
+[Easy bounty](https://github.com/zama-ai/bounty-program#easy-bounties)
 
 ## Reward
 €500 to €5,000 depending on the severity of the issue and the quality of the report.

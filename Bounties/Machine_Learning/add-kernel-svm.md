@@ -26,7 +26,7 @@ You can also change / add things in Concrete-Numpy, as soon as tests are not bro
 [Concrete-ML](https://github.com/zama-ai/concrete-ml)
 
 ## Bounty type
-[Expert bounty](https://github.com/zama-ai/zama-bounty-program#expert-bounties)
+[Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
 
 ## Reward
 Up to €5,000

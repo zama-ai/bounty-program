@@ -30,7 +30,7 @@ In term of deliverables, we expect:
 [Concrete-ML](https://github.com/zama-ai/concrete-ml)
 
 ## Bounty type
-[Moonshot bounty](https://github.com/zama-ai/zama-bounty-program#moonshot-bounties)
+[Moonshot bounty](https://github.com/zama-ai/bounty-program#moonshot-bounties)
 
 ## Reward
 - Up to €50,000 for a CIFAR10 classifier
