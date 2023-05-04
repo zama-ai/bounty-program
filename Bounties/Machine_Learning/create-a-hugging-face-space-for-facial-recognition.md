@@ -17,7 +17,7 @@ You can use any model architecture that you find fit for this task. Concrete-ML 
 [Concrete-ML](https://github.com/zama-ai/concrete-ml)
 
 ## Bounty type
-[Expert bounty](https://github.com/zama-ai/zama-bounty-program#expert-bounties)
+[Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
 
 ## Reward
 €3,000 to €5,000

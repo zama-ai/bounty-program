@@ -57,7 +57,7 @@ We expect your PR to comply with the following:
 [Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
 
 ## Bounty type
-[Easy bounty](https://github.com/zama-ai/zama-bounty-program#easy-bounties)
+[Easy bounty](https://github.com/zama-ai/bounty-program#easy-bounties)
 
 ## Reward
 Up to  €3,500

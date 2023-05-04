@@ -6,13 +6,13 @@ Thank you very much in advance for your understanding and your support!
 
 Our team remains at your disposal should you have any questions. Please note that these GTC apply only to Individual Contributors. If you are contributing on behalf of a company, please refer to the Company-specific Terms and Conditions.
 
-### Scope of the General Terms and Conditions 
+### Scope of the General Terms and Conditions
 
 These General Terms and Conditions (the "GTC") apply to and govern Contributors’ participation in Zama’s Bounty Program (the "Program"). These GTC are between each Contributor and Zama, a simplified joint stock company incorporated and acting under the laws of France, whose registered office is located at 41 boulevard Malesherbes, Paris 75008, registered with the Paris Register of Commerce and Companies under the reference 879243319 RCS Paris ("Zama"). By participating in the Program in any manner and/or submitting any Contributions to Zama, Contributors hereby confirm that they have read and expressly agree to and accept these GTC without any reservation or modification.
 
 FOR THE AVOIDANCE OF DOUBT, IT IS EXPRESSLY AGREED THAT THESE T&C DO NOT APPLY TO ANY LEGAL ENTITIES, INCLUDING WITHOUT LIMITATION, LABORATORIES AND UNIVERSITIES WHICH ARE KINDLY ASKED TO SIGN THE TERMS AND CONDITIONS OF ZAMA’S BOUNTY PROGRAM SPECIFIC TO COMPANIES.
 
-Zama may modify these GTC from time to time and at its sole discretion and without notice. The new version of the GTC will be published on the Zama’s page on the Site and will come into force immediately upon such publication. If Zama changes the GTC, by continuing to participate in the Program after Zama posts any such changes, Contributor is deemed to have accepted the GTC, as modified. In case of disagreement with the new GTC provisions, Contributor undertakes to cease all participation in the Program which will result in de facto and immediate termination of any and all its contractual relationship with Zama without any additional formality being required. 
+Zama may modify these GTC from time to time and at its sole discretion and without notice. The new version of the GTC will be published on the Zama’s page on the Site and will come into force immediately upon such publication. If Zama changes the GTC, by continuing to participate in the Program after Zama posts any such changes, Contributor is deemed to have accepted the GTC, as modified. In case of disagreement with the new GTC provisions, Contributor undertakes to cease all participation in the Program which will result in de facto and immediate termination of any and all its contractual relationship with Zama without any additional formality being required.
 
 Zama may restrict, suspend, terminate, or otherwise change any aspect of the Program and/or the fulfillment of any Bounty payment at any time. By continuing to participate in the Program, Contributor is deemed to have accepted the changes, if any.
 
@@ -23,9 +23,9 @@ To avoid any confusion and misunderstanding, Contributor expressly agrees to rea
 For the purposes of construction and performance of these GTC, the meaning of the terms listed below will be as follows:
 
 **"Account"** means a personal account created by a Contributor on the Deel platform for the purposes of the Program and these GTC.
-"Bounty(ies)" means any amount of money granted to Contributor in consideration of the Contributions duly provided by Contributor pursuant to the Program and these GTC and to the entire Zama’s satisfaction. Providing solutions is mandatory to get Bounties. The decisions regarding any Bounties are made by Zama in its sole and absolute discretion. 
+"Bounty(ies)" means any amount of money granted to Contributor in consideration of the Contributions duly provided by Contributor pursuant to the Program and these GTC and to the entire Zama’s satisfaction. Providing solutions is mandatory to get Bounties. The decisions regarding any Bounties are made by Zama in its sole and absolute discretion.
 
-**"Contribution(s)"** means the tests to be run and other contributions, including providing tutorials, to be made under the Program within the framework thereof. Contributions may include, among others, any action to compromise the Products, to analyze the level of security in place and to look for Vulnerabilities or security exploitation techniques, as well as to provide tutorials and improve Product’s documentation. Contributions must be submitted directly to the Zama’s team. "Deel" means Deel. Inc, a Delaware registered company having its headquarters at 425 1st St, San Francisco, California, 941054621, United States. 
+**"Contribution(s)"** means the tests to be run and other contributions, including providing tutorials, to be made under the Program within the framework thereof. Contributions may include, among others, any action to compromise the Products, to analyze the level of security in place and to look for Vulnerabilities or security exploitation techniques, as well as to provide tutorials and improve Product’s documentation. Contributions must be submitted directly to the Zama’s team. "Deel" means Deel. Inc, a Delaware registered company having its headquarters at 425 1st St, San Francisco, California, 941054621, United States.
 
 **"Intellectual Property"** means any work of the mind, which may be protected or covered by patents, patent applications, inventions, copyrights, trademarks, service marks, distinctive marks and other trade-identifying symbols, logos, slogans, databases, topography, trade secrets, confidential information, know-how, trade or business names.
 
@@ -33,11 +33,11 @@ For the purposes of construction and performance of these GTC, the meaning of th
 
 **"Product(s)"** means Zama Concrete, Concrete Numpy, Concrete ML, Concrete Core and any other Zama’s products, the list of which may be updated by Zama from time to time.
 
-**"Program"** designates the Zama’s description of the assistance it is seeking from Contributors, the scope, requirements and  conditions of which are specified on https://github.com/zama-ai/zama-bounty-program, enabling Contributors to submit the Contributions in accordance with theses GTC for a chance to earn Bounties. Zama may change or cancel the Program at any time, for any reason and without notice. If Zama changes the Program, by continuing to participate in such a Program, Contributor is deemed to have accepted the changes. The participation in the Program is voluntary.
+**"Program"** designates the Zama’s description of the assistance it is seeking from Contributors, the scope, requirements and  conditions of which are specified on https://github.com/zama-ai/bounty-program, enabling Contributors to submit the Contributions in accordance with theses GTC for a chance to earn Bounties. Zama may change or cancel the Program at any time, for any reason and without notice. If Zama changes the Program, by continuing to participate in such a Program, Contributor is deemed to have accepted the changes. The participation in the Program is voluntary.
 
-**"Contributor(s)"** means an eligible natural person (excluding any companies or other legal entities) who participates individually in the Program and provides Contributions within the framework of the Program and in accordance with the GTC. Contributor’s eligibility is determined pursuant to Article 2 below. As an independent participant, Contributor may act in a non-professional or professional capacity. 
+**"Contributor(s)"** means an eligible natural person (excluding any companies or other legal entities) who participates individually in the Program and provides Contributions within the framework of the Program and in accordance with the GTC. Contributor’s eligibility is determined pursuant to Article 2 below. As an independent participant, Contributor may act in a non-professional or professional capacity.
 
-**"Site"** refers to the Internet site accessible from the URL address https://github.com/zama-ai/zama-bounty-program enabling Contributor to subscribe to and participate in the Program.
+**"Site"** refers to the Internet site accessible from the URL address https://github.com/zama-ai/bounty-program enabling Contributor to subscribe to and participate in the Program.
 
 "Vulnerabilities" designates any bug, defect, incident, security flaw or a weakness, a design- or execution error, an absence of alignment to the most recent state of the art, or any other (technical) error which, individually or cumulatively, compromises the use or operation of the Product's functionalities.
 
@@ -51,7 +51,7 @@ To be eligible for the Program, Contributor must:
 - Be NOT in violation of any national, state, or local law or regulation, or any convention or treaty in any way affecting the GTC or/and the Program;
 - Be NOT employed by Zama or its subsidiaries or affiliates;
 - Be NOT an immediate family member of a person employed by Zama or its subsidiaries or affiliates;
-- Be NOT bound by a non-competition clause nor by a non-disclosure agreement prohibiting his or her participation in the Program. 
+- Be NOT bound by a non-competition clause nor by a non-disclosure agreement prohibiting his or her participation in the Program.
 
 **Zama is not liable for any breach of any third party agreement by Contributor and expressly disclaims any knowledge of or responsibility for Contributor’s conduct.**
 
@@ -61,7 +61,7 @@ Any person who does not meet any of the criteria above will be immediately remov
 
 Contributor expressly acknowledges that he or she has no link of dependence or subordination, whether direct or indirect with Zama or any of its affiliates or beneficiaries. Nothing in these GTC shall be read so as to construe any legal entity, joint venture, agency, commercial agency, affectio societatis or employment contract between Contributor and Zama (or any of its affiliates or beneficiaries) for any purpose whatsoever. Contributor shall not have the authority or power to bind Zama or to contract in the Zama’s name or on its behalf.
 
-Contributor acknowledges that he or she acts in an occasional and non-exclusive way. 
+Contributor acknowledges that he or she acts in an occasional and non-exclusive way.
 
 Contributor determines, independently and at its own discretion, the means he or she intends to provide the Contributions in accordance with the Program and these GTC.
 
@@ -82,7 +82,7 @@ During the creation and use of his or her Deel Account, Contributor commits to p
 
 ### Article 5. Contributor’s Obligations
 
-#### 5.2. General Contributor’s Obligations 
+#### 5.2. General Contributor’s Obligations
 
 Contributor undertakes to participate in the Program for lawful purposes only and shall comply with all applicable laws and regulations.
 
@@ -96,7 +96,7 @@ Zama reserves the right, without liability or prejudice to its other rights, to 
 
 Contributor is informed that his or her activity carried out under the Program is likely to generate an obligation of affiliation to a legal status according to applicable laws. Contributors shall therefore find out about and acquire the legal status appropriate to his or her situation. Moreover, contributors are informed that the Bounties must be subject to taxation or social or fiscal taxation according to the criteria of fiscal territoriality.
 
-Contributor hereby expressly acknowledges that it is his or her sole responsibility to inform himself or herself about his or her legal, tax and social obligations, to subscribe to them and to comply with them. Contributor is required to make all the declarations required by the tax authorities and the social security organizations to which he or she belongs, depending on his or her status and his or her country of residence in and outside the European Union. Zama can under no circumstances be involved in these steps and its liability can, under no circumstances and for any reason whatsoever, be engaged in this respect. 
+Contributor hereby expressly acknowledges that it is his or her sole responsibility to inform himself or herself about his or her legal, tax and social obligations, to subscribe to them and to comply with them. Contributor is required to make all the declarations required by the tax authorities and the social security organizations to which he or she belongs, depending on his or her status and his or her country of residence in and outside the European Union. Zama can under no circumstances be involved in these steps and its liability can, under no circumstances and for any reason whatsoever, be engaged in this respect.
 
 #### 5.3. Disclosure Guidelines
 
@@ -123,24 +123,24 @@ Contributor expressly and definitely assigns to Zama, free of charge, on an excl
 The rights granted hereunder include:
 
 - The right to extract, decompile, modify, assemble, transcribe, arrange, interface the Contributions for any purposes whatsoever;
-- The right to reproduce or to have others reproduce, on a temporary or permanent basis, i.e. the right to fix, digitize, reproduce the Contributions without limitation in number, notably on media such as magnetic, digital, slide, microfilm, CD-ROM, CD-I, DVD, hard drive, flash memory, or any other IT or electronic media, whether known or unknown as at the date of these GTC, current or future; 
+- The right to reproduce or to have others reproduce, on a temporary or permanent basis, i.e. the right to fix, digitize, reproduce the Contributions without limitation in number, notably on media such as magnetic, digital, slide, microfilm, CD-ROM, CD-I, DVD, hard drive, flash memory, or any other IT or electronic media, whether known or unknown as at the date of these GTC, current or future;
 - The rights to represent or to have others represent, to disseminate or to have others disseminate, to publish or to have others publish, to operate or to have others operate, to communicate or to have others communicate whatever the format and the presentation, in full or in part, in any language and any country, by any means, whether known or future, free of charge or for consideration, including public representation. Such right includes, among others, - - the broadcasting by electronic communication means, including the Internet and Intranet, by cable and any other broadcasting means, current or future;
 - The commercial exploitation rights, i.e. the rights for any type of exploitation, including by rental, lending, license or assignment, free of charge or for consideration, for all or part of the assigned Work Contributions;
 - The rights to collect or have collected in all countries the fees corresponding to the exploitation of the assigned rights on all or part of the Contributions, their adaptations or translations.
-- The rights to modify or have others modify, improve or have others improve, correct or develop by addition, deletion, incorporation or adaptation, translation, evolution, subtraction, of all or part of the Contributions, and the rights to incorporate the Contributions, in all or part, into an existing or future work; 
+- The rights to modify or have others modify, improve or have others improve, correct or develop by addition, deletion, incorporation or adaptation, translation, evolution, subtraction, of all or part of the Contributions, and the rights to incorporate the Contributions, in all or part, into an existing or future work;
 - The rights to claim title to designs and models, trademarks, including the priority rights for any extensions;
 - The rights to grant licenses on all or part of the aforementioned rights, as well as the rights to assign such rights in whole or in part.
 Contributor undertakes to execute any document and otherwise shall assist Zama to carry out any formalities in this respect with any register concerned that may be necessary for the purposes of filing, exploiting or defending Zama’s exclusive rights over the Contributions.
 
 #### 6.3. Inventions Assignment. Patents
 
-Contributor hereby expressly and definitely assigns to Zama, without restriction or reservation, all his or her rights to ideas, improvements and inventions, whether patentable or not over the Contributions (the "Inventions"). 
+Contributor hereby expressly and definitely assigns to Zama, without restriction or reservation, all his or her rights to ideas, improvements and inventions, whether patentable or not over the Contributions (the "Inventions").
 
 It is expressly agreed that the Inventions as well as all works, studies, researches and documents relating thereto shall be the sole and exclusive property of Zama. Zama shall be the only one entitled to exploit the Inventions and to carry out all registration formalities in its name, Contributor being able, however, if he wishes, to be mentioned as the inventor.
 
 Contributor undertakes to provide all assistance as well as all useful documents and signatures and to carry out all the procedures that may be necessary for the purposes of filing, exploiting or defending these patents.
 
-Contributor undertakes to execute any document, including patent applications, invention assignment and otherwise shall assist Zama and carry out any formalities in this respect with any register concerned. 
+Contributor undertakes to execute any document, including patent applications, invention assignment and otherwise shall assist Zama and carry out any formalities in this respect with any register concerned.
 
 This assignment is granted exclusively, definitively and free of charge, for the entire legal period of protection of the rights concerned and for the whole world.
 
@@ -169,9 +169,9 @@ Contributor will be fully and solely responsible for any legal, tax and social i
 
 Contributor is informed that, if necessary, and in particular in accordance with its legal obligations, Zama may be required to communicate any information relating to the Bounties to any appropriate and duly authorised authorities that make the request and expressly agree with such communication.
 
-### Article 8. Warranty - Liability 
+### Article 8. Warranty - Liability
 
-#### 8.1 Limitation of Zama’s Liability 
+#### 8.1 Limitation of Zama’s Liability
 
 The Program may contain links to websites or services operated by third parties and these links are for convenience only. Zama is not responsible for and disclaims any and all liability for such websites and services content and privacy policies and does not endorse any linked material.
 
@@ -193,9 +193,9 @@ Contributor is fully liable for any disclosure of Vulnerabilities or other Contr
 
 ### Article 9. Processing of Personal Data
 
-Contributor has entered into the Program and these GTC including, incidentally, the processing of personal data under Law No. 78-17 of January 6, 1978, as well as under Regulation (EU) 2016/679 as of April 27, 2016 on the Protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (the "GDPR"). Zama and Contributor will comply with the legislation in force, in all its developments concerning the processing of personal data. 
+Contributor has entered into the Program and these GTC including, incidentally, the processing of personal data under Law No. 78-17 of January 6, 1978, as well as under Regulation (EU) 2016/679 as of April 27, 2016 on the Protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (the "GDPR"). Zama and Contributor will comply with the legislation in force, in all its developments concerning the processing of personal data.
 
-Zama and Contributor consider that all operations carried out on personal data, if any, are carried out only within the framework of the execution of the Program and these GTC. 
+Zama and Contributor consider that all operations carried out on personal data, if any, are carried out only within the framework of the execution of the Program and these GTC.
 
 Zama and Contributor acknowledge that, within the framework of their contractual relationship, each party acts as controller of the personal data that it processes for their respective needs. Each party is therefore solely responsible for the use of personal data that it makes for its own account independently of the other party. Each party acknowledges that it may communicate or transmit personal data to the other party for the performance of its obligations under these GTC. Each party warrants that such personal data is processed and transmitted in accordance with applicable data protection laws.
 Each party implements appropriate technical and organizational measures to ensure a level of security appropriate to the risks associated with the processing, these measures being in particular appropriate to protect against destruction, loss, alteration or unauthorized, accidental or unlawful disclosure of personal data processed under these GTC. These measures must take into account the state of the art, the nature, scope, context and purposes of the processing, as well as the risk of damage resulting from unauthorized or unlawful processing, or loss, destruction or alteration, accidental or unlawful, of personal data.
@@ -223,17 +223,17 @@ Failure to comply with this Article 10 and the requirement of confidentiality wi
 The Program and these GTC are governed by, and shall be construed in accordance with French law without its conflict of law provisions.
 All disputes arising out of or in connection with the construction, performance, termination or invalidity of the Program or/and these GTC shall be resolved by negotiation between the parties.
 
-If the parties have not resolved the dispute by coming to mutual agreement during twenty (20) calendar days  after setting a notice on the dispute, Zama and Contributor give express and exclusive jurisdiction to the appropriate courts within the jurisdiction of the Court of Appeal of Paris, France notwithstanding a plurality of defendants or plaintiffs or summary proceedings or third party claim or precautionary measure or appeals. 
+If the parties have not resolved the dispute by coming to mutual agreement during twenty (20) calendar days  after setting a notice on the dispute, Zama and Contributor give express and exclusive jurisdiction to the appropriate courts within the jurisdiction of the Court of Appeal of Paris, France notwithstanding a plurality of defendants or plaintiffs or summary proceedings or third party claim or precautionary measure or appeals.
 
 ### Article 12. Miscellaneous
 
 #### 12.1. Severability
-Should one or more of the provisions of these GTC be declared null and void in accordance with applicable law, they shall be deemed to be not written, and the other provisions herein shall remain in full force and effect. Such null and void provisions shall be replaced by the parties with the valid provisions allowing the parties to achieve the effect that was contemplated by the provisions declared null and void, to the extent possible. 
+Should one or more of the provisions of these GTC be declared null and void in accordance with applicable law, they shall be deemed to be not written, and the other provisions herein shall remain in full force and effect. Such null and void provisions shall be replaced by the parties with the valid provisions allowing the parties to achieve the effect that was contemplated by the provisions declared null and void, to the extent possible.
 
 #### 12.2. Non waiver
 Failure by one of the parties to enforce any clause of these GTC, whether permanently or temporarily, shall under no circumstance be construed as a waiver of the rights of the said party under the said clause.
 
-#### 12.3. Third-Party Rights 
+#### 12.3. Third-Party Rights
 The parties do not intend that any term of these GTC will be enforceable by any person who is not a party to these GTC.
 
 ON BEHALF OF CONTRIBUTOR:

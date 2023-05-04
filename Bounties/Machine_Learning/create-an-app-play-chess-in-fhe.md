@@ -18,7 +18,7 @@ What we expect:
 [Concrete-ML](https://github.com/zama-ai/concrete-ml)
 
 ## Bounty type
-[Easy bounty](https://github.com/zama-ai/zama-bounty-program#easy-bounties)
+[Easy bounty](https://github.com/zama-ai/bounty-program#easy-bounties)
 
 ## Reward
 €2,500 - €5,000
