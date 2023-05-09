@@ -1,6 +1,9 @@
 # Compare regressors with Concrete-ML
 `Machine Learning`
 
+## ✅ Solution 
+This bounty has been solved, see the entire solution here.
+
 ## Overview
 Comparison of regressors available in Concrete-ML
 
