@@ -1,12 +1,16 @@
 # Create a tutorial for new models with Concrete-ML
 `Machine Learning`
 
+## ✅ Solution 
+- See the tutorial for LinearSVC here
+- See the tutorial for LinearSVR here
+- See the tutorial for DecisionTreeRegressor here
+
 ## Overview
 Create tutorials for various models available in Concrete-ML
 
 ## Description
 Create tutorials for models which do not have tutorials, i.e.:
-- one tutorial for Lasso, Ridge, ElasticNet (all the three models in the same tutorial)
 - one tutorial for LinearSVC
 - one tutorial for LinearSVR
 - one tutorial for DecisionTreeRegressor
