@@ -3,19 +3,20 @@ name: Welcome New Contributor
 
 on:
   issues:
-    types: [ labeled ]
+    types:
+      - labeled
 
 jobs:
   welcome-new-contributor:
     runs-on: ubuntu-latest
     steps:
       - name: Greet new proposition
-        uses: garg3133/welcome-new-contributors@a38583ed8282e23d63d7bf919ca2d9fb95300ca6
-        if: ${{ github.event.label.name == 'Proposition' }}
+        uses: peter-evans/create-or-update-comment@ca08ebd5dc95aa0cd97021e9708fcd6b87138c9b
+        if: github.event.label.name == 'Proposition'
         with:
           token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
-          is-oauth-token: true
-          issue-message: 'Hello  _**${{ github.event.issues.author }}**_,
+          issue-number: ${{ github.event.issue.number }}
+          body: 'Hello  _**${{ github.event.issue.author }}**_,
 
 Thank you for your proposition to the Zama Bounty Program. Our team will review your proposition and provide you with some feedback shortly, but in the meantime:
 1. We recommend you to join the FHE.org discord server for any questions (you’ll find a dedicated #zama-bounty-program channel, and the Zama team hang out there a lot so you’ll receive ⚡️ lightning fast support to any of your questions)
@@ -28,12 +29,12 @@ Thank you for your proposition to the Zama Bounty Program. Our team will review 
 Talk soon,'
 
       - name: Greet new application
-        uses: garg3133/welcome-new-contributors@a38583ed8282e23d63d7bf919ca2d9fb95300ca6
-        if: ${{ github.event.label.name == 'Application' }}
+        uses: peter-evans/create-or-update-comment@ca08ebd5dc95aa0cd97021e9708fcd6b87138c9b
+        if: github.event.label.name == 'Application'
         with:
           token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
-          is-oauth-token: true
-          issue-message: 'Hello  _**${{ github.event.issues.author }}**_,
+          issue-number: ${{ github.event.issue.number }}
+          body: 'Hello  _**${{ github.event.issue.author }}**_,
 
 Thank you for your application to the Zama Bounty Program, we’re happy to have you interested with what we do at Zama.
 As a heads up, here are few important things.
