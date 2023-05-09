@@ -2,7 +2,7 @@
 `Application`
 
 ## ✅ Solution 
-- This bounty has been solved, see the entire solution here.
+This bounty has been solved, see the entire solution here.
 
 ## Overview
 Create a tutorial demonstrating how to develop a homomorphic SHA256 function
