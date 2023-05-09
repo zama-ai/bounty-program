@@ -8,7 +8,7 @@ Classification of ImageNet in FHE
 
 Homomorphically train a Resnet or similar neural network to classify CIFAR10 or Imagenet using TFHE.
 
-Assume that the dataset is owned by an entity C, and is encrypted with a single secret key K only known to C. The training is done by an independant entity S, which outputs a model whose weights are also encrypted by the same key K. The key K is obviously not known by the entity S, but only by C.
+Assume that the dataset is owned by an entity C, and is encrypted with a single secret key K only known to C. The training is done by an independent entity S, which outputs a model whose weights are also encrypted by the same key K. The key K is obviously not known by the entity S, but only by C.
 
 This means:
 - the training dataset is encrypted with a single secret key K
@@ -44,7 +44,7 @@ In term of deliverables, we expect:
 - [Contributing documentation](https://docs.zama.ai/concrete-ml/developer-guide/contributing)
 
 ## Submission
-Apply directly to this bounty by sending an application [here](https://zama.ai/bounty-program-application).
+Apply directly to this bounty by opening an application [here](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E).
 
 ## Questions?
 Do you have a specific question about this bounty? Join the live conversation on the FHE.org discord server [here](https://discord.fhe.org). You can also send us an email at: bounty@zama.ai

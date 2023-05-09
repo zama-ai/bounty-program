@@ -31,7 +31,7 @@ You can use any model architecture that you find fit for this task. Concrete-ML 
 - [Contributing documentation](https://docs.zama.ai/concrete-ml/developer-guide/contributing)
 
 ## Submission
-Apply directly to this bounty by sending an application [here](https://zama.ai/bounty-program-application).
+Apply directly to this bounty by opening an application [here](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E).
 
 ## Questions?
 Do you have a specific question about this bounty? Join the live conversation on the FHE.org discord server [here](https://discord.fhe.org). You can also send us an email at: bounty@zama.ai

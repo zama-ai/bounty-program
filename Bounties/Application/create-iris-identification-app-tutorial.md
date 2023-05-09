@@ -1,4 +1,4 @@
-# Develop an HE-based iris identification application tutorial with Concrete Numpy or TFHE-rs
+# Develop an HE-based iris identification application tutorial with Concrete
 `Application`
 
 ## Overview
@@ -12,7 +12,7 @@ In its paper "Hybrid biometric template protection: Resolving the agony of choic
 
 The bounty objective is to:
 
-* use Concrete-Numpy or TFHE-rs to implement a single key TFHE-based BTP for an access control system
+* use Concrete to implement a single key TFHE-based BTP for an access control system
 * all reference templates are stored encrypted in a database on the server
 
 The client:
@@ -30,16 +30,11 @@ Then the server:
 * the UBIRIS.V2 database will be used to compute the error rates
 
 Your PR should comply with the following:
-* For Concrete Numpy:
-  * Create the app `examples/iris-identification/{client,server}.py`
-  * Create the tutorial `docs/tutorial/iris-identification.{md,ipynb}`
-* For TFHE-rs:
-  * Create the app `tfhe/examples/iris-identification/{client,server}.rs`
-  * Create the tutorial `tfhe/docs/tutorial/iris-identification.md`
+* Create the app `frontends/concrete-python/examples/iris-identification/{client,server}.py`
+* Create the tutorial `docs/tutorial/iris-identification.{md,ipynb}`
 
 ## Library targeted
-* [Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
-* [TFHE-rs](https://github.com/zama-ai/tfhe-rs)
+* [Concrete](https://github.com/zama-ai/concrete)
 
 ## Bounty type
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
@@ -48,16 +43,14 @@ Your PR should comply with the following:
 Up to €5,000
 
 ## Related links and references
-* [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
-* [Concrete-Numpy contribution guide](https://docs.zama.ai/concrete-numpy/developer/contributing)
-* [TFHE-rs documentation](https://docs.zama.ai/tfhe-rs)
-* [TFHE-rs contribution guide](https://docs.zama.ai/tfhe-rs/developers/contributing)
+* [Concrete documentation](https://docs.zama.ai/concrete)
+* [Concrete contribution guide](https://docs.zama.ai/concrete/developer/contributing)
 <!-- markdown-link-check-disable-next-line -->
 * [Resolving the agony of choice between bloom filters and homomorphic encryption](https://doi.org/10.1049/bme2.12075)
 * [UBIRIS.v2](http://iris.di.ubi.pt/ubiris2.html) Use password: UBIRIS2_IEEETPAMI_101109_200966
 
 ## Submission
-Apply directly to this bounty by sending an application [here](https://zama.ai/bounty-program-application).
+Apply directly to this bounty by opening an application [here](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E).
 
 ## Questions?
 Do you have a specific question about this bounty? Join the live conversation on the FHE.org discord server [here](https://discord.fhe.org). You can also send us an email at: bounty@zama.ai

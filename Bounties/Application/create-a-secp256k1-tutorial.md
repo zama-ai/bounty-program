@@ -1,4 +1,4 @@
-# Create a FHE ECDSA signature tutorial with Concrete Numpy or TFHE-rs
+# Create a FHE ECDSA signature tutorial with TFHE-rs
 `Application`
 
 ## Overview
@@ -19,18 +19,11 @@ We expect your PR to comply with the following:
 * Private Key size is fixed to 32 bytes
 
 Your PR should comply with the following:
-* For Concrete Numpy:
-  * Create the script `examples/secp256k1-signature.py`
-  * Create the tutorial `docs/tutorial/secp256k1-signature.{md,ipynb}`
-* For TFHE-rs:
-  * Create the script `tfhe/examples/secp256k1-signature.rs`
-  * Create the tutorial `tfhe/docs/tutorial/secp256k1-signature.md`
+* Create the script `tfhe/examples/secp256k1-signature.rs`
+* Create the tutorial `tfhe/docs/tutorial/secp256k1-signature.md`
 
 ## Library targeted
 * [TFHE-rs](https://github.com/zama-ai/tfhe-rs)
-* [Concrete-Numpy](https://github.com/zama-ai/concrete-numpy)
-
-TFHE-rs implementation is preferred but Concrete-Numpy implementations are also accepted.
 
 ## Bounty type
 [Expert bounty](https://github.com/zama-ai/bounty-program#expert-bounties)
@@ -39,15 +32,13 @@ TFHE-rs implementation is preferred but Concrete-Numpy implementations are also 
 Up to €7,500
 
 ## Related links and references
-- [Concrete-Numpy documentation](https://docs.zama.ai/concrete-numpy)
-- [Concrete-Numpy contribution guide](https://docs.zama.ai/concrete-numpy/developer/contributing)
 - [TFHE-rs documentation](https://docs.zama.ai/tfhe-rs)
 - [TFHE-rs contribution guide](https://docs.zama.ai/tfhe-rs/developers/contributing)
 - [secp256k1 implementation example](https://github.com/bitcoin-core/secp256k1)
 - [secp256k1 unofficial test vectors](https://chuckbatson.wordpress.com/2014/11/26/secp256k1-test-vectors)
 
 ## Submission
-Apply directly to this bounty by sending an application [here](https://zama.ai/bounty-program-application).
+Apply directly to this bounty by opening an application [here](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E).
 
 ## Questions?
 Do you have a specific question about this bounty? Join the live conversation on the FHE.org discord server [here](https://discord.fhe.org). You can also send us an email at: bounty@zama.ai
