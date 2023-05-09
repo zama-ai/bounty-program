@@ -1,6 +1,9 @@
 # Create a dark market application tutorial with Concrete Numpy or TFHE-rs
 `Application`
 
+## ✅ Solution 
+This bounty has been solved, see the entire solution here.
+
 ## Overview
 Create an FHE implementation of the Dark Market algorithm given in https://eprint.iacr.org/2022/923.
 
