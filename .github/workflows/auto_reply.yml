@@ -1,0 +1,49 @@
+# Reply to issue creation based on type of message opened
+name: Welcome New Contributor
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  welcome-new-contributor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Greet new proposition
+        uses: garg3133/welcome-new-contributors@a38583ed8282e23d63d7bf919ca2d9fb95300ca6
+        if: ${{ contains(github.event.issues.labels.*.name, 'Proposition') }}
+        with:
+          token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
+          is-oauth-token: true
+          issue-message: 'Hello  _**${{ github.event.issues.author }}**_,
+
+Thank you for your proposition to the Zama Bounty Program. Our team will review your proposition and provide you with some feedback shortly, but in the meantime:
+1. We recommend you to join the FHE.org discord server for any questions (you’ll find a dedicated #zama-bounty-program channel, and the Zama team hang out there a lot so you’ll receive ⚡️ lightning fast support to any of your questions)
+* [https://discord.fhe.org](https://discord.fhe.org/)
+2. You can also ask us any technical questions about our libraries on the Zama community support forum here:
+* [https://community.zama.ai](https://community.zama.ai)
+3. If you have any questions regarding the bounty program that you would like to ask privately to our team, please write us at:
+* [bounty@zama.ai](mailto:bounty@zama.ai)
+
+Talk soon,'
+
+      - name: Greet new application
+        uses: garg3133/welcome-new-contributors@a38583ed8282e23d63d7bf919ca2d9fb95300ca6
+        if: ${{ contains(github.event.issues.labels.*.name, 'Application') }}
+        with:
+          token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
+          is-oauth-token: true
+          issue-message: 'Hello  _**${{ github.event.issues.author }}**_,
+
+Thank you for your application to the Zama Bounty Program, we’re happy to have you interested with what we do at Zama.
+As a heads up, here are few important things.
+1. We recommend you to join the FHE.org discord server for any questions (you’ll find a dedicated #zama-bounty-program channel, and the Zama team hang out there a lot so you’ll receive ⚡️ lightning fast support to any of your questions)
+* [https://discord.fhe.org](https://discord.fhe.org/)
+2. You can also ask us any technical questions about the Zama libraries on the Zama community support forum here:
+* [https://community.zama.ai](https://community.zama.ai)
+3. If you have any questions regarding the bounty program and your submission that you would like to ask privately to our team, please write us at:
+* [bounty@zama.ai](mailto:bounty@zama.ai)
+4. Last but not least, we are reviewing all submissions at the end of each quarter, but feel free to submit your work at any time:
+* [https://zama.ai/bounty-program-submission](https://zama.ai/bounty-program-submission)
+
+Talk soon,'
