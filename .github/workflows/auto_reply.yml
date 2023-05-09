@@ -3,7 +3,7 @@ name: Welcome New Contributor
 
 on:
   issues:
-    types: [opened]
+    types: [ labeled ]
 
 jobs:
   welcome-new-contributor:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Greet new proposition
         uses: garg3133/welcome-new-contributors@a38583ed8282e23d63d7bf919ca2d9fb95300ca6
-        if: ${{ contains(github.event.issues.labels.*.name, 'Proposition') }}
+        if: ${{ github.event.label.name == 'Proposition' }}
         with:
           token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
           is-oauth-token: true
@@ -29,7 +29,7 @@ Talk soon,'
 
       - name: Greet new application
         uses: garg3133/welcome-new-contributors@a38583ed8282e23d63d7bf919ca2d9fb95300ca6
-        if: ${{ contains(github.event.issues.labels.*.name, 'Application') }}
+        if: ${{ github.event.label.name == 'Application' }}
         with:
           token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
           is-oauth-token: true
