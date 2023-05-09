@@ -1,7 +1,7 @@
 # Create a homomorphic regex engine and write a tutorial about it
 
 ## ✅ Solution 
-- This bounty has been solved, see the entire solution here.
+This bounty has been solved, see the entire solution here.
 
 ## Overview
 Create a homomorphic regular expression engine that operate on encrypted bytes of an ASCII string and write a tutorial about it.
