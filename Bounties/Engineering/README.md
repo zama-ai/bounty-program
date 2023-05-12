@@ -1,5 +1,5 @@
 ## Easy Bounties
-- [Find a probability Error bug in Concrete Numpy](find-error-probability-bug.md)
+- [Find a probability Error bug in Concrete](find-error-probability-bug.md)
 
 ## Expert Bounties
 None at this time.

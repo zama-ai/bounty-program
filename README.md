@@ -98,7 +98,7 @@ Our bounty committee is responsible for everything from accepting your initial b
 | ------------- | ------------- | ------------- |
 | 1 | <a href="https://github.com/alpaylan"><img src="https://avatars.githubusercontent.com/u/19610315?v=4" width="20px"> Alpaylan</a> | 8,500€
 | 2 | <img src="https://lh4.googleusercontent.com/-uQzATsY1KCJXPMntUEdMXfRkqvBy949jorwjnmAxBtgs1cMoYrrSuDZCCLNcsy4g7A=w2400" width="20px"> Anonymous | 6,800€
-| 3 | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://zama.ai/bounty-program-application)
+| 3 | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E)
 
 # Summary
 ![zama_bounty_program_summary](https://user-images.githubusercontent.com/5758427/234625279-536d4207-4d2f-4929-b1e2-932c1dbd70c8.png)
