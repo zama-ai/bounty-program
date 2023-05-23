@@ -9,7 +9,7 @@ assignees: zaccherinij, aquint-zama
 
 # Zama Bounty Program Application
 
-<!-- See the full list of bounties https://github.com/zama-ai/bounty-program/tree/main/Bounties  -->
+<!-- See the full list of bounties https://github.com/zama-ai/bounty-program  -->
 - Bounty Github Link:
 
 <!-- Fill with your username github.com/<username> -->
