@@ -61,9 +61,8 @@ With the launch of Season 3, we will be featuring only one bounty for each Zama 
 #### How long will it take to get my submission reviewed?
 We are reviewing most of the submissions at the end of every seasons. Some exceptions might occur for stellar submissions sent early during a season.
 
-### Is the reward guaranteed if I submit a solution?
-Every bounty will be reviewed as regular code submission. If the quality or performance are not matching the bounty requirements, you could be partially / not
-rewarded. If there is no accepted submission for a given bounty during a season, the bounty is kept open for the next one.
+#### How are bounties reviewed?
+Every bounty submission is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded. If a bounty is not solved during a specific season, it can be kept open for the next one.
 
 #### I have more questions, where can I contact the Zama team?
 You can either write us at: bounty@zama.ai or ping us on the dedicated discord channel [here](https://discord.fhe.org).
