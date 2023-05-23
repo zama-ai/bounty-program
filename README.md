@@ -31,12 +31,9 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 
 # Season 3 bounties
 We currently have bounties targeting our main libraries:
-- **TFHE-rs** —— 📁 [Github](https://github.com/zama-ai/tfhe-rs) - 📒 [Documentation](https://docs.zama.ai/tfhe-rs)
-  - [Create a FHE ECDSA signature tutorial](https://github.com/zama-ai/bounty-program/issues/45)
-- **Concrete** —— 📁 [Github](https://github.com/zama-ai/concrete-ml) - 📒 [Documentation](https://docs.zama.ai/concrete-ml)
-  - [To be announced](#)
-- **Concrete ML** —— 📁 [Github](https://github.com/zama-ai/concrete-ml) - 📒 [Documentation](https://docs.zama.ai/concrete-ml)
-  - [Create an application "Play Chess" in FHE](https://github.com/zama-ai/bounty-program/issues/46)
+- **TFHE-rs**: [Create a FHE ECDSA signature tutorial.](https://github.com/zama-ai/bounty-program/issues/45)
+- **Concrete**: [To be announced.](#)
+- **Concrete ML**: [Create an application "Play Chess" in FHE.](https://github.com/zama-ai/bounty-program/issues/46)
 
 ### Propose a bounty
 Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
