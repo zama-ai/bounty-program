@@ -33,6 +33,8 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 We currently have bounties targeting our main libraries:
 - **TFHE-rs** —— 📁 [Github](https://github.com/zama-ai/tfhe-rs) - 📒 [Documentation](https://docs.zama.ai/tfhe-rs)
   - [Create a FHE ECDSA signature tutorial](https://github.com/zama-ai/bounty-program/issues/45)
+- **Concrete** —— 📁 [Github](https://github.com/zama-ai/concrete-ml) - 📒 [Documentation](https://docs.zama.ai/concrete-ml)
+  - [To be announced](#)
 - **Concrete ML** —— 📁 [Github](https://github.com/zama-ai/concrete-ml) - 📒 [Documentation](https://docs.zama.ai/concrete-ml)
   - [Create an application "Play Chess" in FHE](https://github.com/zama-ai/bounty-program/issues/46)
 
