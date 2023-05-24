@@ -52,7 +52,7 @@ Do you want to contribute to the Zama Bounty Program with a bounty that is not a
 
 ### FAQ
 #### How often are new bounties added to the list?
-The list of bounties is updated after every season (usually, one season = one quarter). 
+The list of bounties is updated after every season 
 Season 1 was launched during Q4-2022.
 Rules have slightly changed sinced the beginning of Season 3, and we will only be featuring one bounty for each Zama library. 
 But, we encourage anyone to submit [bounty propositions](#propose-a-bounty).
