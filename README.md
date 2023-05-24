@@ -4,7 +4,7 @@
     <br/><br/>
   <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-3-%3498db?style=flat-square"></a>
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
-  <a href="https://zama.ai/.zama.ai"><img src="https://img.shields.io/badge/Community-support-yellow?style=flat-square"></a>
+  <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-support-yellow?style=flat-square"></a>
   <br/><br/>
   <br />
 </p>
