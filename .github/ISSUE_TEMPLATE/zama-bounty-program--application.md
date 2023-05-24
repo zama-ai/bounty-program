@@ -2,7 +2,7 @@
 name: 'Application'
 about: Join the Zama Bounty Program
 title: <enter Bounty name>
-labels: Application
+labels: 👊 User application
 assignees: zaccherinij, aquint-zama
 
 ---
