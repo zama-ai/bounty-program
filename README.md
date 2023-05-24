@@ -58,7 +58,7 @@ Rules have slightly changed since the beginning of Season 3, and we will only be
 But, we encourage anyone to submit [bounty propositions](#propose-a-bounty).
 
 #### How long will it take to get my submission reviewed?
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https://zama.ai/bounty-program-submission). .
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https://zama.ai/bounty-program-submission).
 
 #### How are bounties reviewed?
 Every bounty solution is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded. If a bounty is not solved during a specific season, it can be kept open for the next one.
