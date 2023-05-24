@@ -52,14 +52,16 @@ Do you want to contribute to the Zama Bounty Program with a bounty that is not a
 
 ### FAQ
 #### How often are new bounties added to the list?
-The list of bounties is updated after every season (quarter). Season 1 was launched during Q4-2022.
-With the launch of Season 3, we will be featuring only one bounty for each Zama library. But we encourage anyone to submit [bounty propositions](#propose-a-bounty).
+The list of bounties is updated after every season (usually, one season = one quarter). 
+Season 1 was launched during Q4-2022.
+Rules have slightly changed sinced the beginning of Season 3, and we will only be featuring one bounty for each Zama library. 
+But, we encourage anyone to submit [bounty propositions](#propose-a-bounty).
 
 #### How long will it take to get my submission reviewed?
-We are reviewing most of the submissions at the end of every seasons. Some exceptions might occur for stellar submissions sent early during a season.
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https://zama.ai/bounty-program-submission). .
 
 #### How are bounties reviewed?
-Every bounty submission is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded. If a bounty is not solved during a specific season, it can be kept open for the next one.
+Every bounty solution is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded. If a bounty is not solved during a specific season, it can be kept open for the next one.
 
 #### I have more questions, where can I contact the Zama team?
 You can either write us at: bounty@zama.ai or ping us on the dedicated discord channel [here](https://discord.fhe.org).
