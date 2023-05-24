@@ -32,7 +32,7 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 # Season 3 bounties
 We currently have bounties targeting our main libraries:
 - **TFHE-rs**: [Create a FHE ECDSA signature tutorial.](https://github.com/zama-ai/bounty-program/issues/45)
-- **Concrete**: To be announced.
+- **Concrete**: [Encrypted Matrix Inversion](https://github.com/zama-ai/bounty-program/issues/55)
 - **Concrete ML**: [Create an application "Play Chess" in FHE.](https://github.com/zama-ai/bounty-program/issues/46)
 
 ### Propose a bounty
