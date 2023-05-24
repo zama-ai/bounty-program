@@ -2,7 +2,7 @@
 name: 'Bounty Proposition'
 about: Propose a Bounty to the Zama Bounty Program
 title: <enter Bounty name>
-labels: Proposition
+labels: ☝️ Open bounty proposition
 assignees: aquint-zama, zaccherinij
 ---
 
