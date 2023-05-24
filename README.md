@@ -25,7 +25,7 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 
 ### Important dates
 - <b>Season 3</b>: May 24th, 2023 -> August 27th, 2023
-- <b>Submissoin deadline:</b> August 27th, 2023 at midnight AoE (Anywhere on Earth)
+- <b>Submission deadline:</b> August 27th, 2023 at midnight AoE (Anywhere on Earth)
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
@@ -52,9 +52,9 @@ Do you want to contribute to the Zama Bounty Program with a bounty that is not a
 
 ### FAQ
 #### How often are new bounties added to the list?
-The list of bounties is updated after every season 
+The list of bounties is updated after every season
 Season 1 was launched during Q4-2022.
-Rules have slightly changed sinced the beginning of Season 3, and we will only be featuring one bounty for each Zama library. 
+Rules have slightly changed since the beginning of Season 3, and we will only be featuring one bounty for each Zama library.
 But, we encourage anyone to submit [bounty propositions](#propose-a-bounty).
 
 #### How long will it take to get my submission reviewed?
