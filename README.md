@@ -81,8 +81,8 @@ Our bounty committee is responsible for everything from accepting your initial b
 | ------------- | ------------- | ------------- |
 | 1 | <a href="https://github.com/rklompuu"><img src="https://avatars.githubusercontent.com/u/12587255?v=4" width="20px"> RKlompUU</a> | 10,000€
 | 2 | <a href="https://github.com/alpaylan"><img src="https://avatars.githubusercontent.com/u/19610315?v=4" width="20px"> Alpaylan</a> | 8,500€
-| 3 | <a href="https://github.com/poeschel"><img src="https://avatars.githubusercontent.com/u/29667245?v=4" width="20px"> Poeschel</a> | 6,800€
-| 4 | <a href="https://github.com/yagizsenal"><img src="https://avatars.githubusercontent.com/u/17150640?v=4" width="20px"> Yagisnezal</a> | 4,000€
+| 3 | <a href="https://github.com/poechsel"><img src="https://avatars.githubusercontent.com/u/29667245?v=4" width="20px"> Poechsel</a> | 6,800€
+| 4 | <a href="https://github.com/yagizsenal"><img src="https://avatars.githubusercontent.com/u/17150640?v=4" width="20px"> Yagizsenal</a> | 4,000€
 | 5 | <a href="https://github.com/josesk999"><img src="https://avatars.githubusercontent.com/u/83597627?v=4" width="20px"> JoseSK999</a> | 3,750€
 | 6 | <a href="https://github.com/rasoulam"><img src="https://avatars.githubusercontent.com/u/18232979?v=4" width="20px"> RasoulAM</a> | 3,750€
 | 6 | <a href="https://github.com/amt42"><img src="https://avatars.githubusercontent.com/u/59479833?v=4" width="20px"> AmT42</a> | 500€
