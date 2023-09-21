@@ -89,7 +89,7 @@ Our bounty committee is responsible for everything from accepting your initial b
 | 7 | <a href="https://github.com/oboulant"><img src="https://avatars.githubusercontent.com/u/12909374?v=4" width="20px"> Oboulant</a> | 500€
 | 8 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4" width="20px"> Robinstraub</a> | 500€
 | 9 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> Thomas-quadratic</a> | 500€
-| 10 | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E)
+| ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E)
 
 
 # Summary
