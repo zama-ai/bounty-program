@@ -24,18 +24,18 @@
 Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
 ### Important dates
-- <b>Season 3</b>: May 24th, 2023 -> August 27th, 2023
-- <b>Submission deadline:</b> August 27th, 2023 at midnight AoE (Anywhere on Earth)
+- <b>Season 4</b>: September 27th, 2023 -> December 17th, 2023
+- <b>Submission deadline:</b> December 17th, 2023 at midnight AoE (Anywhere on Earth)
 
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
-# Season 3 bounties
+# Season 4 bounties
 We currently have bounties targeting our main libraries:
-- **TFHE-rs**: [Create a FHE ECDSA signature tutorial.](https://github.com/zama-ai/bounty-program/issues/45)
-- **Concrete**: [Encrypted Matrix Inversion.](https://github.com/zama-ai/bounty-program/issues/55)
-- **Concrete ML**: [Create an application "Play Chess" in FHE.](https://github.com/zama-ai/bounty-program/issues/46)
+- **TFHE-rs**: _add link to bounty_
+- **Concrete**: _add link to bounty_
+- **fhEVM**: _add link to bounty_
 
-### Propose a bounty
+### Open bounty // Propose a bounty you would like to work on
 Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
 - [Open a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=Proposition&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E)
 
