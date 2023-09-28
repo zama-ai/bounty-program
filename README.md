@@ -2,7 +2,7 @@
 <!-- bounty program logo -->
   <img width=100% src="https://user-images.githubusercontent.com/5758427/231228314-85ba6a92-f25d-47c7-abe1-c4c8da09ea45.png">
     <br/><br/>
-  <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-3-%3498db?style=flat-square"></a>
+  <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-4-%3498db?style=flat-square"></a>
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-support-yellow?style=flat-square"></a>
   <br/><br/>
@@ -32,10 +32,10 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 # Season 4 bounties
 We currently have bounties targeting our main libraries:
 - **TFHE-rs**: [Create a String Library That Works on Encrypted Data Using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
-- **Concrete**: [https://github.com/zama-ai/bounty-program/issues/79](Create a Privacy Preserving Version of Shazam Using FHE and Concrete ML)
+- **Concret ML**: [Create a Privacy Preserving Version of Shazam Using FHE and Concrete ML](https://github.com/zama-ai/bounty-program/issues/79])
 - **fhEVM**: [Create an Automated Market Maker Using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/81)
 
-### Open bounty // Propose a bounty you would like to work on
+### Open bounties // Propose a bounty you would like to work on
 Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
 - [Open a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=Proposition&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E)
 
@@ -81,14 +81,16 @@ Our bounty committee is responsible for everything from accepting your initial b
 | ------------- | ------------- | ------------- |
 | 1 | <a href="https://github.com/rklompuu"><img src="https://avatars.githubusercontent.com/u/12587255?v=4" width="20px"> RKlompUU</a> | 10,000€
 | 2 | <a href="https://github.com/alpaylan"><img src="https://avatars.githubusercontent.com/u/19610315?v=4" width="20px"> Alpaylan</a> | 8,500€
-| 3 | <a href="https://github.com/poechsel"><img src="https://avatars.githubusercontent.com/u/29667245?v=4" width="20px"> Poechsel</a> | 6,800€
-| 4 | <a href="https://github.com/yagizsenal"><img src="https://avatars.githubusercontent.com/u/17150640?v=4" width="20px"> Yagizsenal</a> | 4,000€
-| 5 | <a href="https://github.com/josesk999"><img src="https://avatars.githubusercontent.com/u/83597627?v=4" width="20px"> JoseSK999</a> | 3,750€
-| 6 | <a href="https://github.com/rasoulam"><img src="https://avatars.githubusercontent.com/u/18232979?v=4" width="20px"> RasoulAM</a> | 3,750€
-| 6 | <a href="https://github.com/amt42"><img src="https://avatars.githubusercontent.com/u/59479833?v=4" width="20px"> AmT42</a> | 500€
-| 7 | <a href="https://github.com/oboulant"><img src="https://avatars.githubusercontent.com/u/12909374?v=4" width="20px"> Oboulant</a> | 500€
-| 8 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4" width="20px"> Robinstraub</a> | 500€
-| 9 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> Thomas-quadratic</a> | 500€
+| 3 | <a href="https://github.com/Lcressot"><img src="https://avatars.githubusercontent.com/u/12514349?v=4" width="20px"> Lcressot</a> | 7,500€
+| 4 | <a href="https://github.com/Tetration-Lab"><img src="https://avatars.githubusercontent.com/u/120179265?s=200&v=4" width="20px"> Tetration-Lab</a> | 7,500€
+| 5 | <a href="https://github.com/poechsel"><img src="https://avatars.githubusercontent.com/u/29667245?v=4" width="20px"> Poechsel</a> | 6,800€
+| 6 | <a href="https://github.com/yagizsenal"><img src="https://avatars.githubusercontent.com/u/17150640?v=4" width="20px"> Yagizsenal</a> | 4,000€
+| 7 | <a href="https://github.com/josesk999"><img src="https://avatars.githubusercontent.com/u/83597627?v=4" width="20px"> JoseSK999</a> | 3,750€
+| 8 | <a href="https://github.com/rasoulam"><img src="https://avatars.githubusercontent.com/u/18232979?v=4" width="20px"> RasoulAM</a> | 3,750€
+| 9 | <a href="https://github.com/amt42"><img src="https://avatars.githubusercontent.com/u/59479833?v=4" width="20px"> AmT42</a> | 500€
+| 10 | <a href="https://github.com/oboulant"><img src="https://avatars.githubusercontent.com/u/12909374?v=4" width="20px"> Oboulant</a> | 500€
+| 11 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4" width="20px"> Robinstraub</a> | 500€
+| 12 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> Thomas-quadratic</a> | 500€
 | ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E)
 
 
@@ -99,4 +101,3 @@ Our bounty committee is responsible for everything from accepting your initial b
 - Email for private questions: bounty@zama.ai
 - Official discord channel for live discussions: [discord.fhe.org](https://discord.fhe.org).
 - Zama community forum for technical questions: [community.zama.ai/bounty-program](https://community.zama.ai).
-- Read [Zama's Bounty Program announcement blog post](https://www.zama.ai/post/launching-the-zama-bounty-program).
