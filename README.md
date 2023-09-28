@@ -11,7 +11,7 @@
 
 # Table of content
 - [Overview](#Overview)
-- [Open Bounties](#Season-3-bounties)
+- [List of bounties](#Season-4-bounties)
 - [How to participate](#How-to-participate)
 - [Committee](#Committee)
 - [Leaderboard](#Leaderboard)
@@ -31,9 +31,9 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 
 # Season 4 bounties
 We currently have bounties targeting our main libraries:
-- **TFHE-rs**: _add link to bounty_
-- **Concrete**: _add link to bounty_
-- **fhEVM**: _add link to bounty_
+- **TFHE-rs**: [Create a String Library That Works on Encrypted Data Using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
+- **Concrete**: [https://github.com/zama-ai/bounty-program/issues/79](Create a Privacy Preserving Version of Shazam Using FHE and Concrete ML)
+- **fhEVM**: [Create an Automated Market Maker Using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/81)
 
 ### Open bounty // Propose a bounty you would like to work on
 Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
