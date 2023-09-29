@@ -30,14 +30,16 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 ![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
 
 # Season 4 bounties
+### Currently open bounties
 We currently have bounties targeting our main libraries:
 - **TFHE-rs**: [Create a String Library That Works on Encrypted Data Using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
 - **Concrete ML**: [Create a Privacy Preserving Version of Shazam Using FHE and Concrete ML](https://github.com/zama-ai/bounty-program/issues/79])
 - **fhEVM**: [Create an Automated Market Maker Using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/81)
 
-### Open bounties // Propose a bounty you would like to work on
+### Create a bounty proposition
 Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
-- [Open a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=Proposition&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E)
+- [Create a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=Proposition&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E)
+- Or see examples of bounties created by the community by the community [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22%E2%98%9D%EF%B8%8F+Open+bounty+proposition%22).
 
 ### Previously solved bounties
 - [Browse all bounties that were solved during previous seasons](https://github.com/zama-ai/bounty-program/issues?q=is%3Aclosed+label%3A%22%F0%9F%92%B0+Bounty+awarded%22+)
