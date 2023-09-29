@@ -65,6 +65,18 @@ We are reviewing most of the submissions at the end of every seasons. But feel f
 #### How are bounties reviewed?
 Every bounty solution is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded. If a bounty is not solved during a specific season, it can be kept open for the next one.
 
+#### What is the reward?
+Each bounty created by the team at Zama is attributed a total envelop of €15,000 for rewards.
+
+#### 🥇Best submission: up to €10,000.
+To be considered best submission, a solution must be efficient, effective and demonstrate a deep understanding of the core problem. Alongside the technical correctness, it should also be submitted with a clean code, clear explanations and a complete documentation.
+
+#### 🥈Second-best submission: up to €3,500.
+For a solution to be considered the second best submission, it should be both efficient and effective. The code should be neat and readable, while its documentation might not be as exhaustive as the best submission, it should cover the key aspects of the solution.
+
+#### 🥉Third-best submission: up to €1,500.
+The third best submission is one that presents a solution that effectively tackles the challenge at hand, even if it may have certain areas of improvement in terms of efficiency or depth of understanding. Documentation should be present, covering the essential components of the solution.
+
 #### I have more questions, where can I contact the Zama team?
 You can either write us at: bounty@zama.ai or ping us on the dedicated discord channel [here](https://discord.fhe.org).
 
