@@ -40,7 +40,7 @@ We currently have bounties targeting our main libraries:
 ### Create a bounty proposition
 Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
 - [Create a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=Proposition&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E)
-- Or see examples of bounties created by the community by the community [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22%E2%98%9D%EF%B8%8F+Open+bounty+proposition%22).
+- Or see examples of bounties created by the community by the community [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22%E2%98%9D%EF%B8%8F+Bounty+proposition%22).
 
 ### Previously solved bounties
 - [Browse all bounties that were solved during previous seasons](https://github.com/zama-ai/bounty-program/issues?q=is%3Aclosed+label%3A%22%F0%9F%92%B0+Bounty+awarded%22+)
@@ -58,7 +58,7 @@ Do you want to contribute to the Zama Bounty Program with a bounty that is not a
 The list of bounties is updated after every season
 Season 1 was launched during Q4-2022.
 Rules have slightly changed since the beginning of Season 3, and we will only be featuring one bounty for each Zama library.
-But, we encourage anyone to submit [bounty propositions](#propose-a-bounty).
+But, we encourage anyone to submit [bounty propositions](#create-a-bounty-proposition).
 
 #### How long will it take to get my submission reviewed?
 We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https://zama.ai/bounty-program-submission).

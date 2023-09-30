@@ -2,7 +2,7 @@
 name: 'Bounty Proposition'
 about: Propose a Bounty to the Zama Bounty Program
 title: <enter Bounty name>
-labels: ☝️ Open bounty proposition
+labels: ☝️ Bounty proposition
 assignees: aquint-zama, zaccherinij
 ---
 
@@ -10,7 +10,7 @@ assignees: aquint-zama, zaccherinij
 
 Please give us as much information as possible on the bounty you would like to submit. You can find inspiration from our existing list of bounties [here](https://github.com/zama-ai/bounty-program).
 
-<!-- What library is the bounty targeting? `TFHE-rs`, `Concrete`, `Concrete ML`, `Research` -->
+<!-- What library is the bounty targeting? `fhEVM`, `TFHE-rs`, `Concrete`, `Concrete ML`, `Research` -->
 - Library targeted:
 
 <!-- Propose an overview: Short description of your proposition -->
