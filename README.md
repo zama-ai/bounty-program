@@ -39,7 +39,7 @@ We currently have bounties targeting our main libraries:
 
 ### Create a bounty proposition
 Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
-- [Create a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=Proposition&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E)
+- [Create a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%E2%98%9D%EF%B8%8F+Bounty+proposition&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E)
 - Or see examples of bounties created by the community by the community [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22%E2%98%9D%EF%B8%8F+Bounty+proposition%22).
 
 ### Previously solved bounties
