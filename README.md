@@ -33,8 +33,8 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 # Season 4 bounties
 ### Currently open bounties
 We currently have bounties targeting our main libraries:
-- **TFHE-rs**: [Create a String Library That Works on Encrypted Data Using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
-- **Concrete ML**: [Create a Privacy Preserving Version of Shazam Using FHE and Concrete ML](https://github.com/zama-ai/bounty-program/issues/79)
+- **TFHE-rs**: [Create a string library that works on encrypted data Using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
+- **Concrete ML**: [Create a privacy preserving version of Shazam using FHE and Concrete ML](https://github.com/zama-ai/bounty-program/issues/79)
 - **fhEVM**: [Create an on-chain game that requires hidden information using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/81)
 
 ### Create a bounty proposition
