@@ -49,7 +49,7 @@ Do you want to contribute to the Zama Bounty Program with a bounty that is not a
 
 # How to participate?
 - 1️⃣ Read the list of bounties available [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aopen+is%3Aissue+label%3A%22%F0%9F%92%8E+Bounty%22).
-- 2️⃣ Apply directly for a bounty [here](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E).
+- 2️⃣ Apply directly by adding a comment inside the Bounty issue (you will be notified of all comments/updates).
 - 3️⃣ Join the discussion on our dedicated discord channel [here](https://discord.fhe.org), or contact us privately with any question: bounty@zama.ai.
 - 4️⃣ Submit your work when ready [here](https://zama.ai/bounty-program-submission).
 
@@ -115,4 +115,4 @@ Our bounty committee is responsible for everything from accepting your initial b
 # Support
 - Email for private questions: bounty@zama.ai
 - Official discord channel for live discussions: [discord.fhe.org](https://discord.fhe.org).
-- Zama community forum for technical questions: [community.zama.ai/bounty-program](https://community.zama.ai).
+- Zama community forum for technical questions: [community.zama.ai](https://community.zama.ai).
