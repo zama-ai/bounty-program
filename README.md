@@ -41,8 +41,8 @@ We are always open to suggestions. You can submit a bounty proposition and our t
 - [Browse all bounties that were solved during previous seasons](https://github.com/zama-ai/bounty-program/issues?q=is%3Aclosed+label%3A%22%F0%9F%92%B0+Bounty+awarded%22+)
 
 # How to participate?
-- 1️⃣ Register for the Zama bounty program [here](https://zama.ai/bounty-program-register-and-submit).
-- 2️⃣ Submit your work when you're ready and/or before the end of the season [here](https://zama.ai/bounty-program-register-and-submit).
+- 1️⃣ Register for the Zama bounty program [here](https://zama.ai/bounty-program).
+- 2️⃣ Submit your work when you're ready and/or before the end of the season [here](https://zama.ai/bounty-program).
 - 💡 Make sure to Join the discussion on our dedicated discord channel [here](https://discord.fhe.org), or contact us privately with any question: bounty@zama.ai.
 
 # FAQ
