@@ -28,43 +28,32 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 - <b>Season 4</b>: September 27th, 2023 -> December 17th, 2023
 - <b>Submission deadline:</b> December 17th, 2023 at midnight AoE (Anywhere on Earth)
 
-![separator](https://user-images.githubusercontent.com/5758427/191255076-1359262a-ed90-4612-b266-68781f16e15f.png)
-
-# Season 4 bounties
-### Currently open bounties
-We currently have bounties targeting our main libraries:
+# Season 4 available bounties
 - **TFHE-rs**: [Create a string library that works on encrypted data Using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
 - **Concrete ML**: [Create a privacy preserving version of Shazam using Concrete ML](https://github.com/zama-ai/bounty-program/issues/79)
 - **fhEVM**: [Create an on-chain game that keeps private states hidden using Zama's fhEVM programmable privacy](https://github.com/zama-ai/bounty-program/issues/81)
 
-### Create a bounty proposition
-Do you want to contribute to the Zama Bounty Program with a bounty that is not already listed? We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
-- [Create a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%E2%98%9D%EF%B8%8F+Bounty+proposition&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E)
-- Or see examples of bounties created by the community by the community [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22%E2%98%9D%EF%B8%8F+Bounty+proposition%22).
+### Want to work on something else? Submit a bounty proposition
+We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
+- [Create a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%E2%98%9D%EF%B8%8F+Bounty+proposition&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E) (or see examples of bounties created by the community by the community [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22%E2%98%9D%EF%B8%8F+Bounty+proposition%22)).
 
-### Previously solved bounties
+### Check out the list of previously solved bounties
 - [Browse all bounties that were solved during previous seasons](https://github.com/zama-ai/bounty-program/issues?q=is%3Aclosed+label%3A%22%F0%9F%92%B0+Bounty+awarded%22+)
 
-![separator_2](https://user-images.githubusercontent.com/5758427/214842363-57c68cf8-b3e9-41cd-97ee-00c90b199463.png)
-
 # How to participate?
-- 1️⃣ Read the list of bounties available [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aopen+is%3Aissue+label%3A%22%F0%9F%92%8E+Bounty%22).
-- 2️⃣ Apply directly for a bounty [here](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E).
-- 3️⃣ Join the discussion on our dedicated discord channel [here](https://discord.fhe.org), or contact us privately with any question: bounty@zama.ai.
-- 4️⃣ Submit your work when ready [here](https://zama.ai/bounty-program-submission).
+- 1️⃣ Register for the Zama bounty program [here](https://zama.ai/bounty-program-register-and-submit).
+- 2️⃣ Submit your work when you're ready and/or before the end of the season [here](https://zama.ai/bounty-program-register-and-submit).
+- 💡 Make sure to Join the discussion on our dedicated discord channel [here](https://discord.fhe.org), or contact us privately with any question: bounty@zama.ai.
 
-### FAQ
+# FAQ
 #### How often are new bounties added to the list?
-The list of bounties is updated after every season
-Season 1 was launched during Q4-2022.
-Rules have slightly changed since the beginning of Season 3, and we will only be featuring one bounty for each Zama library.
-But, we encourage anyone to submit [bounty propositions](#create-a-bounty-proposition).
+The list of bounties is updated after every season. Season 1 was launched during Q4-2022. Rules have slightly changed since the beginning of Season 3, and we there will be one bounty for each Zama library. But, we encourage anyone to submit [a bounty proposition](#want-to-work-on-something-else-submit-a-bounty-proposition).
 
 #### How long will it take to get my submission reviewed?
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https://zama.ai/bounty-program-submission).
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https://zama.ai/bounty-program-register-and-submit).
 
 #### How are bounties reviewed?
-Every bounty solution is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded. If a bounty is not solved during a specific season, it can be kept open for the next one.
+Every bounty solution is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded.
 
 #### What is the reward?
 Each bounty created by the team at Zama is attributed a total envelop of €15,000 for rewards.
@@ -84,12 +73,8 @@ You can either write us at: bounty@zama.ai or ping us on the dedicated discord c
 #### Terms and Conditions
 You can find the full terms and conditions for [individuals](https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f) and for [companies](https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f).
 
-![separator_2](https://user-images.githubusercontent.com/5758427/214842363-57c68cf8-b3e9-41cd-97ee-00c90b199463.png)
-
 # Committee
 Our bounty committee is responsible for everything from accepting your initial bounty application to reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members and external reviewers to ensure that the process is as fair, fast, and smooth as possible.
-
-![separator_3](https://user-images.githubusercontent.com/5758427/214842885-9efa0542-9542-4408-a836-b56e35bae6b0.png)
 
 # Leaderboard
 | Rank  | User | Collected |
@@ -107,10 +92,6 @@ Our bounty committee is responsible for everything from accepting your initial b
 | 11 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4" width="20px"> Robinstraub</a> | 500€
 | 12 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> Thomas-quadratic</a> | 500€
 | ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://github.com/zama-ai/bounty-program/issues/new?assignees=zaccherinij%2C+aquint-zama&labels=Application&projects=&template=zama-bounty-program--application.md&title=%3Center+Bounty+name%3E)
-
-
-# Summary
-![bounty_summary](https://user-images.githubusercontent.com/5758427/234625279-536d4207-4d2f-4929-b1e2-932c1dbd70c8.png)
 
 # Support
 - Email for private questions: bounty@zama.ai
