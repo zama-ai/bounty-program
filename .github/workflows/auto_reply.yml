@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Greet new proposition
         uses: peter-evans/create-or-update-comment@ca08ebd5dc95aa0cd97021e9708fcd6b87138c9b
-        if: github.event.label.name == '☝️ Open bounty proposition'
+        if: github.event.label.name == '☝️ Bounty proposition'
         with:
           token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
