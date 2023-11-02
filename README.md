@@ -12,7 +12,7 @@
 
 # Table of content
 - [Overview](#Overview)
-- [List of bounties](#Season-4-bounties)
+- [List of bounties](#season-4-available-bounties)
 - [How to participate](#How-to-participate)
 - [Committee](#Committee)
 - [Leaderboard](#Leaderboard)
