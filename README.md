@@ -29,7 +29,7 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 - <b>Submission deadline:</b> December 17th, 2023 at midnight AoE (Anywhere on Earth)
 
 # Season 4 available bounties
-- **TFHE-rs**: [Create a string library that works on encrypted data Using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
+- **TFHE-rs**: [Create a string library that works on encrypted data using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
 - **Concrete ML**: [Create a privacy preserving version of Shazam using Concrete ML](https://github.com/zama-ai/bounty-program/issues/79)
 - **fhEVM**: [Create an on-chain game that keeps private states hidden using Zama's fhEVM programmable privacy](https://github.com/zama-ai/bounty-program/issues/81)
 
@@ -43,7 +43,7 @@ We are always open to suggestions. You can submit a bounty proposition and our t
 # How to participate?
 - 1️⃣ Register for the Zama bounty program [here](https://zama.ai/bounty-program).
 - 2️⃣ Submit your work when you're ready and/or before the end of the season [here](https://zama.ai/bounty-program).
-- 💡 Make sure to Join the discussion on our dedicated discord channel [here](https://discord.fhe.org), or contact us privately with any question: bounty@zama.ai.
+- 💡 Make sure to Join the discussion on our products discord channel [here](https://discord.fhe.org), or contact us privately with any question: bounty@zama.ai.
 
 # FAQ
 #### How often are new bounties added to the list?
@@ -68,7 +68,7 @@ For a solution to be considered the second best submission, it should be both ef
 The third best submission is one that presents a solution that effectively tackles the challenge at hand, even if it may have certain areas of improvement in terms of efficiency or depth of understanding. Documentation should be present, covering the essential components of the solution.
 
 #### I have more questions, where can I contact the Zama team?
-You can either write us at: bounty@zama.ai or ping us on the dedicated discord channel [here](https://discord.fhe.org).
+You can either write us at: bounty@zama.ai or ping us on the products discord channel [here](https://discord.fhe.org).
 
 #### Terms and Conditions
 You can find the full terms and conditions for [individuals](https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f) and for [companies](https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f).
