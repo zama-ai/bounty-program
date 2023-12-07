@@ -26,7 +26,7 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 
 ### Important dates
 - <b>Season 4</b>: September 27th, 2023 -> December 17th, 2023
-- <b>Submission deadline:</b> December 17th, 2023 at midnight AoE (Anywhere on Earth)
+- <b>Submission deadline:</b> December 17th, 2023 at 23:59 AoE (Anywhere on Earth)
 
 # Season 4 available bounties
 - **TFHE-rs**: [Create a string library that works on encrypted data using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
