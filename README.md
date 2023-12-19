@@ -6,7 +6,7 @@
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-support-yellow?style=flat-square"></a>
   <br/><br/>
-  <p align="center">Season 4: check out the <a href="https://github.com/zama-ai/bounty-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%92%8E+Bounty%22">open bounties</a></p>
+  <p align="center">Announcing <b>Season 5</b> soon.</p>
   <br />
 </p>
 
@@ -25,7 +25,7 @@
 Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
 ### Important dates
-- <b>Season 4</b> is now over. We will soon announce the winners and season 5.
+- <b>Season 4</b> is now over. We will soon announce the winners and <b>season 5</b>.
 - ~<b>Season 4</b>: September 27th, 2023 -> December 17th, 2023~.
 - ~<b>Submission deadline:</b> December 17th, 2023 at 23:59 AoE (Anywhere on Earth)~.
 
