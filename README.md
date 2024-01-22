@@ -6,7 +6,7 @@
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-support-yellow?style=flat-square"></a>
   <br/><br/>
-  <p align="center">Announcing <b>Season 5</b> soon.</p>
+  <p align="center">Season 4 is over. Announcing <b>Season 5</b> soon.</p>
   <br />
 </p>
 
