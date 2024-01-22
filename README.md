@@ -29,11 +29,6 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty Program! As an open sou
 - ~<b>Season 4</b>: September 27th, 2023 -> December 17th, 2023~.
 - ~<b>Submission deadline:</b> December 17th, 2023 at 23:59 AoE (Anywhere on Earth)~.
 
-# Season 4 available bounties
-- **TFHE-rs**: [Create a string library that works on encrypted data using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/80)
-- **Concrete ML**: [Create a privacy preserving version of Shazam using Concrete ML](https://github.com/zama-ai/bounty-program/issues/79)
-- **fhEVM**: [Create an on-chain game that keeps private states hidden using Zama's fhEVM programmable privacy](https://github.com/zama-ai/bounty-program/issues/81)
-
 ### Want to work on something else? Submit a bounty proposition
 We are always open to suggestions. You can submit a bounty proposition and our team will come back to you to approve, reject or ask you to update your proposition.
 - [Create a bounty proposition](https://github.com/zama-ai/bounty-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%E2%98%9D%EF%B8%8F+Bounty+proposition&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Bounty+name%3E) (or see examples of bounties created by the community by the community [here](https://github.com/zama-ai/bounty-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22%E2%98%9D%EF%B8%8F+Bounty+proposition%22)).
