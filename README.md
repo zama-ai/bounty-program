@@ -25,6 +25,11 @@ Welcome to the [Zama](https://github.com/zama-ai) Bounty and Grant Program! As a
 # 💰 Bounty Program
 The Zama Bounty Program was started to incentivize the community at large to create FHE applications and solve problems that can make FHE leap 10 years into the future. This is why our bounty program is centered on contribution rather than bugs. In an effort to encourage more people to get familiar with FHE, we are rewarding up to three submissions per bounty. The proposed submissions will be ranked and rewarded based on the quality of the code, and most importantly, the speed performance (note that all our benchmarks are run on Amazon EC2 HPC7A instances).
 
+### Important dates
+- **Submission deadline:** May 12th, 2024 at 23:59 AoE (Anywhere on Earth).
+- **Season 5:** February 9th, 2024 -> May 12th, 2024.
+- **Season 4 is now over**. Winners have been announced.
+
 ### Join the Zama Bounty Program
 Check out the bounties available [Season 5] [here](https://github.com/orgs/zama-ai/projects/27/views/1).
 
