@@ -1,8 +1,8 @@
 ---
-name: 'Bounty Proposition'
-about: Propose a Bounty to the Zama Bounty Program
-title: <enter Bounty name>
-labels: ☝️ Bounty proposition
+name: 'Grant Application'
+about: Propose a Project to the Zama Grant Program
+title: <enter Project name>
+labels: ☝️ Grant application
 assignees: aquint-zama, zaccherinij
 ---
 
