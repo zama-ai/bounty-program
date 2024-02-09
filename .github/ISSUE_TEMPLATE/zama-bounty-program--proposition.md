@@ -6,21 +6,21 @@ labels: ☝️ Grant application
 assignees: aquint-zama, zaccherinij
 ---
 
-# Zama Bounty Program: Proposition
+# Zama Grant Program: Application
 
-Please give us as much information as possible on the bounty you would like to submit. You can find inspiration from our existing list of bounties [here](https://github.com/zama-ai/bounty-program).
+Please give us as much information as possible on the project you would like to submit. You can find inspiration from our existing list of grants.
 
-<!-- What library is the bounty targeting? `fhEVM`, `TFHE-rs`, `Concrete`, `Concrete ML`, `Research` -->
+<!-- What library is the project targeting? `fhEVM`, `TFHE-rs`, `Concrete`, `Concrete ML`, `Research` -->
 - Library targeted:
 
-<!-- Propose an overview: Short description of your proposition -->
+<!-- Propose an overview: Short description of your project -->
 - Overview:
 
-<!-- Propose a Description: Complete and detailed description of your proposition -->
+<!-- Propose a Description: Complete and detailed description of your project -->
 - Description:
 
-<!-- Give an estimate of the reward value of your bounty (will be later validated by the Zama team) -->
+<!-- Give an estimate of the grant you would like to received for this project (will be later validated by the Zama team) -->
 - Reward:
 
-<!-- Give any links that could help solve your bounty (papers, articles, existing implementation…) -->
+<!-- Give any links that could help us learn more about your project (papers, articles, existing implementation…) -->
 - Related links and reference:
