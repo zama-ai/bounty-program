@@ -47,13 +47,13 @@ Every contributions is reviewed as a code submission. If the code does not meet 
 #### What is the reward?
 Each bounty is attributed a total enveloppe of €15,000 in rewards.
 
-#### 🥇Best submission: up to €10,000.
+#### 🥇Best submission: up to €5,000.
 To be considered best submission, a contribution must be efficient, effective and demonstrate a deep understanding of the core problem. Alongside the technical correctness, it should also be submitted with a clean code, clear explanations and a complete documentation.
 
-#### 🥈Second-best submission: up to €3,500.
+#### 🥈Second-best submission: up to €3,000.
 For a contribution to be considered the second best submission, it should be both efficient and effective. The code should be neat and readable, while its documentation might not be as exhaustive as the best submission, it should cover the key aspects of the contribution.
 
-#### 🥉Third-best submission: up to €1,500.
+#### 🥉Third-best submission: up to €2,000.
 The third best submission is one that presents a contribution that effectively tackles the challenge at hand, even if it may have certain areas of improvement in terms of efficiency or depth of understanding. Documentation should be present, covering the essential components of the contribution.
 
 #### Grant amount
