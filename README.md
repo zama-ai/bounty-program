@@ -43,7 +43,7 @@ Head over the grand project page and click [apply to a grant](https://github.com
 Season 1 was launched during Q4-2022. A season usually lasts a few weeks to give contributors enough time to work on their solutions.
 
 #### How long will it take to get my submission reviewed?
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https://zama.ai/bounty-and-grant-program-register-and-submit).
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https://zama.ai/bounty-program).
 
 #### How are contributions reviewed?
 Every contributions is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded.
