@@ -18,8 +18,6 @@
 - [Leaderboard](#-Leaderboard)
 - [Support](#-Support)
 
-![Logo_docs (1200 × 300 px) (6)](https://github.com/zama-ai/bounty-and-grant-program-internal/assets/5758427/6d8d35be-f6ac-466b-adf9-c9210fd0ecde)
-
 # 👀 Overview
 Welcome to the [Zama](https://github.com/zama-ai) Bounty and Grant Program! As a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
 
