@@ -38,7 +38,7 @@ At Zama, we belive that FHE will be the solution to major privacy problems, and 
 ### Apply for a grant
 Head over the grand project page and click [apply to a grant](https://github.com/orgs/zama-ai/projects/27/views/1).
 
-# ⁉️ FAQ
+# ❓ FAQ
 #### How often are list of boutnies updated?
 Season 1 was launched during Q4-2022. A season usually lasts a few weeks to give contributors enough time to work on their solutions.
 
@@ -96,7 +96,7 @@ Our program committee is responsible for everything from accepting your initial 
 | 19 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> Thomas-quadratic</a> | 500€
 | ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://github.com/orgs/zama-ai/projects/27/views/1)
 
-# 🙋‍♂️ Support
+# ✅ Support
 - Email for private questions: contribute@zama.ai
 - Official discord channel for live discussions: [discord.fhe.org](https://discord.fhe.org).
 - Zama community forum for technical questions: [community.zama.ai](https://community.zama.ai).
