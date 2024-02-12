@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://docs.zama.ai/concrete-ml"> 💰 Join Bounty Program </a> | <a href="https://github.com/zama-ai/awesome-zama">  🤝 Join Grant Program </a>
+  <a href="https://github.com/orgs/zama-ai/projects/27"> 💰 Join Bounty Program </a> | <a href="https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E">  🤝 Join Grant Program </a>
 </p>
 
 <p align="center">
