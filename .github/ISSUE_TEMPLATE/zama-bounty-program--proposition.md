@@ -2,7 +2,7 @@
 name: 'Grant Application'
 about: Propose a Project to the Zama Grant Program
 title: <enter Project name>
-labels: ☝️ Grant application
+labels: 📄 Grant application
 assignees: aquint-zama, zaccherinij
 ---
 

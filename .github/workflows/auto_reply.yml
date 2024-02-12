@@ -12,32 +12,13 @@ jobs:
     steps:
       - name: Greet new proposition
         uses: peter-evans/create-or-update-comment@ca08ebd5dc95aa0cd97021e9708fcd6b87138c9b
-        if: github.event.label.name == '☝️ Bounty proposition'
+        if: github.event.label.name == '📄 Grant application'
         with:
           token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
           body: |
             Hello  _**${{ github.event.issue.user.login }}**_,
 
-            Thank you for your bounty proposition! Our team will review and add comments in your issue! In the meantime:
-            1. Join the [FHE.org discord server](https://discord.fhe.org/) for any questions (you’ll find a dedicated #zama-bounty-program channel).
+            Thank you for your Grant application! Our team will review and add comments in your issue! In the meantime:
+            1. Join the [FHE.org discord server](https://discord.fhe.org/) for any questions (pick the Zama library channel you will use).
             2. Ask questions privately: [bounty@zama.ai](mailto:bounty@zama.ai).
-
-            Talk soon,
-
-      - name: Greet new application
-        uses: peter-evans/create-or-update-comment@ca08ebd5dc95aa0cd97021e9708fcd6b87138c9b
-        if: github.event.label.name == '👊 User application'
-        with:
-          token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
-          issue-number: ${{ github.event.issue.number }}
-          body: |
-            Hello  _**${{ github.event.issue.user.login }}**_,
-
-            Thank you for your application to the Zama Bounty Program, we’re happy to have you interested with what we do at Zama, you can start to work on the bounty right away!
-            1. Join the [FHE.org discord server](https://discord.fhe.org/) for any questions (you’ll find a dedicated #zama-bounty-program channel).
-            2. Ask any technical questions on the [Zama community support forum](https://community.zama.ai).
-            3. Ask questions privately at: [bounty@zama.ai](mailto:bounty@zama.ai).
-            4. Last but not least, we are reviewing all submissions at the end of each quarter, but feel free to [submit your work](https://zama.ai/bounty-program-submission) at any time.
-
-            Talk soon,
