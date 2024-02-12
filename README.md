@@ -27,7 +27,7 @@
 ## 📃 Table of content
 - [Bounty Program](#-bounty-program)
 - [Grant Program](#-grant-program)
-- [FAQ](#-FAQ)
+- [FAQ](#FAQ)
 - [Leaderboard](#-leaderboard)
 - [Support](#-support)
 <br></br>
