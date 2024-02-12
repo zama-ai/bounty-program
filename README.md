@@ -19,7 +19,7 @@
 
 ## 🎉 Welcome to the Zama [Bounty Program](#-bounty-program) and [Grant Program](#-grant-program)! 
 
-[Zama](https://www.zama.ai/) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that simplify privacy protecion. We're happy to launch these <b>experimental</b> programs to encourage developers from the community to collaborate with us in advancing this technology!
+[Zama](https:github.com/zama-ai) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that simplify privacy protecion. We're happy to launch these <b>experimental</b> programs to encourage developers from the community to collaborate with us in advancing this technology!
 <br></br>
 
 ## 📃 Table of content
@@ -32,11 +32,11 @@
 
 ## 💰 Bounty Program
 
-Zama Bounty Program offers monetary rewards for tackling specific challenges.
+The Zama Bounty Program offers monetary rewards for tackling specific challenges.
 
 This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.  
 
-Each season, we introduce one bounty for each library ([Check Season 5 bounties](https://github.com/orgs/zama-ai/projects/27/views/1)). All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
+Each season, we introduce bounties targeting a specific Zama library ([Check Season 5 bounties](https://github.com/orgs/zama-ai/projects/27/views/1)). All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
 
 >[!Note]
 > All our benchmarks are run on Amazon EC2 HPC7A instances.
@@ -52,11 +52,11 @@ Choose your favorite bounty to participate in [Season 5 bounties](https://github
 
 ## 🤝 Grant Program
 
-Zama Grant Program provides funding to support projects and teams in buiding their own FHE applications using Zama's libraries. 
+The Zama Grant Program provides funding to support projects and teams in building their own FHE applications using Zama's libraries. 
 
 At Zama, we believe that FHE will be the key solution to solve major privacy issues, and that it's the only way to make the internet encrypted end-to-end, so people don't have to care about privacy. 
 
-This program is designed to support projects and teams in creating FHE applications that address real-world privacy issues, and are indented to be continued in development and and maintenance over time.
+This program is designed to support projects and teams in creating FHE applications that address real-world privacy issues, and are intended to be continued in development and maintenance over time.
 
 
 ### Important dates
@@ -72,14 +72,14 @@ Please submit your application [here](https://github.com/zama-ai/bounty-and-gran
 <details>
 <summary>How often are list of bounties updated?</summary>
 <br>
-Season 1 was launched during Q4-2022. A season usually lasts a several weeks to give contributors enough time to work on their solutions.
+Season 1 was launched during Q4-2022. A season usually lasts several weeks to months in order to give contributors enough time to work on their solutions.
 </details>
 <br/>
 
 <details>
 <summary>How long will it take for a bounty submission to be reviewed?</summary>
 <br>
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https:/zama.ai/bounty-program).
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https:/zama.ai/bounty-and-grant-program).
 </details>
 <br/>
 
