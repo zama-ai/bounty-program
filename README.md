@@ -19,7 +19,7 @@
 
 ## 🎉 Welcome to the Zama [Bounty Program](#-bounty-program) and [Grant Program](#-grant-program)! 
 
-[Zama](https:github.com/zama-ai) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that simplify privacy protecion. We're happy to launch these <b>experimental</b> programs to encourage developers from the community to collaborate with us in advancing this technology!
+[Zama](https://github.com/zama-ai) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that simplify privacy protecion. We're happy to launch these <b>experimental</b> programs to encourage developers from the community to collaborate with us in advancing this technology!
 <br></br>
 
 ## 📃 Table of content
