@@ -36,7 +36,7 @@ Check out the bounties available [Season 5] [here](https://github.com/orgs/zama-
 At Zama, we believe that FHE will be the solution to major privacy problems, and that it's the only way to make the internet encrypted end-to-end, so people don't have to care about privacy. This is why we launched the Zama grant Program. It aims to support projects and teams building FHE applications using Zama's libraries, that are solving real-world privacy problems, and that will continue being developed and maintain over time.
 
 ### Apply for a grant
-Head over the grand project page and click [apply to a grant](https://github.com/orgs/zama-ai/projects/27/views/1).
+Click [here](https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E)
 
 # ❓ FAQ
 
@@ -92,7 +92,7 @@ You can either write us at: bounty@zama.ai or ping us on the Zama libraries chan
 <br/>
 
 <details>
-<summary>Who is reviewing submissions to the Zama grand and bounty program? </summary>
+<summary>Who is reviewing submissions to the Zama grant and bounty program? </summary>
 <br>
 Our program committee is responsible for everything from accepting your initial contribution application to reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members to ensure that the process is as fair, fast, and smooth as possible.
 </details>
