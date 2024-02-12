@@ -1,56 +1,87 @@
 <p align="center">
 <!-- contributor program logo -->
-  
-  <img width=100% src="https://github.com/zama-ai/bounty-and-grant-program/assets/5758427/1b34051e-ce47-462b-ba94-f783e06741a4">
-    <br/><br/>
-  <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-5-%3498db?style=flat-square"></a>
-  <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
-  <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-support-yellow?style=flat-square"></a>
-  <br/><br/>
-  Check out available <a href="https://github.com/orgs/zama-ai/projects/27">bounties</a> or apply for a <a href="https://github.com/zama-ai/bounty-and-grant-program-internal/issues/new/choose">grant</a>.
+  <img width=100% src="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/18132c73-eae6-41e6-b8f4-bfe2121b4670"></p>
+
+
+
+<p align="center">
+  <a href="https://docs.zama.ai/concrete-ml"> 💰 Join Bounty Program </a> | <a href="https://github.com/zama-ai/awesome-zama">  🤝 Join Grant Program </a>
 </p>
 
-# 📃 Table of content
-- [Overview](#-Overview)
+<p align="center">
+  <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-5-%3498db?style=flat-square"></a>
+  <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
+  <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
+<br></br> 
+</p>
+
+
+
+## 🎉 Welcome to the Zama [Bounty Program](#-bounty-program) and [Grant Program](#-grant-program)! 
+
+[Zama](https://github.com/zama-ai) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that make protecting privacy easy. We started these <em>experimental</em> programs to encourage developers from the community to collaborate with us in advancing the FHE space!
+<br></br>
+
+
+
+## 📃 Table of content
 - [Bounty Program](#-bounty-program)
 - [Grant Program](#-grant-program)
 - [FAQ](#-FAQ)
-- [Leaderboard](#-Leaderboard)
-- [Support](#-Support)
+- [Leaderboard](#-leaderboard)
+- [Support](#-support)
+<br></br>
 
-# 👀 Overview
-Welcome to the [Zama](https://github.com/zama-ai) Bounty and Grant Program! As a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that make protecting privacy easy, we're happy to start this <b>experimental</b> program to encourage anyone from the community to help us move the space forward.
+## 💰 Bounty Program
 
-# 💰 Bounty Program
-The Zama Bounty Program was started to incentivize the community at large to create FHE applications and solve problems that can make FHE leap 10 years into the future. This is why our bounty program is centered on contribution rather than bugs. In an effort to encourage more people to get familiar with FHE, we are rewarding up to three submissions per bounty. The proposed submissions will be ranked and rewarded based on the quality of the code, and most importantly, the speed performance (note that all our benchmarks are run on Amazon EC2 HPC7A instances).
+The Zama Bounty Program offers monetary rewards for tackling specific challenges.
+
+This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.  
+
+Each season, we introduce bounties targeting a specific Zama library ([Check Season 5 bounties](https://github.com/orgs/zama-ai/projects/27/views/1)). All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
+
+>[!Note]
+> All our benchmarks are run on Amazon EC2 HPC7A instances.
 
 ### Important dates
 - **Submission deadline:** May 12th, 2024 at 23:59 AoE (Anywhere on Earth).
 - **Season 5:** February 9th, 2024 -> May 12th, 2024.
 - **Season 4 is now over**. Winners have been announced.
 
-### Join the Zama Bounty Program
-Check out the bounties available [Season 5] [here](https://github.com/orgs/zama-ai/projects/27/views/1).
+### Join the Bounty Program
+Choose your favorite bounty to participate in [Season 5 bounties](https://github.com/orgs/zama-ai/projects/27/views/1), then follow the instructions in the description. 
+<br></br>
 
-# 🤝 Grant Program
-At Zama, we believe that FHE will be the solution to major privacy problems, and that it's the only way to make the internet encrypted end-to-end, so people don't have to care about privacy. This is why we launched the Zama grant Program. It aims to support projects and teams building FHE applications using Zama's libraries, that are solving real-world privacy problems, and that will continue being developed and maintain over time.
+## 🤝 Grant Program
 
-### Apply for a grant
-Click [here](https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E)
+The Zama Grant Program provides funding to support projects and teams in building their own FHE applications using Zama's libraries. 
 
-# ❓ FAQ
+At Zama, we believe that FHE will be the key solution to solve major privacy issues, and that it's the only way to make the internet encrypted end-to-end, so people don't have to care about privacy. 
+
+This program is designed to support projects and teams in creating FHE applications that address real-world privacy issues, and are intended to be continued in development and maintenance over time.
+
+
+### Important dates
+The Grant Program is open all year long without any specific deadline, you can [apply](https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E) anytime.
+
+
+### Join the Grant Program
+Please submit your application [here](https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E).
+<br></br>
+
+## ❓FAQ
 
 <details>
 <summary>How often are list of bounties updated?</summary>
 <br>
-Season 1 was launched during Q4-2022. A season usually lasts a several weeks to give contributors enough time to work on their solutions.
+Season 1 was launched during Q4-2022. A season usually lasts several weeks to months in order to give contributors enough time to work on their solutions.
 </details>
 <br/>
 
 <details>
 <summary>How long will it take for a bounty submission to be reviewed?</summary>
 <br>
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https:/zama.ai/bounty-program).
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https:/zama.ai/bounty-and-grant-program).
 </details>
 <br/>
 
@@ -105,7 +136,7 @@ You can find the full terms and conditions for [individuals](https://powerforms.
 </details>
 <br/>
 
-# 🏆 Leaderboard
+## 🏆 Leaderboard
 | Rank  | User | Collected |
 | ------------- | ------------- | ------------- |
 | 🏆 | <a href="https://github.com/josesk999"><img src="https://avatars.githubusercontent.com/u/83597627?v=4" width="20px"> JoseSK999</a> | 13,750€
@@ -128,8 +159,9 @@ You can find the full terms and conditions for [individuals](https://powerforms.
 | 18 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4" width="20px"> Robinstraub</a> | 500€
 | 19 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> Thomas-quadratic</a> | 500€
 | ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://github.com/orgs/zama-ai/projects/27/views/1)
+<br>
 
-# ✅ Support
+## ✅ Support
 - Email for private questions: contribute@zama.ai
 - Official discord channel for live discussions: [discord.fhe.org](https://discord.fhe.org).
 - Zama community forum for technical questions: [community.zama.ai](https://community.zama.ai).
