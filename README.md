@@ -52,7 +52,7 @@ Choose your favorite bounty to participate in [Season 5 bounties](https://github
 
 ## 🤝 Grant Program
 
-Zama Grant Program provides funding to support projects and teams in buiding FHE applications using Zama's libraries. 
+Zama Grant Program provides funding to support projects and teams in buiding their own FHE applications using Zama's libraries. 
 
 At Zama, we believe that FHE will be the key solution to solve major privacy issues, and that it's the only way to make the internet encrypted end-to-end, so people don't have to care about privacy. 
 
