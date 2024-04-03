@@ -66,7 +66,7 @@ The Grant Program is open all year long without any specific deadline, you can [
 
 
 ### Join the Grant Program
-Please submit your application [here](https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E).
+Please submit your application <a href="https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E">here</a>[here].
 <br></br>
 
 ## ❓FAQ
@@ -81,7 +81,7 @@ Season 1 was launched during Q4-2022. A season usually lasts several weeks to mo
 <details>
 <summary>How long will it take for a bounty submission to be reviewed?</summary>
 <br>
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time [here](https:/zama.ai/bounty-and-grant-program).
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time <a href="https:/zama.ai/bounty-and-grant-program">here</a>.
 </details>
 <br/>
 
@@ -118,7 +118,7 @@ The amount attributed to projects accepeted to the Zama Grant Program is decided
 <details>
 <summary>I have more questions, where can I contact the Zama team?</summary>
 <br>
-You can either write us at: bounty@zama.ai or ping us on the Zama libraries channels on the FHE.org discord [here](https://discord.fhe.org).
+You can either write us at: bounty@zama.ai or ping us on the Zama libraries channels on the FHE.org discord <a href="https://discord.fhe.org">here</a>.
 </details>
 <br/>
 
@@ -132,7 +132,7 @@ Our program committee is responsible for everything from accepting your initial 
 <details>
 <summary>What are the terms and conditions of the Zama Bounty and Grant Program?</summary>
 <br>
-You can find the full terms and conditions for [individuals](https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f) and for [companies](https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f).
+You can find the full terms and conditions for <a href="https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">individuals</a> and for <a href="https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">companies</a>.
 </details>
 <br/>
 
