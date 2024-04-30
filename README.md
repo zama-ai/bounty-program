@@ -66,7 +66,7 @@ The Grant Program is open all year long without any specific deadline, you can [
 
 
 ### Join the Grant Program
-Please submit your application <a href="https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E">here</a>[here].
+Please submit your application <a href="https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E">here</a>.
 <br></br>
 
 ## ❓FAQ
