@@ -2,22 +2,16 @@
 <!-- contributor program logo -->
   <img width=100% src="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/18132c73-eae6-41e6-b8f4-bfe2121b4670"></p>
 
-
-
 <p align="center">
-  <a href="https://github.com/orgs/zama-ai/projects/27"> 💰 Join Bounty Program </a> | <a href="https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E">  🤝 Join Grant Program </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-5-%3498db?style=flat-square"></a>
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br> 
+<b>Season 5 of the Zama Bounty Program is now over. <br/>We will be announcing winners and new bounties for season 6 soon!</b>
 </p>
 
 
 
-## 🎉 Welcome to the Zama [Bounty Program](#-bounty-program) and [Grant Program](#-grant-program)! 
+## 🎉 Welcome to the Zama Bounty Program 
 
 [Zama](https://github.com/zama-ai) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that make protecting privacy easy. We started these <em>experimental</em> programs to encourage developers from the community to collaborate with us in advancing the FHE space!
 <br></br>
@@ -25,14 +19,12 @@
 
 
 ## 📃 Table of content
-- [Bounty Program](#-bounty-program)
-- [Grant Program](#-grant-program)
-- [FAQ](#FAQ)
+- [About the Bounty Program](#-bounty-program)
 - [Leaderboard](#-leaderboard)
 - [Support](#-support)
 <br></br>
 
-## 💰 Bounty Program
+## 💰 About the Bounty Program
 
 The Zama Bounty Program offers monetary rewards for tackling specific challenges.
 
@@ -44,30 +36,7 @@ Each season, we introduce bounties targeting a specific Zama library ([Check Sea
 > All our benchmarks are run on Amazon EC2 HPC7A instances.
 
 ### Important dates
-- **Submission deadline:** May 12th, 2024 at 23:59 AoE (Anywhere on Earth).
-- **Season 5:** February 9th, 2024 -> May 12th, 2024.
-- **Season 4 is now over**. Winners have been announced.
-
-### Join the Bounty Program
-Choose your favorite bounty to participate in [Season 5 bounties](https://github.com/orgs/zama-ai/projects/27/views/1), then follow the instructions in the description. 
-<br></br>
-
-## 🤝 Grant Program
-
-The Zama Grant Program provides funding to support projects and teams in building their own FHE applications using Zama's libraries. 
-
-At Zama, we believe that FHE will be the key solution to solve major privacy issues, and that it's the only way to make the internet encrypted end-to-end, so people don't have to care about privacy. 
-
-This program is designed to support projects and teams in creating FHE applications that address real-world privacy issues, and are intended to be continued in development and maintenance over time.
-
-
-### Important dates
-The Grant Program is open all year long without any specific deadline, you can [apply](https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E) anytime.
-
-
-### Join the Grant Program
-Please submit your application <a href="https://github.com/zama-ai/bounty-and-grant-program/issues/new?assignees=aquint-zama%2C+zaccherinij&labels=%F0%9F%93%84+Grant+application&projects=&template=zama-bounty-program--proposition.md&title=%3Center+Project+name%3E">here</a>.
-<br></br>
+- **Season 5 is now over:** Winners will be announced along their solutions in the coming days. Season 6 is coming soon.
 
 ## ❓FAQ
 
@@ -109,13 +78,6 @@ The third best submission is one that presents a contribution that effectively t
 <br/>
 
 <details>
-<summary>What is the amount given for the grant program?</summary>
-<br>
-The amount attributed to projects accepeted to the Zama Grant Program is decided on a case by case basis, depending of the importance of the problem or the difficulty of its implementation.
-</details>
-<br/>
-
-<details>
 <summary>I have more questions, where can I contact the Zama team?</summary>
 <br>
 You can either write us at: bounty@zama.ai or ping us on the Zama libraries channels on the FHE.org discord <a href="https://discord.fhe.org">here</a>.
@@ -123,14 +85,14 @@ You can either write us at: bounty@zama.ai or ping us on the Zama libraries chan
 <br/>
 
 <details>
-<summary>Who is reviewing submissions to the Zama grant and bounty program? </summary>
+<summary>Who is reviewing submissions to the Zama bounty program? </summary>
 <br>
-Our program committee is responsible for everything from accepting your initial contribution application to reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members to ensure that the process is as fair, fast, and smooth as possible.
+Our program committee is responsible for reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members to ensure that the process is as fair, fast, and smooth as possible.
 </details>
 <br/>
 
 <details>
-<summary>What are the terms and conditions of the Zama Bounty and Grant Program?</summary>
+<summary>What are the terms and conditions of the Zama Bounty Program?</summary>
 <br>
 You can find the full terms and conditions for <a href="https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">individuals</a> and for <a href="https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">companies</a>.
 </details>
