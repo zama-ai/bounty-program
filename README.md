@@ -1,6 +1,6 @@
 <p align="center">
 <!-- contributor program logo -->
-  <img width=100% src="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/18132c73-eae6-41e6-b8f4-bfe2121b4670"></p>
+  <img width=100% src="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/e4917d25-9eab-48fd-8d76-b3e6a6e06c83"></p>
 
 <p align="center">
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
@@ -14,30 +14,60 @@
 ## 🎉 Welcome to the Zama Bounty Program 
 
 [Zama](https://github.com/zama-ai) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that make protecting privacy easy. We started these <em>experimental</em> programs to encourage developers from the community to collaborate with us in advancing the FHE space!
+
+The Zama Bounty Program offers monetary rewards for tackling specific challenges.
+
+This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.  
 <br></br>
 
-
-
 ## 📃 Table of content
-- [About the Bounty Program](#-about-the-bounty-program)
+- [Season 6 Bounties](#-season-6-bounties)
+- [Register](#-register)
 - [FAQ](#faq)
 - [Leaderboard](#-leaderboard)
 - [Support](#-support)
 <br></br>
 
-## 💰 About the Bounty Program
-
-The Zama Bounty Program offers monetary rewards for tackling specific challenges.
-
-This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.  
-
-Each season, we introduce bounties targeting a specific Zama library ([Check Season 5 bounties](https://github.com/orgs/zama-ai/projects/27/views/1)). All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
+## 💰 Season 6 Bounties
+Each season, we introduce bounties targeting a specific Zama library. All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
 
 >[!Note]
 > All our benchmarks are run on Amazon EC2 HPC7A instances.
 
+### Open Bounties
+- **TFHE-rs**: bounty link
+- **Concrete ML**: bounty link
+- **fhEVM**: bounty link
+  
 ### Important dates
-- **Season 5 is now over:** Winners will be announced along their solutions in the coming days. Season 6 is coming soon.
+- **Season 6**: timeline
+- **Submission deadline** : date
+<br></br>
+
+## 👉 Register
+### Step 1: Registration
+---
+Click [here] to register to the Bounty that you want to participate. Fill out the registration form with your information. Once you submit the form, you will receive a confirmation email with a link to the submission portal.
+>[!Note]
+>Check your spam folder in case you don't receive the confirmation email. If you haven't received it within an hour, please [contact us].
+
+### Step 2: Work on the Challenge
+---
+Read through the Bounty details and requirements carefully. Use the provided resources and create your own GitHub repository to store your code. 
+Throughout your work, feel free to comment directly in the Bounty if you have any questions or encounter any issues. Our team will be happy to assist you.
+
+
+
+### Step 3: Submission
+---
+Once you have completed your work, upload your completed work to the submission portal using the link provided in the confirmation email.
+
+>[!Note]
+>The deadline for submission is xxx. Late submissions will not be considered.
+
+
+We wish you the best of luck with the challenge!
+<br></br>
 
 ## ❓FAQ
 
