@@ -19,7 +19,8 @@
 
 
 ## 📃 Table of content
-- [About the Bounty Program](#-bounty-program)
+- [About the Bounty Program](#-about-the-bounty-program)
+- [FAQ](#faq)
 - [Leaderboard](#-leaderboard)
 - [Support](#-support)
 <br></br>
@@ -50,7 +51,7 @@ Season 1 was launched during Q4-2022. A season usually lasts several weeks to mo
 <details>
 <summary>How long will it take for a bounty submission to be reviewed?</summary>
 <br>
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time <a href="https:/zama.ai/bounty-and-grant-program">here</a>.
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time <a href="https://www.zama.ai/bounty-and-grant-program">here</a>.
 </details>
 <br/>
 
