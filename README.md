@@ -17,8 +17,7 @@
 
 The Zama Bounty Program offers monetary rewards for tackling specific challenges.
 
-This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.  
-<br></br>
+This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.<br></br>
 
 ## 📃 Table of content
 - [Season 6 Bounties](#-season-6-bounties)
@@ -46,25 +45,19 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
 
 ## 👉 Register
 ### Step 1: Registration
----
-Click [here] to register to the Bounty that you want to participate. Fill out the registration form with your information. Once you submit the form, you will receive a confirmation email with a link to the submission portal.
+Click [here](https://www.zama.ai/bounty-and-grant-program) to register to the Bounty that you want to participate. Fill out the registration form with your information. Once you submit the form, you will receive a confirmation email with a link to the submission portal.
 >[!Note]
 >Check your spam folder in case you don't receive the confirmation email. If you haven't received it within an hour, please [contact us].
 
 ### Step 2: Work on the Challenge
----
 Read through the Bounty details and requirements carefully. Use the provided resources and create your own GitHub repository to store your code. 
-Throughout your work, feel free to comment directly in the Bounty if you have any questions or encounter any issues. Our team will be happy to assist you.
-
-
+If you have any questions durig your work, feel free to comment directly in the Bounty issue and our team will be happy to assist you.
 
 ### Step 3: Submission
----
 Once you have completed your work, upload your completed work to the submission portal using the link provided in the confirmation email.
 
 >[!Note]
 >The deadline for submission is xxx. Late submissions will not be considered.
-
 
 We wish you the best of luck with the challenge!
 <br></br>
