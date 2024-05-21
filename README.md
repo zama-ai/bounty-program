@@ -1,6 +1,11 @@
 <p align="center">
 <!-- contributor program logo -->
-  <img width=100% src="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/e4917d25-9eab-48fd-8d76-b3e6a6e06c83"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/b5d12b77-4162-43ac-92c1-59ccdda7df35">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/1756f49e-9db5-4fcd-a664-5d83809f51f4">
+  <img alt="Zama Bounty Program">
+</picture>
+</p>
 
 <p align="center">
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
@@ -8,7 +13,6 @@
 <br></br> 
 <b>Season 5 of the Zama Bounty Program is now over. <br/>We will be announcing winners and new bounties for season 6 soon!</b>
 </p>
-
 
 
 ## 🎉 Welcome to the Zama Bounty Program 
