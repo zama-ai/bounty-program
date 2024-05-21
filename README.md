@@ -26,9 +26,9 @@ This initiative aims to inspire and incentivize the developer community to creat
 ## 📃 Table of content
 - [Season 6 Bounties](#-season-6-bounties)
 - [Register](#-register)
-- [FAQ](#faq)
 - [Leaderboard](#-leaderboard)
 - [Support](#-support)
+- [FAQ](#faq)
 <br></br>
 
 ## 💰 Season 6 Bounties
@@ -51,7 +51,7 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
 ### Step 1: Registration
 Click [here](https://www.zama.ai/bounty-and-grant-program) to register to the Bounty that you want to participate. Fill out the registration form with your information. Once you submit the form, you will receive a confirmation email with a link to the submission portal.
 >[!Note]
->Check your spam folder in case you don't receive the confirmation email. If you haven't received it within an hour, please [contact us].
+>Check your spam folder in case you don't receive the confirmation email. If you haven't received it within an hour, please contact us by email: bounty@zama.ai.
 
 ### Step 2: Work on the Challenge
 Read through the Bounty details and requirements carefully. Use the provided resources and create your own GitHub repository to store your code. 
@@ -66,65 +66,6 @@ Once you have completed your work, upload your completed work to the submission 
 We wish you the best of luck with the challenge!
 <br></br>
 
-## ❓FAQ
-
-<details>
-<summary>How often are list of bounties updated?</summary>
-<br>
-Season 1 was launched during Q4-2022. A season usually lasts several weeks to months in order to give contributors enough time to work on their solutions.
-</details>
-<br/>
-
-<details>
-<summary>How long will it take for a bounty submission to be reviewed?</summary>
-<br>
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time <a href="https://www.zama.ai/bounty-and-grant-program">here</a>.
-</details>
-<br/>
-
-<details>
-<summary>How are bounty submissions reviewed?</summary>
-<br>
-Every contributions to the bounty program is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded.
-</details>
-<br/>
-
-<details>
-<summary>What is the reward for the bounty program?</summary>
-<br>
-Each bounty is attributed a total enveloppe of €10,000 in rewards.
-  
-#### 🥇Best submission: up to €5,000.
-To be considered best submission, a contribution must be efficient, effective and demonstrate a deep understanding of the core problem. Alongside the technical correctness, it should also be submitted with a clean code, clear explanations and a complete documentation.
-
-#### 🥈Second-best submission: up to €3,000.
-For a contribution to be considered the second best submission, it should be both efficient and effective. The code should be neat and readable, while its documentation might not be as exhaustive as the best submission, it should cover the key aspects of the contribution.
-
-#### 🥉Third-best submission: up to €2,000.
-The third best submission is one that presents a contribution that effectively tackles the challenge at hand, even if it may have certain areas of improvement in terms of efficiency or depth of understanding. Documentation should be present, covering the essential components of the contribution.
-</details>
-<br/>
-
-<details>
-<summary>I have more questions, where can I contact the Zama team?</summary>
-<br>
-You can either write us at: bounty@zama.ai or ping us on the Zama libraries channels on the FHE.org discord <a href="https://discord.fhe.org">here</a>.
-</details>
-<br/>
-
-<details>
-<summary>Who is reviewing submissions to the Zama bounty program? </summary>
-<br>
-Our program committee is responsible for reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members to ensure that the process is as fair, fast, and smooth as possible.
-</details>
-<br/>
-
-<details>
-<summary>What are the terms and conditions of the Zama Bounty Program?</summary>
-<br>
-You can find the full terms and conditions for <a href="https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">individuals</a> and for <a href="https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">companies</a>.
-</details>
-<br/>
 
 ## 🏆 Leaderboard
 | Rank  | User | Collected |
@@ -152,6 +93,53 @@ You can find the full terms and conditions for <a href="https://powerforms.docus
 <br>
 
 ## ✅ Support
-- Email for private questions: contribute@zama.ai
+- Email for private questions: bounty@zama.ai
 - Official discord channel for live discussions: [discord.fhe.org](https://discord.fhe.org).
 - Zama community forum for technical questions: [community.zama.ai](https://community.zama.ai).
+<br>
+
+## ❓FAQ
+
+
+### How often are list of bounties updated?
+
+Season 1 was launched during Q4-2022. A season usually lasts several weeks to months in order to give contributors enough time to work on their solutions.
+
+### How long will it take for a bounty submission to be reviewed?
+
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time <a href="https://www.zama.ai/bounty-and-grant-program">here</a>.
+
+### How are bounty submissions reviewed?
+
+Every contributions to the bounty program is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded.
+
+
+### What is the reward for the bounty program?
+Each bounty is attributed a total enveloppe of €10,000 in rewards.
+  
+#### 🥇Best submission: up to €5,000.
+To be considered best submission, a contribution must be efficient, effective and demonstrate a deep understanding of the core problem. Alongside the technical correctness, it should also be submitted with a clean code, clear explanations and a complete documentation.
+
+#### 🥈Second-best submission: up to €3,000.
+For a contribution to be considered the second best submission, it should be both efficient and effective. The code should be neat and readable, while its documentation might not be as exhaustive as the best submission, it should cover the key aspects of the contribution.
+
+#### 🥉Third-best submission: up to €2,000.
+The third best submission is one that presents a contribution that effectively tackles the challenge at hand, even if it may have certain areas of improvement in terms of efficiency or depth of understanding. Documentation should be present, covering the essential components of the contribution.
+
+
+### I have more questions, where can I contact the Zama team?
+
+You can either write us at: bounty@zama.ai or ping us on the Zama libraries channels on the FHE.org discord <a href="https://discord.fhe.org">here</a>.
+
+
+### Who is reviewing submissions to the Zama bounty program?
+
+Our program committee is responsible for reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members to ensure that the process is as fair, fast, and smooth as possible.
+
+
+
+### What are the terms and conditions of the Zama Bounty Program?
+
+You can find the full terms and conditions for <a href="https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">individuals</a> and for <a href="https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">companies</a>.
+
+
