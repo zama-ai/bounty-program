@@ -44,7 +44,7 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
   
 ### Important dates
 - **Season 6 starting date**: May, 27th 2024
-- **Submission deadline** : August, 4th 2024 (00:00 AoE)
+- **Submission deadline** : August, 4th 2024 (Midnight, Anywhere On Earth)
 <br></br>
 
 ## 👉 Register
@@ -61,7 +61,7 @@ If you have any questions durig your work, feel free to comment directly in the 
 Once you have completed your work, upload your completed work to the submission portal using the link provided in the confirmation email.
 
 >[!Note]
->The deadline for submission is xxx. Late submissions will not be considered.
+>The deadline for submission is August, 4th 2024 (Midnight, Anywhere On Earth). Late submissions will not be considered.
 
 We wish you the best of luck with the challenge!
 <br></br>
@@ -96,6 +96,8 @@ We wish you the best of luck with the challenge!
 - Email for private questions: bounty@zama.ai
 - Official discord channel for live discussions: [discord.fhe.org](https://discord.fhe.org).
 - Zama community forum for technical questions: [community.zama.ai](https://community.zama.ai).
+- For specific bounty question, comment the dedicated issues.
+
 <br>
 
 ## ❓FAQ
