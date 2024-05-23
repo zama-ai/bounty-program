@@ -44,8 +44,8 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
 - **fhEVM**: bounty link
   
 ### Important dates
-- **Season 6**: timeline
-- **Submission deadline** : date
+- **Season 6 starting date**: 27th May
+- **Submission deadline** : 4th August midnight anywhere on earth
 <br></br>
 
 ## 👉 Register
