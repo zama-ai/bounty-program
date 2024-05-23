@@ -12,13 +12,12 @@
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br> 
-<b>Season 5 of the Zama Bounty Program is now over. <br/>We will be announcing winners and new bounties for season 6 soon!</b>
 </p>
 
 
 ## 🎉 Welcome to the Zama Bounty Program 
 
-[Zama](https://github.com/zama-ai) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that make protecting privacy easy. We started these <em>experimental</em> programs to encourage developers from the community to collaborate with us in advancing the FHE space!
+[Zama](https://github.com/zama-ai) is a cryptography company working on Fully Homomorphic Encryption (FHE) and other tools that make protecting privacy easy. We started this <em>experimental</em> bounty program to encourage developers from the community to collaborate with us in advancing the FHE space!
 
 The Zama Bounty Program offers monetary rewards for tackling specific challenges.
 
@@ -44,8 +43,8 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
 - **fhEVM**: bounty link
   
 ### Important dates
-- **Season 6 starting date**: 27th May
-- **Submission deadline** : 4th August midnight anywhere on earth
+- **Season 6 starting date**: May, 27th 2024
+- **Submission deadline** : August, 4th 2024 (00:00 AoE)
 <br></br>
 
 ## 👉 Register
@@ -108,7 +107,7 @@ Season 1 was launched during Q4-2022. A season usually lasts several weeks to mo
 
 ### How long will it take for a bounty submission to be reviewed?
 
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code at any time <a href="https://www.zama.ai/bounty-and-grant-program">here</a>.
+We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code through the submission link you received at any time.
 
 ### How are bounty submissions reviewed?
 
