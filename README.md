@@ -103,17 +103,17 @@ We wish you the best of luck with the challenge!
 ## ❓FAQ
 
 
-### How often are list of bounties updated?
+### How often is the list of bounties updated?
 
-Season 1 was launched during Q4-2022. A season usually lasts several weeks to months in order to give contributors enough time to work on their solutions.
+Season 1 was launched during Q4-2022. A season usually lasts several weeks to months in order to give contributors enough time to work on their submisssions.
 
 ### How long will it take for a bounty submission to be reviewed?
 
-We are reviewing most of the submissions at the end of every seasons. But feel free to submit your code through the submission link you received at any time.
+We are reviewing most of the submissions at the end of every season. But feel free to submit your code at anytime through the submission link you received.
 
 ### How are bounty submissions reviewed?
 
-Every contributions to the bounty program is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded.
+Every contribution to the bounty program is reviewed as a code submission. If the code does not meet the quality or the performance expected, the proposition will be rejected, or partially rewarded.
 
 
 ### What is the reward for the bounty program?
@@ -131,12 +131,12 @@ The third best submission is one that presents a contribution that effectively t
 
 ### I have more questions, where can I contact the Zama team?
 
-You can either write us at: bounty@zama.ai or ping us on the Zama libraries channels on the FHE.org discord <a href="https://discord.fhe.org">here</a>.
+Check out the *support* section below.
 
 
 ### Who is reviewing submissions to the Zama bounty program?
 
-Our program committee is responsible for reviewing your code, merging your final PR, and getting you your well-deserved reward. We have selected a broad range of Zama team members to ensure that the process is as fair, fast, and smooth as possible.
+Our program committee is responsible for reviewing your code, merging your final PR, and rewarding your submission. We have selected a broad range of Zama team members to ensure that the process is as fair, fast, and smooth as possible.
 
 
 
