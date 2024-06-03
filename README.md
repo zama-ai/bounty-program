@@ -49,7 +49,7 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
 
 ## 👉 Register
 ### Step 1: Registration
-Click [here](https://www.zama.ai/bounty-and-grant-program) to register to the Bounty that you want to participate. Fill out the registration form with your information. Once you submit the form, you will receive a confirmation email with a link to the submission portal.
+Click [here](https://www.zama.ai/bounty-and-grant-program) to register for the Bounty that you want to participate. Fill out the registration form with your information. Once you submit the form, you will receive a confirmation email with a link to the submission portal.
 >[!Note]
 >Check your spam folder in case you don't receive the confirmation email. If you haven't received it within 24 hour, please contact us by email: bounty@zama.ai.
 
