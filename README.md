@@ -51,11 +51,11 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
 ### Step 1: Registration
 Click [here](https://www.zama.ai/bounty-and-grant-program) to register for the Bounty that you want to participate. Fill out the registration form with your information. Once you submit the form, you will receive a confirmation email with a link to the submission portal.
 >[!Note]
->Check your spam folder in case you don't receive the confirmation email. If you haven't received it within 24 hour, please contact us by email: bounty@zama.ai.
+>Check your spam folder in case you don't receive the confirmation email. If you haven't received it within 24 hour, please contact us by email at bounty@zama.ai.
 
 ### Step 2: Work on the Challenge
 Read through the Bounty details and requirements carefully. Use the provided resources and create your own GitHub repository to store your code. 
-If you have any questions durig your work, feel free to comment directly in the Bounty issue and our team will be happy to assist you.
+If you have any questions during your work, feel free to comment directly in the Bounty issue and our team will be happy to assist you.
 
 ### Step 3: Submission
 Once you have completed your work, upload your completed work to the submission portal using the link provided in the confirmation email.
