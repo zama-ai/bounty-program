@@ -98,7 +98,7 @@ We wish you the best of luck with the challenge!
 | 25 | <a href="https://github.com/oboulant"><img src="https://avatars.githubusercontent.com/u/12909374?v=4" width="20px"> oboulant</a> | 500€
 | 26 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4" width="20px"> robinstraub</a> | 500€
 | 27 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> thomas-quadratic</a> | 500€
-| ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://www.zama.ai/bounty-and-grant-program)
+| ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://www.zama.ai/join-the-zama-bounty-program)
 <br>
 
 ## ✅ Support
