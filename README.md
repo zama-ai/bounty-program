@@ -32,6 +32,7 @@ This initiative aims to inspire and incentivize the developer community to creat
 <br></br>
 
 ## 💰 Season 6 Bounties
+
 Each season, we introduce bounties targeting a specific Zama library. All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
 
 - [Enhance the performance of the TFHE-rs library](https://github.com/zama-ai/bounty-program/issues/126)`€10,000`
@@ -41,11 +42,6 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
 
 >[!Note]
 > All our benchmarks are run on Amazon EC2 HPC7A instances.
-
-### Open Bounties
-- **TFHE-rs**: bounty link
-- **Concrete ML**: bounty link
-- **fhEVM**: bounty link
   
 ### Important dates
 - **Season 6 starting date**: June, 5th 2024
