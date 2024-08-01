@@ -23,10 +23,11 @@ The Zama Bounty Program offers monetary rewards for tackling specific challenges
 
 This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.<br></br>
 
-## 📃 Table of content
+## 📃 Table of Content
 - [Season 6 Bounties](#-season-6-bounties)
 - [Register](#-register)
 - [Leaderboard](#-leaderboard)
+- [Previous Winning Solutions](#-previous-winning-solutions)
 - [Support](#-support)
 - [FAQ](#faq)
 <br></br>
@@ -100,6 +101,42 @@ We wish you the best of luck with the challenge!
 | 27 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> thomas-quadratic</a> | 500€
 | ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://www.zama.ai/join-the-zama-bounty-program)
 <br>
+
+## 🎯 Previous Winning Solutions
+
+
+<details>
+  <summary> 
+ <b>Season 5</b>
+  </summary>
+</details>
+
+<details>
+  <summary> 
+ <b>Season 4</b>
+  </summary>
+</details>
+
+
+<details>
+  <summary> 
+ <b>Season 3</b>
+  </summary>
+</details>
+
+
+<details>
+  <summary> 
+ <b>Season 2</b>
+  </summary>
+</details>
+
+
+<details>
+  <summary> 
+ <b>Season 1</b>
+  </summary>
+</details>
 
 ## ✅ Support
 - Email for private questions: bounty@zama.ai
