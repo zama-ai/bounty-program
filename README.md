@@ -12,8 +12,8 @@
   <a href="https://discord.fhe.org"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br> 
+<b>Season 6 of the Zama Bounty Program is now over. <br/>We will announce the winners and new bounties for season 7 soon!</b>
 </p>
-
 
 ## 🎉 Welcome to the Zama Bounty Program 
 
@@ -45,8 +45,7 @@ Each season, we introduce bounties targeting a specific Zama library. All submis
 > All our benchmarks are run on Amazon EC2 HPC7A instances.
   
 ### Important dates
-- **Season 6 starting date**: June, 5th 2024
-- **Submission deadline** : September, 8th 2024 (23:59, Anywhere On Earth)
+**Season 6 is now over**: We will announce the winners and their solutions in the coming days. Stay tuned for the upcoming Season 7!
 <br></br>
 
 ## 👉 Register
