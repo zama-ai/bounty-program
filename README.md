@@ -24,7 +24,7 @@ The Zama Bounty Program offers monetary rewards for tackling specific challenges
 This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.<br></br>
 
 ## 📃 Table of Content
-- [Season 6 Bounties](#-season-6-bounties)
+- [Season 7](#-season-7)
 - [Register](#-register)
 - [Leaderboard](#-leaderboard)
 - [Previous Winning Solutions](#-previous-winning-solutions)
@@ -32,21 +32,8 @@ This initiative aims to inspire and incentivize the developer community to creat
 - [FAQ](#faq)
 <br></br>
 
-## 💰 Season 6 Bounties
-
-Each season, we introduce bounties targeting a specific Zama library. All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
-
-- [Enhance the performance of the TFHE-rs library](https://github.com/zama-ai/bounty-program/issues/126)`€10,000`
-- [Create a privacy-preserving image style transfer application using Concrete ML](https://github.com/zama-ai/bounty-program/issues/127) `€10,000`
-- [Create a confidential variant of ERC-3643 security token standard using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/128) `€10,000`
-  
-
->[!Note]
-> All our benchmarks are run on Amazon EC2 HPC7A instances.
-  
-### Important dates
-**Season 6 is now over**: We will announce the winners and their solutions in the coming days. Stay tuned for the upcoming Season 7!
-<br></br>
+## 💰 Season 7
+Coming soon.
 
 ## 👉 Register
 ### Step 1: Registration
@@ -68,41 +55,62 @@ We wish you the best of luck with the challenge!
 <br></br>
 
 
-## 🏆 Leaderboard
-| Rank  | User | Collected |
-| ------------- | ------------- | ------------- |
-| 🏆 | <a href="https://github.com/josesk999"><img src="https://avatars.githubusercontent.com/u/83597627?v=4" width="20px"> JoseSK999</a> | 16,750€
-| 🥈 | <a href="https://github.com/kroist"><img src="https://avatars.githubusercontent.com/u/36311724?v=4" width="20px"> kroist</a> | 13,000€
-| 🥉 | <a href="https://github.com/rklompuu"><img src="https://avatars.githubusercontent.com/u/12587255?v=4" width="20px"> RKlompUU</a> | 10,000€
-| 🥉 | <a href="https://github.com/iamayushanand"><img src="https://avatars.githubusercontent.com/u/11822566?v=4" width="20px"> iamayushanand</a> | 10,000€
-| 5 | <a href="https://github.com/alpaylan"><img src="https://avatars.githubusercontent.com/u/19610315?v=4" width="20px"> Alpaylan</a> | 8,500€
-| 6 | <a href="https://github.com/Lcressot"><img src="https://avatars.githubusercontent.com/u/12514349?v=4" width="20px"> Lcressot</a> | 7,500€
-| 7 | <a href="https://github.com/Tetration-Lab"><img src="https://avatars.githubusercontent.com/u/120179265?s=200&v=4" width="20px"> Tetration-Lab</a> | 7,500€
-| 8 | <a href="https://github.com/poechsel"><img src="https://avatars.githubusercontent.com/u/29667245?v=4" width="20px"> poechsel</a> | 6,800€
-| 9 | <a href="https://github.com/0xalexbel"><img src="https://avatars.githubusercontent.com/u/103489759?v=4" width="20px"> 0xalexbel</a> | 5,000€
-| 10 | <a href="https://github.com/yagizsenal"><img src="https://avatars.githubusercontent.com/u/17150640?v=4" width="20px"> yagizsenal</a> | 4,000€
-| 11 | <a href="https://github.com/Soptq"><img src="https://avatars.githubusercontent.com/u/32592090?v=4" width="20px">Soptq</a> | 4,000€
-| 12 | <a href="https://github.com/alephzerox"><img src="https://avatars.githubusercontent.com/u/56187310?v=4" width="20px">alephzerox</a> | 4,000€
-| 13 | <a href="https://github.com/rasoulam"><img src="https://avatars.githubusercontent.com/u/18232979?v=4" width="20px"> RasoulAM</a> | 3,750€
-| 14 | <a href="https://github.com/GoktugEk"><img src="https://avatars.githubusercontent.com/u/58266670?v=4" width="20px"> GoktugEk</a> | 3,500€
-| 15 | <a href="https://github.com/tomtau"><img src="https://avatars.githubusercontent.com/u/2410580?v=4" width="20px"> tomtau</a> | 3,500€
-| 16 | <a href="https://github.com/Aditya-Chaurasia11"><img src="https://avatars.githubusercontent.com/u/105235806?v=4" width="20px"> Aditya-Chaurasia11</a> | 3,500€
-| 17  | <a href="https://github.com/El-hacen21"><img src="https://avatars.githubusercontent.com/u/93197411?v=4" width="20px"> El-hacen21</a> | 2,500€
-| 18  | <a href="https://github.com/matth-rambaud"><img src="https://avatars.githubusercontent.com/u/10061696?v=4" width="20px"> matth-rambaud</a> | 2,500€
-| 19 | <a href="https://github.com/Juul-Mc-Goa"><img src="https://avatars.githubusercontent.com/u/136829858?v=4" width="20px"> Juul-Mc-Goa</a> | 2,000€
-| 20 | <a href="https://github.com/pbkompasz"><img src="https://avatars.githubusercontent.com/u/47194071?v=4" width="20px"> pbkompasz</a> | 2,000€
-| 21 | <a href="https://github.com/prince-lvov"><img src="https://avatars.githubusercontent.com/u/85033131?v=4" width="20px"> prince-lvov</a> | 2,000€
-| 22 | <a href="https://github.com/M-Bln"><img src="https://avatars.githubusercontent.com/u/88375528?v=4" width="20px"> M-Bln</a> | 1,500€
-| 23 | <a href="https://github.com/joeyiny"><img src="https://avatars.githubusercontent.com/u/5361594?v=4" width="20px"> joeyiny</a> | 1,500€
-| 24 | <a href="https://github.com/amt42"><img src="https://avatars.githubusercontent.com/u/59479833?v=4" width="20px"> AmT42</a> | 500€
-| 25 | <a href="https://github.com/oboulant"><img src="https://avatars.githubusercontent.com/u/12909374?v=4" width="20px"> oboulant</a> | 500€
-| 26 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4" width="20px"> robinstraub</a> | 500€
-| 27 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4" width="20px"> thomas-quadratic</a> | 500€
-| ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20px"> You | [Join Program](https://www.zama.ai/join-the-zama-bounty-program)
+# 🏆 Leaderboard  
+
+| Rank  | User | Collected |  
+| --- | --- | --- |  
+| 🏆 | <a href="https://github.com/josesk999"><img src="https://avatars.githubusercontent.com/u/83597627?v=4&s=20" width="20" height="20"></a> JoseSK999 | 16,750€ |  
+| 🥈 | <a href="https://github.com/kroist"><img src="https://avatars.githubusercontent.com/u/36311724?v=4&s=20" width="20" height="20"></a> kroist | 13,000€ |  
+| 🥉 | <a href="https://github.com/rklompuu"><img src="https://avatars.githubusercontent.com/u/12587255?v=4&s=20" width="20" height="20"></a> RKlompUU | 10,000€ |  
+| 🥉 | <a href="https://github.com/iamayushanand"><img src="https://avatars.githubusercontent.com/u/11822566?v=4&s=20" width="20" height="20"></a> iamayushanand | 10,000€ |  
+| 🥉 | <a href="https://github.com/0xalexbel"><img src="https://avatars.githubusercontent.com/u/103489759?v=4&s=20" width="20" height="20"></a> 0xalexbel | 10,000€ |  
+| 6 | <a href="https://github.com/Soptq"><img src="https://avatars.githubusercontent.com/u/32592090?v=4&s=20" width="20" height="20"></a> Soptq | 9,000€ |  
+| 7 | <a href="https://github.com/alpaylan"><img src="https://avatars.githubusercontent.com/u/19610315?v=4&s=20" width="20" height="20"></a> Alpaylan | 8,500€ |  
+| 8 | <a href="https://github.com/Lcressot"><img src="https://avatars.githubusercontent.com/u/12514349?v=4&s=20" width="20" height="20"></a> Lcressot | 7,500€ |  
+| 8 | <a href="https://github.com/Tetration-Lab"><img src="https://avatars.githubusercontent.com/u/120179265?s=200&v=4&s=20" width="20" height="20"></a> Tetration-Lab | 7,500€ |  
+| 10 | <a href="https://github.com/poechsel"><img src="https://avatars.githubusercontent.com/u/29667245?v=4&s=20" width="20" height="20"></a> poechsel | 6,800€ |  
+| 11 | <a href="https://github.com/qiteblock"><img src="https://avatars.githubusercontent.com/u/27771851?v=4&s=20" width="20" height="20"></a> Qiteblock | 5,000€ |  
+| 12 | <a href="https://github.com/yagizsenal"><img src="https://avatars.githubusercontent.com/u/17150640?v=4&s=20" width="20" height="20"></a> yagizsenal | 4,000€ |  
+| 12 | <a href="https://github.com/alephzerox"><img src="https://avatars.githubusercontent.com/u/56187310?v=4&s=20" width="20" height="20"></a> alephzerox | 4,000€ |  
+| 12 | <a href="https://github.com/prince-lvov"><img src="https://avatars.githubusercontent.com/u/85033131?v=4&s=20" width="20" height="20"></a> prince-lvov | 4,000€ |  
+| 15 | <a href="https://github.com/rasoulam"><img src="https://avatars.githubusercontent.com/u/18232979?v=4&s=20" width="20" height="20"></a> RasoulAM | 3,750€ |  
+| 16 | <a href="https://github.com/GoktugEk"><img src="https://avatars.githubusercontent.com/u/58266670?v=4&s=20" width="20" height="20"></a> GoktugEk | 3,500€ |  
+| 16 | <a href="https://github.com/tomtau"><img src="https://avatars.githubusercontent.com/u/2410580?v=4&s=20" width="20" height="20"></a> tomtau | 3,500€ |  
+| 16 | <a href="https://github.com/Aditya-Chaurasia11"><img src="https://avatars.githubusercontent.com/u/105235806?v=4&s=20" width="20" height="20"></a> Aditya-Chaurasia11 | 3,500€ |  
+| 19 | <a href="https://github.com/pandasamanvaya"><img src="https://avatars.githubusercontent.com/u/44033666?v=4&s=20" width="20" height="20"></a> pandasamanvaya | 3,000€ |  
+| 20 | <a href="https://github.com/El-hacen21"><img src="https://avatars.githubusercontent.com/u/93197411?v=4&s=20" width="20" height="20"></a> El-hacen21 | 2,500€ |  
+| 20 | <a href="https://github.com/matth-rambaud"><img src="https://avatars.githubusercontent.com/u/10061696?v=4&s=20" width="20" height="20"></a> matth-rambaud | 2,500€ |  
+| 22 | <a href="https://github.com/Juul-Mc-Goa"><img src="https://avatars.githubusercontent.com/u/136829858?v=4&s=20" width="20" height="20"></a> Juul-Mc-Goa | 2,000€ |  
+| 22 | <a href="https://github.com/pbkompasz"><img src="https://avatars.githubusercontent.com/u/47194071?v=4&s=20" width="20" height="20"></a> pbkompasz | 2,000€ |  
+| 24 | <a href="https://github.com/M-Bln"><img src="https://avatars.githubusercontent.com/u/88375528?v=4&s=20" width="20" height="20"></a> M-Bln | 1,500€ |  
+| 24 | <a href="https://github.com/joeyiny"><img src="https://avatars.githubusercontent.com/u/5361594?v=4&s=20" width="20" height="20"></a> joeyiny | 1,500€ |  
+| 26 | <a href="https://github.com/amt42"><img src="https://avatars.githubusercontent.com/u/59479833?v=4&s=20" width="20" height="20"></a> AmT42 | 500€ |  
+| 26 | <a href="https://github.com/oboulant"><img src="https://avatars.githubusercontent.com/u/12909374?v=4&s=20" width="20" height="20"></a> oboulant | 500€ |  
+| 26 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4&s=20" width="20" height="20"></a> robinstraub | 500€ |  
+| 26 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4&s=20" width="20" height="20"></a> thomas-quadratic | 500€ |  
+| ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20" height="20"> You | [Join Program](https://www.zama.ai/join-the-zama-bounty-program) |  
+
 <br>
 
 ## 🎯 Previous Winning Solutions
 
+<details>
+  <summary> 
+ <b>Season 6</b>
+  </summary>
+<br>
+
+<b>Concrete ML</b>: [Create a privacy-preserving image style transfer application using Concrete ML](https://github.com/zama-ai/bounty-program/issues/127)
+
+- 🥇 1st place: A [submission](https://github.com/Soptq/concrete-nst) by [Soptq](https://github.com/Soptq)
+- 🥈 2nd place: A [submission](https://github.com/pandasamanvaya/Private-Style-Transfer) by [pandasamanvaya](https://github.com/pandasamanvaya)
+- 🥉 3rd place: A [submission](https://github.com/zaccherinij/qr-code-style-transfer) by [prince-lvov](https://github.com/prince-lvov)
+
+<b>fhEVM</b>: [Create a confidential variant of ERC-3643 security token standard using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/128)
+- 🥇 1st place  ex aequo: A [submission](https://github.com/0xalexbel/fhe-erc3643) by [0xalexbel](https://github.com/0xalexbel)
+- 🥇 1st place  ex aequo: A [submission](https://github.com/QiteBlock/fhevm-hardhat-t-rex) by [QiteBlock](https://github.com/qiteblock)
+
+</details>
 
 <details>
   <summary> 
