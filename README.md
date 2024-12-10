@@ -166,7 +166,7 @@ We wish you the best of luck with the challenge!
 
 👉 Read the blog of the winning solution: [Build an End-to-End Encrypted Shazam Application Using Concrete ML](https://www.zama.ai/post/encrypted-shazam-using-fully-homomorphic-encryption-concrete-ml-tutorial)
 - 🥇 1st place: A [submission](https://github.com/zaccherinij/Concrete_Shazam) by [Iamayushanand](https://github.com/iamayushanand)
-- 🥈 2nd place A [submission](hhttps://github.com/zaccherinij/encrypted-shazam) by [GoktuEk](https://github.com/GoktugEk)
+- 🥈 2nd place A [submission](https://github.com/zaccherinij/encrypted-shazam) by [GoktuEk](https://github.com/GoktugEk)
   
 <b>fhEVM</b>: [Create an on-chain game that keeps private states hidden](https://github.com/zama-ai/bounty-program/issues/81)
 
