@@ -273,4 +273,4 @@ Our program committee is responsible for reviewing your code, merging your final
 
 ### What are the terms and conditions of the Zama Bounty Program?
 
-You can find the full terms and conditions for <a href="https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">individuals</a> and for <a href="https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">companies</a>.
+You can find the full terms and conditions for <a href="https://eu.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=080c2bcd-733e-4d38-b56b-3507e000f608&env=eu&acct=3f0c0a1c-6d14-4ca1-946b-19567fbc8f39&v=2">individuals</a> and for <a href="https://eu.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=c494511f-5834-412a-84e5-ff0d1ec8e65c&env=eu&acct=3f0c0a1c-6d14-4ca1-946b-19567fbc8f39&v=2">companies</a>.
