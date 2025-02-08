@@ -35,34 +35,34 @@ This initiative aims to inspire and incentivize the developer community to creat
 <br></br>
 
 ## 💰 Season 7 Bounties
-Each season, we introduce bounties targeting a specific Zama library. All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
+Each season, we introduce bounties targeting specific Zama libraries. All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
 
 - [Implement a Fully Homomorphic Version of the AES-128 Cryptosystem using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/135) `$10,000` `TFHE-rs`
 - [Create a Privacy-Preserving Invisible Image Watermarking System using Concrete ML](https://github.com/zama-ai/bounty-program/issues/134) `$10,000` `Concrete ML`
 - [Build a Confidential Single-Price Auction for Tokens with Sealed Bids using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/136) `$10,000` `fhEVM`
 
 >[!Note]
-> All our benchmarks are run on Amazon EC2 HPC7A instances.
+> All our benchmarks are run on Amazon EC2 HPC7a instances.
 
 ### Important dates:
 - *Season 7 starting date:* December, 5th 2024
-- *Submission deadline:* February, 9th 2025 (23:59, Anywhere On Earth)
+- *Submission deadline:* February, 9th 2025 (23:59, Anywhere on Earth)
 
 ## 👉 Register
 ### Step 1: Registration
-Click [here](https://www.zama.ai/bounty-program/register) to register for the Bounty that you want to participate. Fill out the registration form with your information. Once you fill out the form, you will receive a confirmation email with a link to the submission portal for when you are ready to submit your code.
+Click [here](https://www.zama.ai/bounty-program/register) to register for the Bounty that you want to participate. Fill out the registration form with your information. After completing the form, you will receive a confirmation email with a link to the submission portal  which you can use when you are ready to submit your code.
 >[!Note]
->Check your spam folder in case you don't receive the confirmation email. If you haven't received it within 24 hour, please contact us by email at bounty@zama.ai.
+>Check your spam folder in case you don't receive the confirmation email. If you haven't received it within 24 hours, please contact us by email at bounty@zama.ai.
 
 ### Step 2: Work on the Challenge
 Read through the Bounty details and requirements carefully. Use the provided resources and create your own GitHub repository to store your code.
 If you have any questions during your work, feel free to comment directly in the Bounty issue and our team will be happy to assist you.
 
 ### Step 3: Submission
-Once you have completed your work, upload your completed work to the submission portal using the link provided in the confirmation email.
+Once you have completed your work, upload it to the submission portal using the link provided in the confirmation email.
 
 >[!Note]
->The deadline for submission is **February, 9th 2025** (23:59, Anywhere On Earth). Late submissions will not be considered.
+>The deadline for submission is **February, 9th 2025** (23:59, Anywhere on Earth). Late submissions will not be considered.
 
 We wish you the best of luck with the challenge!
 <br></br>
