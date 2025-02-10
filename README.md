@@ -12,9 +12,7 @@
   <a href="https://discord.gg/zama"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br>
-<b>Season 7 is live!</b>
-<br/>
-Submission deadline: February 9, 2025 (23:59 AoE)
+
 </p>
 
 ## 🎉 Welcome to the Zama Bounty Program
@@ -26,7 +24,7 @@ The Zama Bounty Program offers monetary rewards for tackling specific challenges
 This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.<br></br>
 
 ## 📃 Table of Content
-- [Season 7 Bounties](#-season-7-bounties)
+- [Season 8 Bounties](#-season-8-bounties)
 - [Register](#-register)
 - [Leaderboard](#-leaderboard)
 - [Previous Winning Solutions](#-previous-winning-solutions)
@@ -34,19 +32,11 @@ This initiative aims to inspire and incentivize the developer community to creat
 - [FAQ](#faq)
 <br></br>
 
-## 💰 Season 7 Bounties
-Each season, we introduce bounties targeting a specific Zama library. All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
-
-- [Implement a Fully Homomorphic Version of the AES-128 Cryptosystem using TFHE-rs](https://github.com/zama-ai/bounty-program/issues/135) `$10,000` `TFHE-rs`
-- [Create a Privacy-Preserving Invisible Image Watermarking System using Concrete ML](https://github.com/zama-ai/bounty-program/issues/134) `$10,000` `Concrete ML`
-- [Build a Confidential Single-Price Auction for Tokens with Sealed Bids using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/136) `$10,000` `fhEVM`
-
->[!Note]
-> All our benchmarks are run on Amazon EC2 HPC7A instances.
+## 💰 Season 8 Bounties
+Coming soon.
 
 ### Important dates:
-- *Season 7 starting date:* December, 5th 2024
-- *Submission deadline:* February, 9th 2025 (23:59, Anywhere On Earth)
+**Season 7 is now over**: We will announce the winners and their solutions in the coming days. Stay tuned for the upcoming Season 8!
 
 ## 👉 Register
 ### Step 1: Registration
@@ -107,6 +97,16 @@ We wish you the best of luck with the challenge!
 
 ## 🎯 Previous Winning Solutions
 
+<details>
+  <summary>
+ <b>Season 7</b>
+  </summary>
+<br>
+  
+Winning solutions will be announced soon!
+
+</details>
+  
 <details>
   <summary>
  <b>Season 6</b>
