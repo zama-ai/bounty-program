@@ -37,9 +37,9 @@ This initiative aims to inspire and incentivize the developer community to creat
 ## 💰 Season 8 Bounties
 Each season, we introduce bounties targeting a specific Zama library. All submissions are evaluated based on the quality of the code, and more importantly the speed performance. At the end of each season, we reward up to 3 submissions per bounty.
 
-- [TO BE ADDED](#) `$10,000` `TFHE-rs`
-- [Create a FHE-based Biological Age and Aging Pace Estimation](#) `$10,000` `Concrete ML`
-- [Build a Confidential Benchmarking and Polling System On-chain](#) `$10,000` `fhEVM`
+- [Develop a Fixed-point Arithmetic API Using Homomorphic Integers within TFHE-rs](https://github.com/zama-ai/bounty-program/issues/142) `$10,000` `TFHE-rs`
+- [Implement an FHE-based Biological Age and Aging Pace Estimation ML Model](https://github.com/zama-ai/bounty-program/issues/143) `$10,000` `Concrete ML`
+- [Build a Confidential Benchmarking and Polling System On-chain](https://github.com/zama-ai/bounty-program/issues/144) `$10,000` `fhEVM`
 
 >[!Note]
 > All our benchmarks are run on Amazon EC2 HPC7A instances.
