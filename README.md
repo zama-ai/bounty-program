@@ -146,7 +146,7 @@ We wish you the best of luck with the challenge!
 
 - 🥇 1st place: A [submission](https://github.com/Soptq/concrete-nst) by [Soptq](https://github.com/Soptq)
 - 🥈 2nd place: A [submission](https://github.com/pandasamanvaya/Private-Style-Transfer) by [pandasamanvaya](https://github.com/pandasamanvaya)
-- 🥉 3rd place: A [submission](https://github.com/zaccherinij/qr-code-style-transfer) by [prince-lvov](https://github.com/prince-lvov)
+- 🥉 3rd place: A [submission](https://github.com/prince-lvov/qr-code-style-transfer) by [prince-lvov](https://github.com/prince-lvov)
 
 <b>fhEVM</b>: [Create a confidential variant of ERC-3643 security token standard using Zama's fhEVM](https://github.com/zama-ai/bounty-program/issues/128)
 - 🥇 1st place  ex aequo: A [submission](https://github.com/0xalexbel/fhe-erc3643) by [0xalexbel](https://github.com/0xalexbel)
