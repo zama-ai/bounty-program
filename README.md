@@ -256,7 +256,7 @@ We wish you the best of luck with the challenge!
 - Email for private questions: bounty@zama.ai
 - Official discord channel for live discussions: [discord.gg/zama](https://discord.gg/zama).
 - Zama community forum for technical questions: [community.zama.ai](https://community.zama.ai).
-- For specific bounty question, comment the dedicated issues.
+- For specific bounty questions, comment the dedicated issues.
 
 <br>
 
@@ -265,7 +265,7 @@ We wish you the best of luck with the challenge!
 
 ### How often is the list of bounties updated?
 
-Season 1 was launched during Q4-2022. A season usually lasts several weeks to months in order to give contributors enough time to work on their submisssions.
+Season 1 was launched during Q4-2022. A season usually lasts several weeks to months in order to give contributors enough time to work on their submissions.
 
 ### How long will it take for a bounty submission to be reviewed?
 
@@ -277,10 +277,10 @@ Every contribution to the bounty program is reviewed as a code submission. If th
 
 
 ### What is the reward for the bounty program?
-Each bounty is attributed a total enveloppe of $10,000 in rewards.
+Each bounty is attributed a total envelope of $10,000 in rewards.
   
 #### 🥇Best submission: up to $5,000.
-To be considered best submission, a contribution must be efficient, effective and demonstrate a deep understanding of the core problem. Alongside the technical correctness, it should also be submitted with a clean code, clear explanations and a complete documentation.
+To be considered best submission, a contribution must be efficient, effective and demonstrate a deep understanding of the core problem. Alongside the technical correctness, it should also be submitted with a clean code, clear explanations, and complete documentation.
 
 #### 🥈Second-best submission: up to $3,000.
 For a contribution to be considered the second best submission, it should be both efficient and effective. The code should be neat and readable, while its documentation might not be as exhaustive as the best submission, it should cover the key aspects of the contribution.
