@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-8-%3498db?style=flat-square"></a>
-  <a href="https://discord.gg/zama"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/zama"><img src="https://img.shields.io/badge/discord-join%20chat-5B5EA6"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br> 
 <b>Season 8 is live!</b>
