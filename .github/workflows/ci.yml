@@ -1,0 +1,30 @@
+
+---
+
+## 3. CI Workflow (`.github/workflows/ci.yml`)
+```yaml
+name: CI
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        toolchain: [stable, nightly]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: ${{ matrix.toolchain }}
+          components: clippy
+      - name: Build & Test
+        run: |
+          cargo +${{ matrix.toolchain }} fmt --all -- --check
+          cargo +${{ matrix.toolchain }} clippy --all-targets -- --deny warnings
+          cargo +${{ matrix.toolchain }} test --workspace -- --nocapture
+      - name: Run Benchmarks
+        if: matrix.toolchain == 'nightly'
+        run: |
+          cargo +nightly bench

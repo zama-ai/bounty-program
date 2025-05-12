@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "crates/fhe_fixed",
+]
+
+[workspace.package]
+authors = ["TheodorNEngoy <engoy.theodor@gmail.com>"]
+edition = "2021"
+version = "0.1.0"

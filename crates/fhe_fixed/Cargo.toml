@@ -1,0 +1,15 @@
+[package]
+name = "fhe_fixed"
+version = "0.1.0"
+edition = "2021"
+authors = ["TheodorNEngoy <engoy.theodor@gmail.com>"]
+description = "Fixed-point arithmetic API using TFHE-rs homomorphic integers."
+homepage = "https://github.com/zama-ai/bounty-program/issues/142"
+license = "MIT"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+tfhe-rs = { git = "https://github.com/zama-ai/tfhe-rs.git" }
+
+[dev-dependencies]
+criterion = "0.4"
