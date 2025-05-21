@@ -12,9 +12,9 @@
   <a href="https://discord.gg/zama"><img src="https://img.shields.io/badge/Discord-Join-%235765f2?style=flat-square&logo=%235865F2"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br> 
-<b>Season 8 is live!</b>
+<b>Season 8 is closed.</b>
 <br/>
-Submission deadline: May 18th, 2025 (23:59 AoE)
+Stay tuned on the <a href = "https://www.zama.ai/blog"> Zama Blog</a> for updates on the winners and the launch of Season 9.
 </p>
 
 ## 🎉 Welcome to the Zama Bounty Program 
