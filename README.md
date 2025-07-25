@@ -12,10 +12,11 @@
   <a href="https://discord.gg/zama"><img src="https://img.shields.io/badge/Discord-Join-%235765f2?style=flat-square&logo=%235865F2"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br>
-<b>This page has been archived.</b>
-<br/>
-Stay tuned on the <a href = "https://guild.xyz/zama/bounty-program"> Zama Guild</a> to join the new seasons of Bounty Program.
-</p>
+
+>[!Note]
+>**This page has been archived.**</b>
+>Join the <a href = "https://guild.xyz/zama/bounty-program"> Zama Guild</a> to participate to the new seasons of Bounty Program.
+
 
 ## 🎉 Welcome to the Zama Bounty Program
 
