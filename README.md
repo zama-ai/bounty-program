@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://github.com/zama-ai/bounty-program#important-dates"><img src="https://img.shields.io/badge/Season-8-%3498db?style=flat-square"></a>
   <a href="https://discord.gg/zama"><img src="https://img.shields.io/badge/Discord-Join-%235765f2?style=flat-square&logo=%235865F2"></a>
+  <a href="https://x.com/zama_fhe"><img src="https://img.shields.io/twitter/follow/zama_fhe"></a>
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br>
 
