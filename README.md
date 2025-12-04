@@ -13,9 +13,9 @@
   <a href="https://zama.ai/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br>
 
->[!Note]
->**This page has been archived.**</b>
->Join the <a href = "https://guild.xyz/zama/bounty-program"> Zama Guild</a> to participate to the new seasons of Bounty Program.
+> Note  
+> **This page has been archived.**  
+> Join the [Zama Guild](https://guild.xyz/zama) to participate in the new seasons of the Bounty Program.
 
 
 ## 🎉 Welcome to the Zama Bounty Program
