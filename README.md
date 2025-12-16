@@ -178,21 +178,21 @@ This initiative aims to inspire and incentivize the developer community to creat
 
 <b>TFHE-rs</b>: [Create a string library that works on encrypted data](https://github.com/zama-ai/bounty-program/issues/80)
 - 🥇 1st place: A [submission](https://github.com/zaccherinij/fhe_strings) by [JoseSK999](https://github.com/JoseSK999)
-- 🥈 2nd place A [submission](https://github.com/zaccherinij/tfhe-rs) by [Tomtau](https://github.com/tomtau/tfhe-rs)
-- 🥉 3rd place : A [submission](https://github.com/zaccherinij/tfhe-rs-string) by  [M-Bln](https://github.com/M-Bln)
+- 🥈 2nd place: A [submission](https://github.com/zaccherinij/tfhe-rs) by [Tomtau](https://github.com/tomtau/tfhe-rs)
+- 🥉 3rd place: A [submission](https://github.com/zaccherinij/tfhe-rs-string) by  [M-Bln](https://github.com/M-Bln)
 
 <b>Concrete & Concrete ML</b>: [Create a privacy preserving version of Shazam](https://github.com/zama-ai/bounty-program/issues/79)
 
 👉 Read the blog of the winning solution: [Build an End-to-End Encrypted Shazam Application Using Concrete ML](https://www.zama.ai/post/encrypted-shazam-using-fully-homomorphic-encryption-concrete-ml-tutorial)
 - 🥇 1st place: A [submission](https://github.com/zaccherinij/Concrete_Shazam) by [Iamayushanand](https://github.com/iamayushanand)
-- 🥈 2nd place A [submission](https://github.com/zaccherinij/encrypted-shazam) by [GoktuEk](https://github.com/GoktugEk)
+- 🥈 2nd place: A [submission](https://github.com/zaccherinij/encrypted-shazam) by [GoktuEk](https://github.com/GoktugEk)
 
 <b>fhEVM</b>: [Create an on-chain game that keeps private states hidden](https://github.com/zama-ai/bounty-program/issues/81)
 
 👉 Read the blog of the winning solution: [Build an Encrypted Wordle Game Onchain using FHE and Zama's fhEVM](https://www.zama.ai/post/build-an-encrypted-wordle-game-onchain-using-fhe-and-zama-fhevm)
 - 🥇 1st place: A [submission](https://github.com/zaccherinij/encryptedWords) by [Kroist](https://github.com/kroist)
-- 🥈 2nd place A [submission](https://github.com/zaccherinij/ZAMA-handcricket) by [Aditya-Chaurasia11](https://github.com/Aditya-Chaurasia11)
-- 🥉 3rd place : A [submission](https://github.com/zaccherinij/FRAMED) by  [Joeyiny](https://github.com/joeyiny)
+- 🥈 2nd place: A [submission](https://github.com/zaccherinij/ZAMA-handcricket) by [Aditya-Chaurasia11](https://github.com/Aditya-Chaurasia11)
+- 🥉 3rd place: A [submission](https://github.com/zaccherinij/FRAMED) by  [Joeyiny](https://github.com/joeyiny)
 </details>
 
 
