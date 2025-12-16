@@ -79,6 +79,9 @@ This initiative aims to inspire and incentivize the developer community to creat
 <br>
 
 ## 🎯 Previous Winning Solutions
+
+This section lists the winning submissions from past bounty seasons, grouped by season and Zama product.
+
 <details>
   <summary>
  <b>Season 8 </b>
