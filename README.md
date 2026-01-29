@@ -283,6 +283,7 @@ The third best submission is one that presents a contribution that effectively t
 
 Check out the [support](#-support) section.
 
+**Discord:** Join the Zama community on [Discord](https://discord.gg/zama) for real-time discussions and support regarding the bounty program.
 
 ### Who is reviewing submissions to the Zama bounty program?
 
