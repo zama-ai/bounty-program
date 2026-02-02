@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /CONTRIBUTING.md
+Disallow: /.github/
+
+Sitemap: https://github.com/zama-ai/bounty-program
