@@ -26,6 +26,13 @@ The Zama Bounty Program offers monetary rewards for tackling specific challenges
 
 This initiative aims to inspire and incentivize the developer community to create FHE applications and address problems that can drive FHE technology forward by a decade! Therefore, our Bounty program emphasizes innovation and contribution, rather than bug fixes.<br></br>
 
+## Learning Resources
+
+To help you succeed with Zama bounties, check out these resources:
+- [Zama Documentation](https://docs.zama.ai) — Official technical docs.
+- [Zama Blog](https://www.zama.ai/blog) — Latest updates and tutorials.
+- [Community Discord](https://discord.g9.ai/zama) — Get help from the team and other hunters.
+
 ## 📃 Table of Content
 - [Leaderboard](#-leaderboard)
 - [Previous Winning Solutions](#-previous-winning-solutions)
