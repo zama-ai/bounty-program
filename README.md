@@ -278,11 +278,16 @@ For a contribution to be considered the second best submission, it should be bot
 #### 🥉Third-best submission: up to €2,000.
 The third best submission is one that presents a contribution that effectively tackles the challenge at hand, even if it may have certain areas of improvement in terms of efficiency or depth of understanding. Documentation should be present, covering the essential components of the contribution.
 
-
+### Submission Checklist
+Before submitting your bounty work, ensure:
+- [ ] Your code follows the project's style guidelines.
+- [ ] You have included a clear description of your solution.
+- [ ] All tests pass (if applicable).
+- [ ] You have provided your contact information for the reward.
+      
 ### I have more questions, where can I contact the Zama team?
 
 Check out the [support](#-support) section.
-
 
 ### Who is reviewing submissions to the Zama bounty program?
 
