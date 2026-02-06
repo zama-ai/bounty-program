@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+vendor/
+*.egg-info/
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.log
+
+# Git
+.git/
+.gitignore
+
+# Documentation (optional - reduce image size)
+README.md
+CONTRIBUTING.md
