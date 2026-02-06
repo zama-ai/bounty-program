@@ -295,3 +295,30 @@ Our program committee is responsible for reviewing your code, merging your final
 You can find the full terms and conditions for <a href="https://powerforms.docusign.net/481a39f4-8105-4260-9fcd-59d9fa967543?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">individuals</a> and for <a href="https://powerforms.docusign.net/29b850fc-ad19-4d09-9f49-b39bd8965bc0?env=na3&acct=df3f43e5-2075-42dd-a930-8635ec487e8f&accountId=df3f43e5-2075-42dd-a930-8635ec487e8f">companies</a>.
 
 
+
+---
+
+## Resources for Bounty Hunters
+
+### Official Documentation
+- Zama Documentation - docs.zama.ai
+- TFHE-rs Guide - docs.zama.ai/tfhe-rs
+- Concrete ML Tutorial - docs.zama.ai/concrete-ml
+
+### Community Channels
+- Zama Discord - discord.gg/XmpGE7ng
+- Zama Twitter - twitter.com/zama_fhe
+- Zama GitHub - github.com/zama-ai
+
+### Learning Resources
+- FHE Explained - www.zama.ai/fhe-resources
+- Academic Papers - github.com/zama-ai/awesome-fhe
+
+### Tools and Utilities
+- TFHE-rs - github.com/zama-ai/tfhe-rs
+- Concrete ML - github.com/zama-ai/concrete-ml
+- Concrete - github.com/zama-ai/concrete
+
+### Bounty Program
+- Bounty Program Overview - ./Terms_and_Conditions
+- Submit a Bounty - ./CONTRIBUTING.md
