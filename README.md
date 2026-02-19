@@ -74,7 +74,7 @@ This initiative aims to inspire and incentivize the developer community to creat
 | 35 | <a href="https://github.com/oboulant"><img src="https://avatars.githubusercontent.com/u/12909374?v=4&s=20" width="20" height="20"></a> oboulant | €500 |
 | 35 | <a href="https://github.com/robinstraub"><img src="https://avatars.githubusercontent.com/u/17799181?v=4&s=20" width="20" height="20"></a> robinstraub | €500 |
 | 35 | <a href="https://github.com/thomas-quadratic"><img src="https://avatars.githubusercontent.com/u/116874460?v=4&s=20" width="20" height="20"></a> thomas-quadratic | €500 |
-| ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20" height="20"> You | [Join Program](https://www.zama.ai/join-the-zama-bounty-program) |
+| ? | <img src="https://lh4.googleusercontent.com/xoCILvhf_VQoN-sgKkwZxBiG8ar8-vqUBFntsYla04_BDAp8k7Q-yq0teK3R_8fLUPQ=w2400" width="20" height="20"> You | [Join Program](https://www.zama.org/programs/creator-program) |
 
 <br>
 
