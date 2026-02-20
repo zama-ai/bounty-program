@@ -1,4 +1,4 @@
-# Reply to issue creation based on type of message opened
+# Reply to issue labeling (trusted actors only)
 name: Welcome New Contributor
 
 on:
@@ -6,13 +6,19 @@ on:
     types:
       - labeled
 
+permissions:
+  issues: write
+
 jobs:
   welcome-new-contributor:
     runs-on: ubuntu-latest
     steps:
-      - name: Greet new proposition
+      - name: Greet new proposition (trusted labelers only)
+        if: >
+          github.event.label.name == '📄 Grant application' &&
+          (github.event.sender.type != 'Bot') &&
+          (github.event.sender.login == 'aquint-zama' || github.event.sender.login == 'zaccherinij')
         uses: peter-evans/create-or-update-comment@ca08ebd5dc95aa0cd97021e9708fcd6b87138c9b
-        if: github.event.label.name == '📄 Grant application'
         with:
           token: ${{ secrets.CONCRETE_ACTIONS_TOKEN }}
           issue-number: ${{ github.event.issue.number }}

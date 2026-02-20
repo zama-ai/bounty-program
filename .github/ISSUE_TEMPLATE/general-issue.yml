@@ -1,0 +1,41 @@
+name: General Issue
+description: Report a problem or request an improvement
+title: "[ISSUE] <enter issue title>"
+labels: ["tpl-gral-issue"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## General Issue
+        Please complete the form below.
+
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact Level
+      description: Select the impact level
+      options:
+        - Select impact level
+        - LOW (minor inconvenience)
+        - MEDIUM (affects functionality)
+        - HIGH (major functionality broken)
+        - CRITICAL (security or production impact)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Clearly describe or detail the issue. (** No links or url are allowed**)
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Provide additional information such as logs or traces. (** No links or url are allowed**)
+    validations:
+      required: false
