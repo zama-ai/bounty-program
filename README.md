@@ -15,7 +15,7 @@
 
 >[!Note]
 >**This page has been archived.**</b>
->Join the <a href = "https://guild.xyz/zama/bounty-program"> Zama Guild</a> to participate to the new seasons of Bounty Program.
+>Explore the <a href = "https://www.zama.org/developer-hub#developer-program"> Zama Developer Program</a> to participate to the new bounties.
 
 
 ## 🎉 Welcome to the Zama Bounty Program
